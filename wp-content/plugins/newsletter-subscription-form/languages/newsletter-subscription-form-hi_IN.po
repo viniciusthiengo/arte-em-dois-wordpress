@@ -1,0 +1,1972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: about-me-pro\n"
+"POT-Creation-Date: 2017-02-07 13:15+0530\n"
+"PO-Revision-Date: 2017-02-07 13:15+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: languages\n"
+
+#: newsletter-subscription-form.php:21 options/option-panel.php:9
+msgid "Newsletter Subscription Form"
+msgstr ""
+
+#: options/default-options.php:55 options/default-options.php:158
+msgid "SUBSCRIBE TO NEWSLETTER"
+msgstr ""
+
+#: options/default-options.php:57 options/default-options.php:160
+msgid "Subscribe to our mailing list to get updates to your email inbox."
+msgstr ""
+
+#: options/default-options.php:58 options/default-options.php:161
+msgid "GET MONTHLY NEWSLETTER"
+msgstr ""
+
+#: options/default-options.php:68 options/default-options.php:168
+msgid "Thank you! We will be back with the quote."
+msgstr "धन्यवाद! हम उद्धरण के साथ वापस हो जाएगा।"
+
+#: options/default-options.php:69 options/default-options.php:169
+msgid "You have already subscribed."
+msgstr "आप पहले से ही सदस्यता ली है।"
+
+#: options/default-options.php:71 options/default-options.php:171
+msgid "Thank You!!! Subscription has been confirmed. We will notify when the site is live."
+msgstr "धन्यवाद!!! सदस्यता पुष्टि की गई है। हम सूचित करेंगे साइट रहते है जब।"
+
+#: options/default-options.php:72 options/default-options.php:172
+msgid "You subscription is already active. We will notify when the site is live."
+msgstr "हम आपको सूचित करेंगे जब आपके अनुरोध को स्वीकार कर लिया जाएगा ।"
+
+#: options/default-options.php:73 options/default-options.php:173
+msgid "Error: Invalid subscription details."
+msgstr "त्रुटि: अमान्य सदस्यता विवरण।"
+
+#: options/option-panel.php:53 options/option-panel.php:58 options/option-panel.php:63
+#: options/option-panel.php:73 options/option-panel.php:78 options/option-panel.php:83
+msgid "Success!"
+msgstr "सफलता!"
+
+#: options/option-panel.php:53
+msgid "Data Save Successfully."
+msgstr "डेटा सफलतापूर्वक सेव ।"
+
+#: options/option-panel.php:58
+msgid "Data Reset Successfully."
+msgstr "सफलतापूर्वक, डेटा फिर से कायम ।"
+
+#: options/option-panel.php:63
+msgid "All Data restored Successfully."
+msgstr ""
+
+#: options/option-panel.php:68
+msgid "Activated!"
+msgstr ""
+
+#: options/option-panel.php:68
+msgid "Theme Activate Successfully."
+msgstr ""
+
+#: options/option-panel.php:73
+msgid "Selected Data Remove Successfully."
+msgstr "आपका चयनित डेटा सफलतापूर्वक निकाला गया।"
+
+#: options/option-panel.php:78
+msgid "All Data Removed Successfully."
+msgstr "सभी डेटा सफलतापूर्वक निकाला गया।"
+
+#: options/option-panel.php:83
+msgid "Mail sent Successfully."
+msgstr "संदेश सफलतापूर्वक भेजा गया."
+
+#: options/option-panel.php:93
+msgid "Newsletter Subscription Form Pro"
+msgstr ""
+
+#: options/option-panel.php:94
+msgid "Connect your visitors"
+msgstr ""
+
+#: options/option-panel.php:99
+msgid "More Then 5 Pro Template"
+msgstr ""
+
+#: options/option-panel.php:100
+msgid "Easy Integration with More then 5 News Letter Subscriptions APIs services "
+msgstr ""
+
+#: options/option-panel.php:101
+msgid "Multiple form with different mail services( Mail API ) forms and color schemes"
+msgstr ""
+
+#: options/option-panel.php:102
+msgid "More shortcodes and more options with widget"
+msgstr ""
+
+#: options/option-panel.php:103
+msgid "Manage Subscriber with download .CSV file option"
+msgstr ""
+
+#: options/option-panel.php:104
+msgid "Auto & Manual Notification To Subscribers"
+msgstr ""
+
+#: options/option-panel.php:105
+msgid "Notify All and selected Subscriber"
+msgstr ""
+
+#: options/option-panel.php:106
+msgid "Responsive dashboard, Form Templates design"
+msgstr ""
+
+#: options/option-panel.php:107
+msgid "Easy to use, user friendly interface"
+msgstr ""
+
+#: options/option-panel.php:108
+msgid "User friendly Descriptive section design with message tool tips"
+msgstr ""
+
+#: options/option-panel.php:109
+msgid "Multi Site Support"
+msgstr ""
+
+#: options/option-panel.php:110
+msgid "Multilingual Translate Plugin In Any Language"
+msgstr ""
+
+#: options/option-panel.php:111
+msgid "Unlimited Social Media Profile Links"
+msgstr ""
+
+#: options/option-panel.php:112
+msgid "500+ Google Fonts Family"
+msgstr ""
+
+#: options/option-panel.php:113
+msgid "Unlimited Color Scheme"
+msgstr ""
+
+#: options/option-panel.php:114
+msgid "Bootstrap Based Responsive Plugin Settings Panel"
+msgstr ""
+
+#: options/option-panel.php:115
+msgid "Compatible With Most WordPress Theme"
+msgstr ""
+
+#: options/option-panel.php:116
+msgid "Latest Font Awesome Icon"
+msgstr ""
+
+#: options/option-panel.php:117
+msgid "Multilingual & Translation Ready"
+msgstr ""
+
+#: options/option-panel.php:118
+msgid "Compatible With All Major Browsers"
+msgstr ""
+
+#: options/option-panel.php:119
+msgid "Complete Plugin Documentation"
+msgstr ""
+
+#: options/option-panel.php:120
+msgid "Friendly and Professional Support Team"
+msgstr ""
+
+#: options/option-panel.php:125
+msgid "Try Live Demo"
+msgstr ""
+
+#: options/option-panel.php:126 options/option-panel.php:130
+msgid "Click Here"
+msgstr "यहां क्लिक करे"
+
+#: options/option-panel.php:129
+msgid "Try Before Buy Using Admin Demo"
+msgstr ""
+
+#: options/option-panel.php:134
+msgid "Upgrade To Pro Version Only In $7"
+msgstr ""
+
+#: options/option-panel.php:135
+msgid "Check Detail"
+msgstr ""
+
+#: options/option-panel.php:144
+msgid " Support Forum"
+msgstr "सहायता मंच"
+
+#: options/option-panel.php:145
+msgid " View Documentation"
+msgstr "प्रलेखन देखें"
+
+#: options/option-panel.php:152
+#, php-format
+msgid "%sDo you like this plugin?"
+msgstr ""
+
+#: options/option-panel.php:153
+#, php-format
+msgid "%s Please take a few seconds to %srate it on WordPress.org%s!"
+msgstr ""
+
+#: options/option-panel.php:183
+msgid "Templates Option"
+msgstr ""
+
+#: options/option-panel.php:184
+msgid "Skin Layout"
+msgstr "स्किन लेआउट"
+
+#: options/option-panel.php:185
+msgid "Social Media Options"
+msgstr "सोशल मीडिया के विकल्प"
+
+#: options/option-panel.php:186
+msgid "Subscriber Settings"
+msgstr ""
+
+#: options/option-panel.php:187
+msgid "Subscriber Provider Option"
+msgstr ""
+
+#: options/option-panel.php:188
+msgid "Subscriber List Option"
+msgstr ""
+
+#: options/option-panel.php:189
+msgid "Get Premium Version"
+msgstr ""
+
+#: options/option-panel.php:247
+msgid "Newsletter Form Widget"
+msgstr ""
+
+#: options/option-panel.php:250
+msgid "Widget For Newsletter Subscription Form"
+msgstr ""
+
+#: options/option-panel.php:283
+msgid "New title"
+msgstr ""
+
+#: options/option-panel.php:295
+msgid "Title:"
+msgstr ""
+
+#: options/option-panel.php:299
+msgid "Select Template:"
+msgstr ""
+
+#: options/option-panel.php:301
+msgid "Template 1"
+msgstr "प्रभाव 1"
+
+#: options/option-panel.php:302
+msgid "Template 2"
+msgstr "प्रभाव 2"
+
+#: options/option-settings.php:7
+msgid "Templates Options"
+msgstr ""
+
+#: options/option-settings.php:13
+msgid "Use Shortcode = [nls_form] to show subscriber form at post and page."
+msgstr ""
+
+#: options/option-settings.php:14
+msgid ""
+"Use Shortcode with Theme = [nls_theme1] to show subscriber form with theme 1 at post and "
+"page for theme 2 use [nls_theme2]."
+msgstr ""
+
+#: options/option-settings.php:15
+msgid "You can also use Newsletter Widget menu at widget section."
+msgstr ""
+
+#: options/option-settings.php:20
+msgid "Activate ( Theme Switch ): "
+msgstr ""
+
+#: options/option-settings.php:20
+msgid "First select any below theme, then click on activate button."
+msgstr ""
+
+#: options/option-settings.php:21
+msgid "Restore Defaults : "
+msgstr ""
+
+#: options/option-settings.php:21
+msgid "Restored the default data of only theme and layout section"
+msgstr ""
+
+#: options/option-settings.php:22
+msgid "Restored all settings : "
+msgstr ""
+
+#: options/option-settings.php:22
+msgid "Restored the default data of all sections. excluding the subscribers data table"
+msgstr ""
+
+#: options/option-settings.php:28 options/option-settings.php:191
+#: options/option-settings.php:259 options/option-settings.php:412
+#: options/option-settings.php:622 options/option-settings.php:751
+msgid "Restore Defaults"
+msgstr "पहले जैसा कर देना"
+
+#: options/option-settings.php:29
+msgid "Activate"
+msgstr ""
+
+#: options/option-settings.php:30
+msgid "Restored all settings"
+msgstr ""
+
+#: options/option-settings.php:43
+msgid "Theme"
+msgstr ""
+
+#: options/option-settings.php:45
+msgid "Activated"
+msgstr ""
+
+#: options/option-settings.php:48
+msgid "Selected !!!"
+msgstr ""
+
+#: options/option-settings.php:48
+msgid "Please Click On Activate Button"
+msgstr ""
+
+#: options/option-settings.php:62
+msgid "Template "
+msgstr ""
+
+#: options/option-settings.php:63
+msgid "Available In Pro Version!!!"
+msgstr ""
+
+#: options/option-settings.php:64
+msgid "Get Pro Plugin"
+msgstr ""
+
+#: options/option-settings.php:77
+msgid "Skin Color Settings"
+msgstr "त्वचा का रंग सेटिंग"
+
+#: options/option-settings.php:84
+msgid "Theme Color Schemes"
+msgstr "थीम रंग योजनाएं"
+
+#: options/option-settings.php:85
+msgid "Select color Schemes for page theme layout."
+msgstr "पेज विषय लेआउट के लिए रंग योजनाओं का चयन करें।"
+
+#: options/option-settings.php:88 options/option-settings.php:113
+msgid "Custom Color"
+msgstr ""
+
+#: options/option-settings.php:89 options/option-settings.php:96
+msgid "Default Color"
+msgstr ""
+
+#: options/option-settings.php:97
+msgid "Select default color for you theme."
+msgstr ""
+
+#: options/option-settings.php:99
+msgid "Default"
+msgstr "डिफ़ॉल्ट"
+
+#: options/option-settings.php:100
+msgid "Blue"
+msgstr "नीला"
+
+#: options/option-settings.php:101
+msgid "Green"
+msgstr "हरा"
+
+#: options/option-settings.php:102
+msgid "Red"
+msgstr "लाल"
+
+#: options/option-settings.php:103
+msgid "Pink"
+msgstr "गुलाबी"
+
+#: options/option-settings.php:104
+msgid "Orange"
+msgstr ""
+
+#: options/option-settings.php:105
+msgid "Brown"
+msgstr ""
+
+#: options/option-settings.php:106
+msgid "Purple"
+msgstr ""
+
+#: options/option-settings.php:107
+msgid "Sky-Blue"
+msgstr ""
+
+#: options/option-settings.php:108
+msgid "Litered"
+msgstr ""
+
+#: options/option-settings.php:114
+msgid "Enable Custom color Schemes and set your color Schemes using color picker."
+msgstr ""
+
+#: options/option-settings.php:123
+msgid "Template Font Family"
+msgstr ""
+
+#: options/option-settings.php:138
+msgid "All Section Settings"
+msgstr ""
+
+#: options/option-settings.php:139
+msgid "Settings for all service, team, testimonials and others section"
+msgstr ""
+
+#: options/option-settings.php:143
+msgid "Headings Font Size ( H2 )"
+msgstr ""
+
+#: options/option-settings.php:154
+msgid "Icon Size"
+msgstr ""
+
+#: options/option-settings.php:165
+msgid "Sub Headings Font Size ( H4 )"
+msgstr ""
+
+#: options/option-settings.php:176
+msgid "description Font Size ( P )"
+msgstr ""
+
+#: options/option-settings.php:192 options/option-settings.php:260
+#: options/option-settings.php:413 options/option-settings.php:623
+#: options/option-settings.php:752
+msgid "Save Options"
+msgstr "विकल्प सेव करें"
+
+#: options/option-settings.php:201
+msgid "Social Media"
+msgstr ""
+
+#: options/option-settings.php:206
+msgid "Social Icons"
+msgstr ""
+
+#: options/option-settings.php:207
+msgid "Social Icons on Header On/OFF"
+msgstr ""
+
+#: options/option-settings.php:222
+msgid "Social Icon"
+msgstr ""
+
+#: options/option-settings.php:225
+msgid "Get more font-awesome icon "
+msgstr ""
+
+#: options/option-settings.php:225
+msgid "click here"
+msgstr ""
+
+#: options/option-settings.php:228
+msgid "Enter FontAwesome Social Icon Here"
+msgstr "फ़ॉन्ट भयानक चिह्न यहाँ दर्ज करें "
+
+#: options/option-settings.php:232
+msgid "Color"
+msgstr "रंग"
+
+#: options/option-settings.php:237
+msgid "Enter Social Icon and Background Color Here"
+msgstr ""
+
+#: options/option-settings.php:241
+msgid "Link"
+msgstr ""
+
+#: options/option-settings.php:244
+msgid "Open As New Tab  "
+msgstr "नए टैब के रूप में खोलें"
+
+#: options/option-settings.php:246
+msgid "Link Open Into New Tab ON/OFF"
+msgstr "नया टैब पर लिंक खुले  चालू / बंद"
+
+#: options/option-settings.php:249
+msgid "Enter Social Link Here"
+msgstr "यहाँ सामाजिक लिंक दर्ज करें।"
+
+#: options/option-settings.php:270
+msgid "Subscribers Settings"
+msgstr ""
+
+#: options/option-settings.php:274
+msgid "Subscriber Section Settings"
+msgstr ""
+
+#: options/option-settings.php:276
+msgid "Title"
+msgstr "शीर्षक"
+
+#: options/option-settings.php:277
+msgid "Type here subscriber form Heading"
+msgstr "यहां लिखें ग्राहक फार्म उप शीर्षक"
+
+#: options/option-settings.php:284
+msgid "Font Awesome Icons"
+msgstr "फ़ॉन्ट ओसम प्रतीक"
+
+#: options/option-settings.php:285 options/option-settings.php:294
+msgid "Type here subscriber form Sub Heading"
+msgstr "यहां लिखें ग्राहक फार्म उप शीर्षक"
+
+#: options/option-settings.php:290
+msgid "Get more font-awesome icon"
+msgstr ""
+
+#: options/option-settings.php:290
+msgid "click here</a>   "
+msgstr ""
+
+#: options/option-settings.php:293
+msgid "Sub Title"
+msgstr "उप शीर्षक"
+
+#: options/option-settings.php:301 options/option-settings.php:656
+msgid "Message"
+msgstr "संदेश"
+
+#: options/option-settings.php:302
+msgid "Type here subscriber form  Message"
+msgstr "यहां लिखें ग्राहक फार्म संदेश"
+
+#: options/option-settings.php:310
+msgid "Subscriber Form Settings"
+msgstr "ग्राहक फार्म सेटिंग"
+
+#: options/option-settings.php:311
+msgid "Type here subscriber form  Setting"
+msgstr "यहां लिखें ग्राहक फार्म की स्थापना"
+
+#: options/option-settings.php:315
+msgid "Show First and Last Name"
+msgstr ""
+
+#: options/option-settings.php:316
+msgid "Enable to enter first and last name to user in form "
+msgstr ""
+
+#: options/option-settings.php:325
+msgid "First Name Placeholder "
+msgstr "पहला नाम प्लेसहोल्डर"
+
+#: options/option-settings.php:333
+msgid "Last Name Placeholder "
+msgstr "अंतिम नाम प्लेसहोल्डर"
+
+#: options/option-settings.php:342
+msgid "Button Text"
+msgstr "टेक्स्ट बटन"
+
+#: options/option-settings.php:350
+msgid "Email Placeholder "
+msgstr "ईमेल प्लेसहोल्डर"
+
+#: options/option-settings.php:358
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: options/option-settings.php:366
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: options/option-settings.php:376
+msgid "Subscribe Success Message"
+msgstr "सदस्यता सफल संदेश"
+
+#: options/option-settings.php:377
+msgid "Add a text message for Subscribed Success Message"
+msgstr "सदस्यता के लिए सफलता संदेश एक पाठ संदेश जोड़ें"
+
+#: options/option-settings.php:383
+msgid "Subscribe Invalid Message"
+msgstr "सदस्यता अमान्य संदेश"
+
+#: options/option-settings.php:384
+msgid "Add a text for Invalid Email Id Message"
+msgstr "के लिए अमान्य ईमेल आईडी संदेश एक पाठ जोड़ें"
+
+#: options/option-settings.php:390
+msgid "Subscribe After Confirmation Success Message"
+msgstr "सदस्यता सफल संदेश के बाद पुष्टि "
+
+#: options/option-settings.php:391
+msgid "Add a text for a confirmation message."
+msgstr "एक पुष्टिकरण संदेश के लिए एक टेक्स्ट जोड़ें।"
+
+#: options/option-settings.php:397
+msgid "Already Subscribed Information Message"
+msgstr "पहले से ही जानकारी संदेश सदस्यता लिया"
+
+#: options/option-settings.php:398
+msgid "Add a text for a already subscribed message."
+msgstr "एक पहले से ही सदस्यता ली संदेश के लिए एक टेक्स्ट जोड़ें।"
+
+#: options/option-settings.php:404
+msgid "Invaid Details send Error Message"
+msgstr "अमान्य विवरण त्रुटि संदेश भेजने"
+
+#: options/option-settings.php:405
+msgid ""
+"Add a text for a error message about showing of the Invalid details sent by subscribed users"
+msgstr "एक त्रुटि संदेश के लिए एक पाठ सब्सक्राइब्ड उपयोगकर्ताओं द्वारा भेजे गए अवैध विवरण के दिखाने के बारे मे"
+
+#: options/option-settings.php:422
+msgid "Subscribers Provider Options"
+msgstr ""
+
+#: options/option-settings.php:427
+msgid "Enable Email Based Subscriptions"
+msgstr "ईमेल के आधार पर सदस्यता को सक्षम"
+
+#: options/option-settings.php:430
+msgid "Enable the email confirmation system for valid subscribers."
+msgstr "वैध ग्राहकों के लिए ईमेल पुष्टि प्रणाली सक्षम करें।"
+
+#: options/option-settings.php:437
+msgid ""
+"If Email Subscription is Enable: You have option \"Wp Mail\"  to mail the subscribers and "
+"confirm its subscription through email."
+msgstr ""
+
+#: options/option-settings.php:439
+msgid ""
+"If email subscription option is disable: Email confirmation process not required. Users/"
+"Visitors will be added at subscriber list as active subscriber."
+msgstr ""
+"यदि, ईमेल सदस्यता विकल्प बंद है : ईमेल पुष्टिकरण प्रक्रिया की आवश्यकता नहीं । उपयोगकर्ताओं / आगंतुकों सक्रिय "
+"सदस्य के रूप में ग्राहकों की सूची में जोड़ दिया जाएगा।"
+
+#: options/option-settings.php:445
+msgid "Select Email Carrier Type"
+msgstr "चयन ईमेल वाहक प्रकार"
+
+#: options/option-settings.php:446
+msgid "Select a email carrier type to send subscriber mails"
+msgstr "ग्राहक मेल भेजने के लिए एक ईमेल के वाहक प्रकार का चयन करें"
+
+#: options/option-settings.php:450
+msgid "WP Mail"
+msgstr "डब्ल्यू पी मेल"
+
+#: options/option-settings.php:451
+msgid "Mad Mimi"
+msgstr ""
+
+#: options/option-settings.php:452
+msgid "MailChimp"
+msgstr ""
+
+#: options/option-settings.php:455
+msgid ""
+"WordPress Guideline: PHP Mailer Library Removed due to not supported by WordPress.org 4.7.2."
+msgstr ""
+
+#: options/option-settings.php:461
+msgid "WP Mail Subscriber"
+msgstr "डब्ल्यू पी मेल सदस्यता "
+
+#: options/option-settings.php:464
+msgid "Mail ID"
+msgstr "मेल आईडी"
+
+#: options/option-settings.php:465
+msgid "Add Sender Email Id. By default User mail id has added"
+msgstr "प्रेषक ईमेल आईडी जोड़ें । डिफ़ॉल्ट रूप से उपयोगकर्ता मेल आईडी जोड़ा गया है"
+
+#: options/option-settings.php:472
+msgid "Mad Mimi Settings"
+msgstr ""
+
+#: options/option-settings.php:475
+msgid "Username or Email : "
+msgstr ""
+
+#: options/option-settings.php:476
+msgid "Enter your Madmimi username or email which are using in madmimi."
+msgstr ""
+
+#: options/option-settings.php:482
+msgid "Api Key"
+msgstr ""
+
+#: options/option-settings.php:484
+msgid "Enter madmimi api key."
+msgstr ""
+
+#: options/option-settings.php:505
+msgid "List"
+msgstr ""
+
+#: options/option-settings.php:507
+msgid "Select Your List Option."
+msgstr ""
+
+#: options/option-settings.php:535
+msgid "You can find all other Madmimi configuration settings "
+msgstr ""
+
+#: options/option-settings.php:535 options/option-settings.php:615
+msgid "HERE"
+msgstr ""
+
+#: options/option-settings.php:540
+msgid "MailChimp Settings"
+msgstr ""
+
+#: options/option-settings.php:543
+msgid "API Key : "
+msgstr ""
+
+#: options/option-settings.php:544
+msgid "Enter your Api key."
+msgstr ""
+
+#: options/option-settings.php:545
+msgid "Get your Api key"
+msgstr ""
+
+#: options/option-settings.php:602
+msgid "List : "
+msgstr ""
+
+#: options/option-settings.php:603
+msgid "Select you mailchimp list."
+msgstr ""
+
+#: options/option-settings.php:615
+msgid "You can find all Mailchimp configuration settings "
+msgstr ""
+
+#: options/option-settings.php:632
+msgid "Subscribers Options and List"
+msgstr "सभी सदस्य विकल्प और सूची"
+
+#: options/option-settings.php:637
+msgid "Manual E-Mail To Subscribers"
+msgstr ""
+
+#: options/option-settings.php:638
+msgid "This section used for mail to subscriber user"
+msgstr "यह खंड उपयोगकर्ता ग्राहक के लिए मेल के लिए इस्तेमाल किया "
+
+#: options/option-settings.php:641
+msgid "Select options"
+msgstr "विकल्प चुनो"
+
+#: options/option-settings.php:642
+msgid ""
+"Below selection option have some types of user list (Active users , Pending users, Already "
+"mailed users)"
+msgstr ""
+"चयन के विकल्प नीचे उपयोगकर्ता सूची के कुछ प्रकार (सक्रिय उपयोगकर्ताओं, विचाराधीन उपयोगकर्ताओं, पहले से ही "
+"भेज दिया उपयोगकर्ताओं) है"
+
+#: options/option-settings.php:646
+msgid "All Users"
+msgstr "सभी उपयोगकर्ताओं"
+
+#: options/option-settings.php:647
+msgid "Selected Users"
+msgstr "चयनित उपयोगकर्ता"
+
+#: options/option-settings.php:648
+msgid "Pending Users"
+msgstr "बकाया उपयोगकर्ताओं"
+
+#: options/option-settings.php:649
+msgid "Active Users"
+msgstr "सक्रिय उपयोगकर्ता"
+
+#: options/option-settings.php:650
+msgid "Mail Received Users"
+msgstr "मेल प्राप्त उपयोगकर्ता"
+
+#: options/option-settings.php:653
+msgid "Subject"
+msgstr "विषय"
+
+#: options/option-settings.php:654
+msgid "Add a Subject for sending mail."
+msgstr "मेल भेजने के लिए एक विषय जोड़ें।"
+
+#: options/option-settings.php:657
+msgid "Add a Message to send subscriber users"
+msgstr "एक संदेश ग्राहक उपयोगकर्ताओं को भेजने में जोड़े"
+
+#: options/option-settings.php:658
+msgid "Add a Message to send subscriber Users"
+msgstr "एक संदेश ग्राहक उपयोगकर्ताओं को भेजने में जोड़े"
+
+#: options/option-settings.php:660
+msgid "Send"
+msgstr "भेजें"
+
+#: options/option-settings.php:665
+msgid "Manage Subscribed User Data-Table"
+msgstr ""
+
+#: options/option-settings.php:674
+msgid "Remove Selected Subscriber"
+msgstr "चुने गए सब्सक्राइबर हटाये"
+
+#: options/option-settings.php:675
+msgid "Removed All Users"
+msgstr "सभी उपयोगकर्ताओं हटाये"
+
+#: options/option-settings.php:684
+msgid "Data Delete SuccessFully"
+msgstr "आपका चयनित डेटा सफलतापूर्वक निकाला गया"
+
+#: options/option-settings.php:687
+msgid "Your Selected Data Removed SuccessFully"
+msgstr "आपका चयनित डेटा सफलतापूर्वक निकाला गया"
+
+#: options/option-settings.php:690
+msgid "Close"
+msgstr "बंद करे"
+
+#: options/option-settings.php:708
+msgid "First Name"
+msgstr "प्रथम नाम"
+
+#: options/option-settings.php:711
+msgid "Last Name"
+msgstr "अंतिम नाम"
+
+#: options/option-settings.php:714
+msgid "Email"
+msgstr "ईमेल"
+
+#: options/option-settings.php:717
+msgid "Date"
+msgstr "तिथि"
+
+#: options/option-settings.php:720
+msgid "Subscription Status"
+msgstr "सदस्य स्थिति"
+
+#: options/option-settings.php:741
+msgid "No Subscribers Found."
+msgstr "कोई सदस्य नही पाया"
+
+#: options/option-settings.php:761
+msgid "Get Coming Soon Page & Maintenance Mode Pro"
+msgstr ""
+
+#: options/option-settings.php:768
+msgid "Feature Set"
+msgstr ""
+
+#: options/option-settings.php:769
+msgid "Price"
+msgstr ""
+
+#: options/option-settings.php:770
+msgid "Multiple Pro Template"
+msgstr ""
+
+#: options/option-settings.php:771
+msgid "News Letter Subscription"
+msgstr ""
+
+#: options/option-settings.php:772
+msgid "Download Subscriber List"
+msgstr ""
+
+#: options/option-settings.php:773
+msgid "Auto & Manual Notification"
+msgstr ""
+
+#: options/option-settings.php:774
+msgid "Major Browser Compatible"
+msgstr ""
+
+#: options/option-settings.php:775
+msgid "Multi Site and Multilingual"
+msgstr ""
+
+#: options/option-settings.php:776
+msgid "Social Media Promotion"
+msgstr ""
+
+#: options/option-settings.php:777
+msgid "Font Family"
+msgstr "फ़ॉन्ट शैली"
+
+#: options/option-settings.php:778
+msgid "Custom Color Schemes"
+msgstr ""
+
+#: options/option-settings.php:779
+msgid "Customized Form"
+msgstr ""
+
+#: options/option-settings.php:780
+msgid "Forms shotcode"
+msgstr ""
+
+#: options/option-settings.php:781
+msgid "Form wise API"
+msgstr ""
+
+#: options/option-settings.php:786
+msgid "Free Version"
+msgstr ""
+
+#: options/option-settings.php:793
+msgid "2 API"
+msgstr ""
+
+#: options/option-settings.php:799
+msgid "General Fonts"
+msgstr ""
+
+#: options/option-settings.php:800
+msgid "Few"
+msgstr ""
+
+#: options/option-settings.php:805
+msgid "Download"
+msgstr ""
+
+#: options/option-settings.php:811
+msgid "Premium Version"
+msgstr ""
+
+#: options/option-settings.php:818
+msgid "6 ( +4 More coming.. )"
+msgstr ""
+
+#: options/option-settings.php:819
+msgid "7 News Latter API"
+msgstr ""
+
+#: options/option-settings.php:830
+msgid "500+ Google Fonts"
+msgstr ""
+
+#: options/option-settings.php:831
+msgid "Unlmited"
+msgstr ""
+
+#: options/option-settings.php:839
+msgid "Buy Now"
+msgstr ""
+
+#: options/themes/form-include/subscriber-from-settings.php:93
+msgid "You have already subscribed"
+msgstr ""
+
+#: options/themes/select_template1.php:61 options/themes/select_template1.php:133
+#: options/themes/select_template2.php:55 options/themes/select_template2.php:143
+msgid "Invalid email address."
+msgstr ""
+
+#~ msgid "Social Icon "
+#~ msgstr "सामाजिक चिह्न "
+
+#~ msgid ""
+#~ "If Email Subscription is Enable: You have two options \"Wp Mail\" and \"SMTP Mail\" to "
+#~ "mail the subscribers and confirm its subscription through email."
+#~ msgstr ""
+#~ "यदि, ईमेल सदस्यता विकल्प चालू है : आपके पास दो विकल्प है  \"डब्ल्यू पी मेल\" और \" एसएमटीपी मेल\" "
+#~ "ग्राहकों को मेल करने के लिए और ईमेल के माध्यम से अपनी सदस्यता की पुष्टि करने के लिए।"
+
+#~ msgid "SMTP Mail"
+#~ msgstr "एसएमटीपी मेल"
+
+#~ msgid "SMTP Host "
+#~ msgstr "एसएमटीपी होस्ट"
+
+#~ msgid ""
+#~ " Add SMTP Host Name Here. For Example - Gmail SMTP host name smtp.gmail.com. Yahoo SMTP "
+#~ "host name smtp.mail.yahoo.com."
+#~ msgstr ""
+#~ "यहाँ जोड़ें एसएमटीपी होस्ट नाम। के लिए उदाहरण - जीमेल एसएमटीपी होस्ट नाम smtp.gmail.com । याहू "
+#~ "एसएमटीपी होस्ट नाम smtp.mail.yahoo.com ।"
+
+#~ msgid "SMTP Port"
+#~ msgstr "एसएमटीपी पोर्ट"
+
+#~ msgid ""
+#~ "Add SMTP Port Number Here. For Example - Gmail SMTP Port is 465 or 587. For Example - "
+#~ "Yahoo SMTP Port is 465 or 587."
+#~ msgstr ""
+#~ "यहाँ जोड़ें एसएमटीपी पोर्ट संख्या। उदाहरण के लिए - जीमेल एसएमटीपी पोर्ट 465 या 587 उदाहरण के लिए - "
+#~ "याहू SMTP पोर्ट 465 या 587 है ।"
+
+#~ msgid "Set The Encryption System To Use - SSL (Deprecated) or TLS"
+#~ msgstr "एन्क्रिप्शन प्रणाली का उपयोग करने के लिए निर्धारित करें - एसएसएल (पदावनत) या टीएलएस"
+
+#~ msgid "Select and Set the encryption system to use - ssl (deprecated) or tls"
+#~ msgstr "का चयन करें और प्रयोग करने में एन्क्रिप्शन प्रणाली सेट - एसएसएल (पदावनत ) या टीएलएस"
+
+#~ msgid "SSL"
+#~ msgstr "एसएसएल"
+
+#~ msgid "TLS"
+#~ msgstr "टीएलएस"
+
+#~ msgid "SMTP Username "
+#~ msgstr "एसएमटीपी यूजर का नाम"
+
+#~ msgid ""
+#~ "Add SMTP Username Here. For Gmail use your gmail email address like myname@gmail.com, "
+#~ "use same as for Yahoo like myname@yahoo.com."
+#~ msgstr ""
+#~ "एसएमटीपी प्रयोक्ता नाम यहाँ जोड़ें। जीमेल के लिए, myname@gmail.com की तरह अपने जीमेल ईमेल पते का "
+#~ "उपयोग myname@yahoo.com तरह याहू के लिए के रूप में ही इस्तेमाल करते हैं।"
+
+#~ msgid "SMTP Password"
+#~ msgstr "एसएमटीपी पासवर्ड"
+
+#~ msgid ""
+#~ "Add SMTP Password Here. For Gmail use your gmail's email account password, use same as "
+#~ "for yahoo email account password."
+#~ msgstr ""
+#~ "एसएमटीपी पासवर्ड यहाँ जोड़ें। जीमेल अपने जीमेल का ईमेल खाते पासवर्ड का उपयोग के लिए, याहू ईमेल खाते के "
+#~ "पासवर्ड के रूप में ही इस्तेमाल करते हैं।"
+
+#~ msgid "Our Site Is Coming Soon!!!"
+#~ msgstr "हमारी साइट जल्द ही आ रहा है !!!"
+
+#~ msgid "SUBSCRIBE TO OUR NEWSLETTER"
+#~ msgstr "हमारे समाचार पत्र के सदस्य बनें"
+
+#~ msgid "In the mean time connect with us to subscribed our newsletter"
+#~ msgstr "मतलब समय में हमारे साथ कनेक्ट करने के लिए हमारे न्यूज़लेटर की सदस्यता ली"
+
+#~ msgid ""
+#~ "Subscribe and we'll notify you on our launch. We'll also throw in a freebie for your "
+#~ "effort."
+#~ msgstr ""
+#~ "सदस्यता लें और हम अपने प्रक्षेपण पर आपको सूचित करेंगे। हम भी अपने प्रयास के लिए एक freebie में फेंक देंगे।"
+
+#~ msgid "Stay Tuned For Something Amazing"
+#~ msgstr "कृपया भविष्य के अद्यतनों के लिए देखते रहें।"
+
+#~ msgid "Responsive Design & Faster User Interface"
+#~ msgstr "उत्तरदायी डिजाइन और तेजी से यूजर इंटरफेस"
+
+#~ msgid "Copyright © 2016 Weblizar Themes & Plugins | All Rights Reserved By"
+#~ msgstr "कॉपीराइट © 2016 Weblizar थीम्स और प्लगइन्स | विशेषाधिकार द्वारा आरक्षित"
+
+#~ msgid "Responsive Coming Soon Page"
+#~ msgstr "रेसपोंसिव कमिंग सून पेज"
+
+#~ msgid "Responsive Coming Soon Page : "
+#~ msgstr "रेसपोंसिव कमिंग सून पेज : "
+
+#~ msgid "Site Coming Soon Mode is Active"
+#~ msgstr "साइट जल्द ही आ रहा मोड सक्रिय है"
+
+#~ msgid "Site 503 - Service unavailable Mode is Active"
+#~ msgstr "साइट 503 - सेवा अनुपलब्ध मोड सक्रिय है"
+
+#~ msgid "General Settings"
+#~ msgstr "सामान्य सेटिंग्स"
+
+#~ msgid "Subscriber Options"
+#~ msgstr "सब्सक्राइबर विकल्प"
+
+#~ msgid "Counter clock Options"
+#~ msgstr "काउंटर घड़ी टाइमर विकल्प"
+
+#~ msgid "Footer Options"
+#~ msgstr "तल विकल्प"
+
+#~ msgid "Advance Options"
+#~ msgstr "एडवांस विकल्प"
+
+#~ msgid " Live Preview"
+#~ msgstr "सजीव पूर्वावलोकन"
+
+#~ msgid "Appearance Settings"
+#~ msgstr "दिखावट सेटिंग्स"
+
+#~ msgid "SEO Settings"
+#~ msgstr "एसईओ सेटिंग्स"
+
+#~ msgid "Access Control Settings"
+#~ msgstr "प्रवेश नियंत्रण सेटिंग"
+
+#~ msgid "Layout Option"
+#~ msgstr "लेआउट विकल्प"
+
+#~ msgid "Appearance Selection Settings"
+#~ msgstr "उपस्थिति चयन सेटिंग"
+
+#~ msgid "Status"
+#~ msgstr "स्थिति"
+
+#~ msgid "Enable Coming Soon and 503 service unavailable Mode on Site."
+#~ msgstr "साइट पर जल्द ही और 503 सेवा अनुपलब्ध मोड आ रहा सक्षम करें।"
+
+#~ msgid "Deactivate"
+#~ msgstr "निष्क्रिय"
+
+#~ msgid "Activate Coming Soon Mode"
+#~ msgstr "जल्द ही आ रहा है मोड को सक्रिय करें"
+
+#~ msgid "503 - Service unavailable"
+#~ msgstr "503 सेवा उपलब्ध नहीं"
+
+#~ msgid "How Plugin Deactivate Mode Works?"
+#~ msgstr "प्लगइन निष्क्रिय मोड कैसे काम करता है?"
+
+#~ msgid "Plugin deactivated, You can choose any action from following list."
+#~ msgstr "प्लगइन निष्क्रिय, आप निम्न सूची से किसी भी कार्रवाई के लिए चुन सकते हैं ।"
+
+#~ msgid "How Coming Soon Mode Works?"
+#~ msgstr "कैसे जल्द ही आ मोड काम करता है?"
+
+#~ msgid "Hide the all site from users and show the Only Coming Soon page template"
+#~ msgstr "उपयोगकर्ताओं से सभी साइट छिपाने के लिए और केवल जल्द ही आ रहा पेज टेम्पलेट दिखाएं"
+
+#~ msgid ""
+#~ "For Maintain the site SEO , You will use it only one time from the launched the site."
+#~ msgstr "के लिए साइट एसईओ बनाए रखें, आप इसे साइट शुरू से केवल एक समय का उपयोग करेगा।"
+
+#~ msgid ""
+#~ "In Our Pro Version, You can used the under construction and maintenance mode in future "
+#~ "for your live site"
+#~ msgstr ""
+#~ "हमारे प्रो संस्करण में , आप निर्माण और रखरखाव मोड के तहत भविष्य में अपने लाइव साइट के लिए इस्तेमाल किया "
+#~ "जा सकता है"
+
+#~ msgid "How 503 - Service unavailable Mode Action"
+#~ msgstr "साइट 503 - सेवा अनुपलब्ध मोड सक्रिय है"
+
+#~ msgid ""
+#~ "The Web server (running the Web site) is currently unable to handle the HTTP request due "
+#~ "to a temporary overloading or maintenance of the server."
+#~ msgstr ""
+#~ "वेब सर्वर (वेब साइट चल रहा है) एक अस्थायी अधिक भार या सर्वर के रखरखाव के कारण वर्तमान में HTTP "
+#~ "अनुरोध को संभालने में असमर्थ है।"
+
+#~ msgid "Coming Soon Mode Settings"
+#~ msgstr "जल्द ही आ मोड सेटिंग"
+
+#~ msgid "Type Here Page Heading"
+#~ msgstr "यहां लिखें पेज शीर्षक"
+
+#~ msgid "Type Here Page Sub Heading"
+#~ msgstr "यहाँ प्रकार पृष्ठ उप शीर्षक"
+
+#~ msgid "Type Here A Message"
+#~ msgstr "यहां एक संदेश लिखें"
+
+#~ msgid "Your Site Logo"
+#~ msgstr "आपकी साइट के लोगो"
+
+#~ msgid "Select logo as text and image "
+#~ msgstr "पाठ और छवि के रूप में लोगो का चयन"
+
+#~ msgid "Logo Text"
+#~ msgstr "लोगो पाठ"
+
+#~ msgid "Logo Image"
+#~ msgstr "लोगो छवि"
+
+#~ msgid "Logo Text "
+#~ msgstr "लोगो पाठ"
+
+#~ msgid "Add your site logo text here "
+#~ msgstr "आपकी साइट के लोगो के पाठ यहाँ जोड़ें"
+
+#~ msgid "Logo Image "
+#~ msgstr "लोगो छवि"
+
+#~ msgid "Add your site logo here suggested size is 250X150"
+#~ msgstr "आपकी साइट के लोगो मे यहाँ का सुझाव दिया आकार 250X150 है"
+
+#~ msgid "Upload Your Logo"
+#~ msgstr "अपलोड साइट लोगो"
+
+#~ msgid "Logo Width "
+#~ msgstr "लोगो चौड़ाई"
+
+#~ msgid "Default Logo Width : 250px, if you want to increase than specify your value"
+#~ msgstr "डिफ़ॉल्ट लोगो चौड़ाई: 250px , आप अपने मान निर्दिष्ट की तुलना में वृद्धि करना चाहते हैं"
+
+#~ msgid "Logo Height "
+#~ msgstr "लोगो ऊँचाई"
+
+#~ msgid "Default Logo Height : 150px, if you want to increase than specify your value"
+#~ msgstr "डिफ़ॉल्ट लोगो ऊंचाई: 150px , आप अपने मान निर्दिष्ट की तुलना में वृद्धि करना चाहते हैं"
+
+#~ msgid "Select Background Type"
+#~ msgstr "चयन पृष्ठभूमि के प्रकार"
+
+#~ msgid "With the Help of selection box you can show page background as your wish"
+#~ msgstr "चयन बॉक्स की मदद से आप अपनी इच्छा के रूप पृष्ठ पृष्ठभूमि दिखा सकते हैं"
+
+#~ msgid "Image"
+#~ msgstr "छवि"
+
+#~ msgid "Background Image"
+#~ msgstr "पीछे की छवि"
+
+#~ msgid "Add Background Image"
+#~ msgstr "पृष्ठभूमि छवि जोड़ें"
+
+#~ msgid "Upload Image"
+#~ msgstr "अपलोड छवि"
+
+#~ msgid "Background Color"
+#~ msgstr "पीछे की छवि"
+
+#~ msgid "Change Background Color"
+#~ msgstr "परिवर्तन पृष्ठभूमि रंग"
+
+#~ msgid "Button Link On/Off"
+#~ msgstr "बटन लिंक चालू बंद"
+
+#~ msgid "Enable Button Link of top Image, Video, Slider."
+#~ msgstr "शीर्ष छवि, वीडियो, स्लाइडर का बटन लिंक सक्षम करें।"
+
+#~ msgid "Add text of button "
+#~ msgstr "बटन का टेक्स्ट जोड़ें"
+
+#~ msgid "Button Link"
+#~ msgstr "बटन लिंक"
+
+#~ msgid "Add link on button"
+#~ msgstr "बटन का लिंक जोड़ें "
+
+#~ msgid "Link to Admin"
+#~ msgstr "व्यवस्थापक के लिए लिंक"
+
+#~ msgid "Enable Admin Link of Dashboard for Users."
+#~ msgstr "उपयोगकर्ताओं के लिए डैशबोर्ड के व्यवस्थापक लिंक सक्षम करें।"
+
+#~ msgid "Link To Admin Text "
+#~ msgstr "व्यवस्थापक के लिए लिंक टेक्स्ट"
+
+#~ msgid "Add text name for Admin Link of Dashboard for Users."
+#~ msgstr "उपयोगकर्ताओं के लिए डैशबोर्ड के व्यवस्थापक लिंक के लिए पाठ का नाम जोड़ें।"
+
+#~ msgid "General Selection Settings"
+#~ msgstr "जनरल चयन सेटिंग"
+
+#~ msgid "Page Meta Title"
+#~ msgstr "पृष्ठ मेटा शीर्षक"
+
+#~ msgid "Type here meta title for seo"
+#~ msgstr "एसईओ के लिए यहाँ मेटा शीर्षक टाइप करें"
+
+#~ msgid "Page Meta Keywords"
+#~ msgstr "पृष्ठ मेटा कीवर्ड"
+
+#~ msgid "Add relative keywords for page and site seo"
+#~ msgstr "पृष्ठ और साइट एसईओ के लिए संबंधित कीवर्ड जोड़ें"
+
+#~ msgid "Page Meta Description"
+#~ msgstr "पृष्ठ मेटा विवरण"
+
+#~ msgid "Type here the page related short and relevent description"
+#~ msgstr "यहां लिखें पेज संबंधित छोटी और प्रासंगिक विवरण"
+
+#~ msgid "Enable Search Robots"
+#~ msgstr "खोजें रोबोट चालू करना "
+
+#~ msgid "Enable the Robot for search"
+#~ msgstr "खोज के लिए रोबोट सक्षम करें"
+
+#~ msgid "Select Robots Meta Tag"
+#~ msgstr "चयन रोबोट मेटा टैग"
+
+#~ msgid ""
+#~ "Search engines like Google, Yahoo and AltaVista show Metatags in their search results. "
+#~ "Robot tag tell the spider ( Search engines ) if you want your whole website or single "
+#~ "page to be crawled or not."
+#~ msgstr ""
+#~ "गूगल, याहू और अल्टा विस्टा शो मेटा टैग इंजन की तरह अपने खोज परिणामों में खोजें । रोबोट टैग मकड़ी ( सर्च "
+#~ "इंजन) बताओ कि तुम अपने पूरे वेबसाइट या एकल पृष्ठ या क्रॉल नहीं किया जा करना चाहते हैं।"
+
+#~ msgid "Your Site Favicon"
+#~ msgstr "आपकी साइट फ़ेविकॉन"
+
+#~ msgid "Make sure you upload .ico image type which is not more then 25X25 px."
+#~ msgstr "आप .ico छवि प्रकार जो अधिक है तो 25x25 पिक्सल नहीं है अपलोड करना सुनिश्चित करें ।"
+
+#~ msgid "Upload Favicon Icon"
+#~ msgstr "अपलोड फ़ेविकॉन चिह्न"
+
+#~ msgid "Hide The Site For The Following Role Users"
+#~ msgstr "निम्नलिखित सूचीबद्ध भूमिका में उपयोगकर्ता के लिए साइट छुपाएं"
+
+#~ msgid ""
+#~ "Select Users for showing coming soon page and hide the site whenever users login or not"
+#~ msgstr ""
+#~ "जल्द ही आ रहा है पृष्ठ दिखाने के लिए चयन उपयोगकर्ता और साइट को छिपाने के लिए जब भी उन के लिए लॉग "
+#~ "इन या नहीं"
+
+#~ msgid "Layout Manager"
+#~ msgstr "लेआउट विकल्प"
+
+#~ msgid "Disabled"
+#~ msgstr "बंद करना"
+
+#~ msgid "Enabled"
+#~ msgstr "चालू करना"
+
+#~ msgid "Skin Color Selection Settings"
+#~ msgstr "त्वचा का रंग चयन सेटिंग"
+
+#~ msgid "Social Link And Icon Settings"
+#~ msgstr "सामाजिक लिंक और आइकन सेटिंग"
+
+#~ msgid "Subscriber"
+#~ msgstr "ग्राहक"
+
+#~ msgid "Subscriber Email Settings"
+#~ msgstr "ग्राहक ई-मेल सेटिंग्स"
+
+#~ msgid "Subscriber List"
+#~ msgstr "ग्राहकों की सूची"
+
+#~ msgid "Subscriber Form Text"
+#~ msgstr "ग्राहक फार्म टेक्स्ट"
+
+#~ msgid "Add relevant FontAwesome Icon Here"
+#~ msgstr "प्रासंगिक फ़ॉन्ट ओसम प्रतीक यहाँ जोड़ें"
+
+#~ msgid "Type here subscriber form Message"
+#~ msgstr "यहां लिखें ग्राहक फार्म संदेश"
+
+#~ msgid "Subscriber Form Button Text & Message Settings"
+#~ msgstr "ग्राहक फार्म बटन टेक्स्ट और संदेश सेटिंग्स"
+
+#~ msgid "Type here subscriber form Setting"
+#~ msgstr "यहां लिखें ग्राहक फार्म की स्थापना"
+
+#~ msgid ""
+#~ "You can find all other SMTP Server configuration settings <a href=\"http://www.geeksquad."
+#~ "co.uk/articles/email-server-settings-setup-guide\" target=\"_new\">HERE</a>"
+#~ msgstr ""
+#~ "आप सभी अन्य एसएमटीपी सर्वर विन्यास सेटिंग्स पा सकते हैं <a href=\"http://www.geeksquad.co.uk/"
+#~ "articles/email-server-settings-setup-guide\"target=\"_new\"> यहाँ </a> "
+
+#~ msgid "Auto Email sent to Subscribed Active Users after site Lunched"
+#~ msgstr "ऑटो ईमेल साइट lunched के बाद सदस्यता लिया सक्रिय उपयोगकर्ताओं के लिए भेजा"
+
+#~ msgid "Enable auto email option to subscribed active users after site lunched."
+#~ msgstr "सक्रिय उपयोगकर्ताओं की सदस्यता ली के बाद साइट lunched ऑटो ईमेल विकल्प को सक्रिय करें।"
+
+#~ msgid "Mail To Subscribers"
+#~ msgstr "ग्राहकों के लिए मेल"
+
+#~ msgid "Manage Subscriptions"
+#~ msgstr "सदस्यता प्रबंधित करें"
+
+#~ msgid "Export List as CSV"
+#~ msgstr "सीएसवी के रूप में निर्यात सूची"
+
+#~ msgid "All Subscriber"
+#~ msgstr "सभी ग्राहकों की सूची"
+
+#~ msgid "Active Subscriber"
+#~ msgstr " सक्षम सदस्य"
+
+#~ msgid "Pending Subscriber"
+#~ msgstr "लंबित सदस्य"
+
+#~ msgid "Counter Clock"
+#~ msgstr "काउंटर घड़ी"
+
+#~ msgid "Settings"
+#~ msgstr "सेटिंग"
+
+#~ msgid "Counter Clock Timer Settings"
+#~ msgstr "काउंटर घड़ी टाइमर सेटिंग"
+
+#~ msgid "Icon"
+#~ msgstr "चिह्न"
+
+#~ msgid "Enter Relevant FontAwesome Icon Here"
+#~ msgstr "प्रासंगिक फ़ॉन्ट भयानक चिह्न  यहाँ दर्ज करें "
+
+#~ msgid "Enter Counter Clock Title Here"
+#~ msgstr "काउंटर घड़ी शीर्षक यहाँ दर्ज करें "
+
+#~ msgid "Discription"
+#~ msgstr "विवरण"
+
+#~ msgid "Enter Counter Clock Message Here"
+#~ msgstr "काउंटर घड़ी संदेश यहाँ दर्ज "
+
+#~ msgid "Time To Live"
+#~ msgstr "शुरू करने का समय "
+
+#~ msgid "Add Live time here."
+#~ msgstr "लाइव समय यहाँ जोड़ें।"
+
+#~ msgid "When does your site launch? Server time is :"
+#~ msgstr "जब आपकी साइट लांच करता है? सर्वर समय है :"
+
+#~ msgid "<em>"
+#~ msgstr "<em>"
+
+#~ msgid "Auto site Launched"
+#~ msgstr "स्वत: साइट का शुभारंभ किया"
+
+#~ msgid ""
+#~ "Enable and disable option to auto site launched and diactivate the coming soon page."
+#~ msgstr "सक्षम और अक्षम विकल्प स्वत: साइट का शुभारंभ किया और diactivate आने के लिए जल्द ही इस पृष्ठ।"
+
+#~ msgid "Footer Settings"
+#~ msgstr "तल सेटिंग"
+
+#~ msgid "Footer Copyright Text"
+#~ msgstr "तल कॉपीराइट टेक्स्ट"
+
+#~ msgid "Enter Footer Copyright Text Here"
+#~ msgstr "यहाँ तल कॉपीराइट तल दर्ज करें।"
+
+#~ msgid "Footer Link"
+#~ msgstr "तल लिंक"
+
+#~ msgid "Enter Footer Copyright Link Here"
+#~ msgstr "यहाँ तल कॉपीराइट लिंक दर्ज करें।"
+
+#~ msgid "Footer Link Text"
+#~ msgstr "तल लिंक टेक्स्ट"
+
+#~ msgid "Enter Footer Link Text Here"
+#~ msgstr "यहाँ तल लिंक तल दर्ज करें।"
+
+#~ msgid "Advance Options Settings"
+#~ msgstr "एडवांस विकल्प सेटिंग्स"
+
+#~ msgid "Custom CSS Editor"
+#~ msgstr "कस्टम सीएसएस संपादक"
+
+#~ msgid ""
+#~ "This is a powerful feature provided here. No need to use custom css plugin, just paste "
+#~ "your css code and see the magic."
+#~ msgstr ""
+#~ "यहाँ एक शक्तिशाली सुविधा उपलब्ध कराई गई है। कस्टम सीएसएस प्लगइन का उपयोग करने के लिए कोई ज़रूरत नहीं "
+#~ "है , बस अपने सीएसएस कोड पेस्ट करें और जादू देखें।"
+
+#~ msgid "Please type css directly. Don't add <style> tag after before CSS."
+#~ msgstr "सीधे सीएसएस लिखें। < शैली > टैग सीएसएस से पहले और बाद में नहीं जोड़े ।"
+
+#~ msgid "Google Analytic Tracking Code"
+#~ msgstr "गूगल विश्लेषणात्मक ट्रैकिंग कोड"
+
+#~ msgid ""
+#~ "Paste your Google Analytics tracking code here. This will be added into themes footer. "
+#~ "Copy only scripting code i.e no need to use script tag "
+#~ msgstr ""
+#~ "यहाँ अपने गूगल एनालिटिक्स ट्रैकिंग कोड पेस्ट करें। यह विषयों तल लेख में जोड़ दिया जाएगा। स्क्रिप्ट टैग का "
+#~ "उपयोग करने की कोई जरूरत अर्थात केवल पटकथा कोड को कॉपी करें ।"
+
+#~ msgid ""
+#~ "Please directly copy and paste your Google Analytics script code here. Don't add "
+#~ "<script> tag after before code."
+#~ msgstr ""
+#~ "यहाँ अपने गूगल एनालिटिक्स स्क्रिप्ट कोड सीधे कॉपी और पेस्ट करें। कोड से पहले और बाद में <script> टैग जोड़े ।"
+
+#~ msgid "All Settings Restored"
+#~ msgstr "सभी सेटिंग्स बहाल"
+
+#~ msgid "Use This button only when you want resotred all section default data."
+#~ msgstr "यह बटन तभी प्रयोग करें। जब आप सभी खंड का  डिफ़ॉल्ट डेटा चाहते हैं "
+
+#~ msgid "This option will deleted the all saved settings and Restored as default."
+#~ msgstr "इस विकल्प को सभी सहेजे सेटिंग्स नष्ट कर दिया और डिफ़ॉल्ट रूप में बहाल होगा।"
+
+#~ msgid "Restored All Default Settings"
+#~ msgstr "सभी डिफ़ॉल्ट सेटिंग्स बहाल"
+
+#~ msgid "Enable and disable option to auto site launched or not."
+#~ msgstr "सक्षम और स्वत: शुरू किया है या नहीं साइट के लिए विकल्प को अक्षम करें।"
+
+#~ msgid "Mail Send Successfully."
+#~ msgstr "मेल सफलतापूर्वक भेजा है।"
+
+#~ msgid "Reset"
+#~ msgstr "रीसेट"
+
+#~ msgid "All Subscribers List"
+#~ msgstr "सभी ग्राहकों की सूची"
+
+#~ msgid ""
+#~ "Below slection option have some types of user list (Active users , Pending users, "
+#~ "Already mailed users)"
+#~ msgstr ""
+#~ "slection विकल्प नीचे उपयोगकर्ता सूची के कुछ प्रकार (सक्रिय उपयोगकर्ताओं, विचाराधीन उपयोगकर्ताओं, पहले "
+#~ "से ही भेज दिया उपयोगकर्ताओं) है"
+
+#~ msgid "Live Preview"
+#~ msgstr "सजीव पूर्वावलोकन"
+
+#~ msgid " : "
+#~ msgstr ":"
+
+#~ msgid "When does your site launch? Server time is : <em>"
+#~ msgstr "जब आपकी साइट लांच करता है? सर्वर समय है :"
+
+#~ msgid "Add Bakcground Image"
+#~ msgstr "पृष्ठभूमि छवि जोड़ें"
+
+#~ msgid "Type here the page related short and relevent discription"
+#~ msgstr "यहां लिखें पेज संबंधित छोटी और प्रासंगिक विवरण"
+
+#~ msgid "Add a text for a alreadt subscribed message."
+#~ msgstr "एक पहले से ही सदस्यता ली संदेश के लिए एक टेक्स्ट जोड़ें।"
+
+#~ msgid ""
+#~ "If Email Subscription is Enable: You have Two option \"Wp Mail\" and \"SMTP Mail\" to "
+#~ "mail a subscriber and confirm its subscription through email."
+#~ msgstr ""
+#~ "यदि, ईमेल सदस्यता विकल्प चालू है : आपके पास दो विकल्प है  \"WP मेल\" और \" एसएमटीपी मेल\" ग्राहकों "
+#~ "को मेल करने के लिए और ईमेल के माध्यम से अपनी सदस्यता की पुष्टि करने के लिए।"
+
+#~ msgid ""
+#~ "If Email Subscription Option is Disable: No Email Confirmation process required. Users/"
+#~ "Visitors will be add to subscriber list as active subscriber."
+#~ msgstr ""
+#~ "यदि, ईमेल सदस्यता विकल्प बंद है : ईमेल पुष्टिकरण प्रक्रिया की आवश्यकता नहीं । उपयोगकर्ताओं / आगंतुकों "
+#~ "सक्रिय सदस्य के रूप में ग्राहकों की सूची में जोड़ दिया जाएगा।"
+
+#~ msgid ""
+#~ "In Our Pro Version, You can used the under constrution and maintainace mode in future "
+#~ "for your live site"
+#~ msgstr ""
+#~ "हमारे प्रो संस्करण में, आप constrution और MAINTAINACE मोड के तहत भविष्य में अपने लाइव साइट के लिए "
+#~ "इस्तेमाल किया जा सकता है"
+
+#~ msgid "View Support Docs or Open a Ticket"
+#~ msgstr "दृष्टिकोण का समर्थन डॉक्स या एक टिकट खुला"
+
+#~ msgid "About me Shortcode & Widget Pro"
+#~ msgstr "अबाउट मी शोर्ट कोड  एंड विजेट प्रो"
+
+#~ msgid "About me Shortcode And Widget Pro"
+#~ msgstr "शोर्ट कोड  एंड विजेट प्रो"
+
+#~ msgid "About Me Pro"
+#~ msgstr "अबाउट मी  प्रो"
+
+#~ msgid "Add New "
+#~ msgstr "नया विकल्प जोड़ें:"
+
+#~ msgid "Edit About me"
+#~ msgstr "सम्पादित अबाउट मी"
+
+#~ msgid "New About me"
+#~ msgstr "नया अबाउट मी "
+
+#~ msgid "View About_me"
+#~ msgstr "अबाउट मी शोर्ट देखें"
+
+#~ msgid "Search About me"
+#~ msgstr " अबाउट मी खोजे"
+
+#~ msgid "No data found"
+#~ msgstr "कोई संग्रह नही मिला"
+
+#~ msgid "No data found in Trash"
+#~ msgstr "कचरे में कोई संग्रह नही मिला "
+
+#~ msgid "Parent About_me:"
+#~ msgstr "प्रमुख अबाउट मी "
+
+#~ msgid "All About me Shortcode"
+#~ msgstr "अबाउट मी शोर्ट कोड "
+
+#~ msgid "ABOUT ME"
+#~ msgstr "अबाउट मी "
+
+#~ msgid "ABOUT ME Shortcode"
+#~ msgstr "अबाउट मी शोर्ट कोड"
+
+#~ msgid " Add Images"
+#~ msgstr "छवियां जोड़ें"
+
+#~ msgid "Select Template"
+#~ msgstr "टेम्पलेट चुने"
+
+#~ msgid "Add set-tt-ings"
+#~ msgstr "सेटिंग जोड़ो"
+
+#~ msgid "Add settings"
+#~ msgstr "सेटिंग जोड़ो"
+
+#~ msgid "About Me Shortcode"
+#~ msgstr "अबाउट मी शोर्ट कोड"
+
+#~ msgid "About Me Preview Box"
+#~ msgstr "अबाउट मी प्रीव्यू बॉक्स"
+
+#~ msgid "Activate About me pro Widget"
+#~ msgstr "अबाउट मी शोर्ट कोड  एंड विजेट "
+
+#~ msgid "Use below shortcode in any Page/Post to publish your Auther information"
+#~ msgstr "लेखक की सूचना दिखाने के लिए किसी भी पेज या पोस्ट में नीचे  दिए गए शोर्ट कोड का प्रयोग करें "
+
+#~ msgid "To activate widget into any widget area"
+#~ msgstr "विजेट को विजेट शेत्र में चालू करने के लिए"
+
+#~ msgid "Find"
+#~ msgstr "खोजे:"
+
+#~ msgid ""
+#~ "and place it to your widget area. Select any About Me Pro from the dropdown and save "
+#~ "changes."
+#~ msgstr "और विजेट शेत्र में रखे और चयन करे किसी अबाउट मी प्रो का  डरौपडाउन से"
+
+#~ msgid "Select ABOUT ME to insert into post"
+#~ msgstr " चयन करें किसी भी अबाउट मी का पोस्ट में डालने के लिए"
+
+#~ msgid "About Me Shortcode And Widget"
+#~ msgstr "अबाउट मी शोर्ट कोड  एंड विजेट "
+
+#~ msgid "Select About Me Shortcode And Widget To Insert Into Post"
+#~ msgstr " चयन करे अबाउट मी शोर्ट कोड  एंड विजेट का पोस्ट में डालने के लिए"
+
+#~ msgid "Insert ABOUT ME Shortcode"
+#~ msgstr "अबाउट मी शोर्ट कोड  एंड विजेट प्रो बारे में डालें"
+
+#~ msgid "No ABOUT ME found"
+#~ msgstr "कोई अबाट मी नहीं मिला"
+
+#~ msgid "Social Profile Information"
+#~ msgstr "सोशल प्रोफाइल सूचना"
+
+#~ msgid "Sorry! Invalid About me Shortcode Embedded"
+#~ msgstr "माफ़ करे गलत अबाउट मी शोर्ट कोड जोड़ा "
+
+#~ msgid "Widget Title"
+#~ msgstr "विजेट शीर्षक"
+
+#~ msgid "Select Any"
+#~ msgstr " चयन करें।"
+
+#~ msgid "No Title"
+#~ msgstr "कोई शिर्षक नहीं"
+
+#~ msgid "Author Settings"
+#~ msgstr "लेखक सेटिंग"
+
+#~ msgid "Display Author settings"
+#~ msgstr "लेखक सेटिंग दिखाए"
+
+#~ msgid "On page"
+#~ msgstr "पेज पर"
+
+#~ msgid "yes"
+#~ msgstr "हाँ"
+
+#~ msgid "no"
+#~ msgstr "नहीं"
+
+#~ msgid "On post"
+#~ msgstr "पोस्ट पर"
+
+#~ msgid "Select Template Style"
+#~ msgstr "प्रभाव शैली का चयन करे "
+
+#~ msgid "Choose one"
+#~ msgstr "एक चुने"
+
+#~ msgid "Display on post or page"
+#~ msgstr "पेज और पोस्ट पर दिखाए"
+
+#~ msgid "Name"
+#~ msgstr "नाम"
+
+#~ msgid "Website Name"
+#~ msgstr "वेबसाइट का नाम"
+
+#~ msgid "Biographical Info"
+#~ msgstr "बायोग्राफिकल सूचना"
+
+#~ msgid "Author label settings"
+#~ msgstr "लेखक लेबल सेटिंग"
+
+#~ msgid "Author label text"
+#~ msgstr "लेखक लेबल टेक्स्ट"
+
+#~ msgid "Font size"
+#~ msgstr "फ़ॉन्ट शैली"
+
+#~ msgid "Font Color"
+#~ msgstr "शब्दों का रंग"
+
+#~ msgid "Choose a caption font style."
+#~ msgstr "एक शीर्षक फ़ॉन्ट शैली चुनें ।"
+
+#~ msgid "Weblizar Responsive WordPress Theme"
+#~ msgstr " Weblizar  रेस्पोंसिव वर्डप्रेस थीम"
+
+#~ msgid "Get The Premium, And Create your website Beautifully."
+#~ msgstr "प्रीमियम थीम प्राप्त करे और अपनी खूबसूरत वेबसाइट बनाये"
+
+#~ msgid "Premium Themes"
+#~ msgstr "प्रीमियम थीम"
+
+#~ msgid "Enigma"
+#~ msgstr "Enigma"
+
+#~ msgid "Weblizar"
+#~ msgstr "बस एक और Weblizar विषय"
+
+#~ msgid "Guardian"
+#~ msgstr "Guardian"
+
+#~ msgid "Green-lantern"
+#~ msgstr "Green-lantern"
+
+#~ msgid "Creative "
+#~ msgstr "Creative "
+
+#~ msgid "Incredible"
+#~ msgstr "Incredible"
+
+#~ msgid "Premium Plugins"
+#~ msgstr "प्रीमियम प्लगिन"
+
+#~ msgid "Ultimate Responsive Image Slider"
+#~ msgstr "Ultimate Responsive Image Slider"
+
+#~ msgid "Responsive Photo Gallery"
+#~ msgstr "Responsive Photo Gallery"
+
+#~ msgid "Responsive Portfolio"
+#~ msgstr "Responsive Portfolio"
+
+#~ msgid "Lightbox Slider"
+#~ msgstr "Lightbox Slider"
+
+#~ msgid "Flickr Album Gallery"
+#~ msgstr "Flickr Album Gallery"
+
+#~ msgid "Instagram Shortcode & Widget"
+#~ msgstr "मेरे बारे में शोर्ट और विजेट प्रो"
+
+#~ msgid "Gallery Pro Weblizar"
+#~ msgstr "Gallery Pro Weblizar"
+
+#~ msgid ""
+#~ "Note: More details to click on weblizar Products site link are below given view site "
+#~ "button."
+#~ msgstr "सूचना:अधिक जानकर्री नीचे दिए गए लिंक पर क्लिक करे"
+
+#~ msgid "View Site"
+#~ msgstr "साईट देखे"
+
+#~ msgid "Profile Image Layout"
+#~ msgstr "छवि लेआउट"
+
+#~ msgid "Profile Image Layout settings"
+#~ msgstr "छवि लेआउट सेटिंग"
+
+#~ msgid "Border"
+#~ msgstr "बॉर्डर"
+
+#~ msgid "Border size"
+#~ msgstr "बॉर्डर आकर"
+
+#~ msgid "Border Color"
+#~ msgstr " बॉर्डर रंग"
+
+#~ msgid "General option"
+#~ msgstr "सामान्य विकल्प"
+
+#~ msgid "BackgroundColor"
+#~ msgstr "पीछे का रंग"
+
+#~ msgid "Note: Maximum words for Discription are 325."
+#~ msgstr "नोट: विवरण के लिए शब्द सीमा 325"
+
+#~ msgid "Social link"
+#~ msgstr "सोशल लिंक"
+
+#~ msgid "Facebook"
+#~ msgstr "फेसबुक"
+
+#~ msgid "Twitter"
+#~ msgstr "ट्विटर"
+
+#~ msgid "Google"
+#~ msgstr "गूगल"
+
+#~ msgid "LinkedIn"
+#~ msgstr "लिंक्डीन"
+
+#~ msgid "Flickr"
+#~ msgstr "फ्लिकर"
+
+#~ msgid "Pinterest"
+#~ msgstr "पिन्तेरेस्ट"
+
+#~ msgid "Tumblr"
+#~ msgstr "टम्बलर"
+
+#~ msgid "Bitbucket"
+#~ msgstr "बिटबकेट"
+
+#~ msgid "Dropbox"
+#~ msgstr "ड्रापबॉक्स"
+
+#~ msgid "Github"
+#~ msgstr "गीटहब"
+
+#~ msgid "Instagram"
+#~ msgstr "इन्स्ताग्राम"
+
+#~ msgid "VK"
+#~ msgstr "वीके"
+
+#~ msgid "Social Link Color"
+#~ msgstr "सोशल लिंक रंग"
+
+#~ msgid "Social icon size"
+#~ msgstr "छवि सीमा आकार"
+
+#~ msgid "Size"
+#~ msgstr "आकार"
+
+#~ msgid "Name Information Settings"
+#~ msgstr "नाम सूचना सेटिंग"
+
+#~ msgid "Website Information Settings"
+#~ msgstr "वेबसाइट सूचना सेटिंग"
+
+#~ msgid "Website Link Color"
+#~ msgstr "लिंक"
+
+#~ msgid "Discription Information Settings"
+#~ msgstr "विवरण सूचना सेटिंग"
+
+#~ msgid "Discription Text Color"
+#~ msgstr "विवरण टेक्स्ट रंग"
+
+#~ msgid "Custom CSS"
+#~ msgstr "कस्टम css"
+
+#~ msgid ""
+#~ "Enter any custom css you want to apply on this shortcode.\n"
+#~ "\t\t\t\t\t\tNote: Please Do Not Use Style Tag With Custom CSS."
+#~ msgstr " कस्टम css डाले जिसे आप चाहते लागू करना इस शोर्ट कोड पर : कृपया style टैग का इस्तेमाल न करे"
+
+#~ msgid "Template 3"
+#~ msgstr "प्रभाव 3"
+
+#~ msgid "Template 4"
+#~ msgstr "प्रभाव 4"
+
+#~ msgid "Template 5"
+#~ msgstr "प्रभाव 5"
+
+#~ msgid "Template 6"
+#~ msgstr "प्रभाव 6"
+
+#~ msgid "Template 7"
+#~ msgstr "प्रभाव 7"
+
+#~ msgid "Template 8"
+#~ msgstr "प्रभाव 8"
+
+#~ msgid "Template 9"
+#~ msgstr "प्रभाव 9"
+
+#~ msgid "Template 10"
+#~ msgstr "प्रभाव 10"
+
+#~ msgid "Template Style 1"
+#~ msgstr "प्रभाव 1"
+
+#~ msgid "Upload profile Image"
+#~ msgstr "अपलोड़ प्रोफाइल इमेज"
+
+#~ msgid "No media selected!"
+#~ msgstr "कोई  मीडिया नहीं जोड़ा गया"
+
+#~ msgid "Upload"
+#~ msgstr "अपलोड"
+
+#~ msgid "*Upload profile Image size should be 200*200 pixel maximum and 150*150 minimum"
+#~ msgstr "अपलोड प्रोफाइल इमेज का साइज़ कम से कम  150*150 और अधिक से अधिक 200*200 पिक्सेल रखे"
+
+#~ msgid "Template Style 10"
+#~ msgstr "प्रभाव 10"
+
+#~ msgid "*Upload profile image size should be 200*200 pixel maximum and 150*150 minimum"
+#~ msgstr "अपलोड प्रोफाइल इमेज का साइज़ कम से कम 150*150 और अधिक से अधिक 200*200 पिक्सेल रखे"
+
+#~ msgid "Upload Background Image"
+#~ msgstr "*अपलोड बैकग्राउंड इमेज"
+
+#~ msgid "*Upload background image size should be 1000*700 pixel maximum and 900*700 minimum"
+#~ msgstr "*अपलोड  बैकग्राउंड इमेज का साइज़ कम से कम 900*700 और अधिक से अधिक 1000*700 पिक्सेल रखे"
+
+#~ msgid "Template Style 2"
+#~ msgstr "प्रभाव 2"
+
+#~ msgid "Upload Header Background Image"
+#~ msgstr "अपलोड हैडर बैकग्राउंड इमेज"
+
+#~ msgid ""
+#~ "*Upload header background image size should be 800*150 pixel maximum and 600*150 minimum"
+#~ msgstr "*अपलोड  हैडर बैकग्राउंड इमेज का साइज़ कम से कम 600*150 और अधिक से अधिक 800*150 पिक्सेल रखे"
+
+#~ msgid "Template Style 3"
+#~ msgstr "प्रभाव 3"
+
+#~ msgid "Template Style 4"
+#~ msgstr "प्रभाव 4"
+
+#~ msgid "Template Style 5"
+#~ msgstr "प्रभाव 5"
+
+#~ msgid "Template Style 6"
+#~ msgstr "प्रभाव 6"
+
+#~ msgid "Template Style 7"
+#~ msgstr "प्रभाव 7"
+
+#~ msgid "*Upload profile image size should be 200*200 pixel maximum and 150*150 minimum "
+#~ msgstr "*अपलोड प्रोफाइल इमेज का साइज़ कम से कम 150*150 और अधिक से अधिक 200*200 पिक्सेल रखे"
+
+#~ msgid "Template Style 8"
+#~ msgstr "प्रभाव 8"
+
+#~ msgid "Template Style 9"
+#~ msgstr "प्रभाव 9"

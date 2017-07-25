@@ -1,0 +1,1637 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: iCoach\n"
+"POT-Creation-Date: 2017-01-31 11:57+0530\n"
+"PO-Revision-Date: 2016-05-27 16:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:10
+msgid "Archive "
+msgstr ""
+
+#: author.php:10
+msgid "Published by : "
+msgstr ""
+
+#: category.php:10
+msgid "Category : "
+msgstr ""
+
+#: comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: content.php:19
+msgid "READ MORE"
+msgstr ""
+
+#: content.php:23
+msgid "Back"
+msgstr ""
+
+#: content.php:24
+msgid "Onward"
+msgstr ""
+
+#: footer.php:15 header.php:48 header.php:53
+msgid "Logo"
+msgstr ""
+
+#: footer.php:52
+#, php-format
+msgid "Powered by  %1$s "
+msgstr ""
+
+#: functions.php:19
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:20
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:83
+msgctxt "OpenSans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:141
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: functions.php:146
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: functions.php:151
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:165 inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:166 inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:167 inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:168 inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:169 inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:170 inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:171
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:172 inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:173 inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:174
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:175 inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:176
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:177 inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:178 inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:179 inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:180 inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3248
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:181
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:191 functions.php:192
+msgid "iCoach Pro Features"
+msgstr ""
+
+#: functions.php:295
+msgid "Home Page"
+msgstr ""
+
+#: functions.php:296
+msgid ""
+"You can easily migrate existing settings to page builder in just a few "
+"clicks.Thanks !"
+msgstr ""
+
+#: functions.php:1402
+msgid "iCoach Widgets"
+msgstr ""
+
+#: functions.php:1417
+msgid "Theme Default"
+msgstr ""
+
+#: functions.php:1441
+msgid "iCoach Icons"
+msgstr ""
+
+#: functions.php:1475
+msgid "Theme Style 1"
+msgstr ""
+
+#: functions.php:1476
+msgid "Theme Style 2"
+msgstr ""
+
+#: functions/home-customization.php:9
+msgid "Slider Section"
+msgstr ""
+
+#: functions/home-customization.php:29 functions/home-customization.php:90
+#: functions/home-customization.php:151
+msgid "Select Image (Size 1920*960 px)"
+msgstr ""
+
+#: functions/home-customization.php:44 functions/home-customization.php:104
+#: functions/home-customization.php:165
+msgid "Text for Slider"
+msgstr ""
+
+#: functions/home-customization.php:56 functions/home-customization.php:118
+#: functions/home-customization.php:179
+msgid "Text for Button"
+msgstr ""
+
+#: functions/home-customization.php:70 functions/home-customization.php:132
+#: functions/home-customization.php:193
+msgid "URL for Button"
+msgstr ""
+
+#: functions/home-customization.php:201
+msgid "About Section"
+msgstr ""
+
+#: functions/home-customization.php:215 functions/home-customization.php:434
+#: functions/home-customization.php:658 functions/home-customization.php:740
+msgid "ID for section"
+msgstr ""
+
+#: functions/home-customization.php:216
+msgid "This id will use in menu link for one page website. eg. about"
+msgstr ""
+
+#: functions/home-customization.php:220
+msgid "About Me"
+msgstr ""
+
+#: functions/home-customization.php:230 functions/home-customization.php:449
+msgid "Title 1"
+msgstr ""
+
+#: functions/home-customization.php:235
+msgid "Who I am"
+msgstr ""
+
+#: functions/home-customization.php:245 functions/home-customization.php:464
+msgid "Title 2"
+msgstr ""
+
+#: functions/home-customization.php:260
+msgid "About Description"
+msgstr ""
+
+#: functions/home-customization.php:276
+msgid "About Link"
+msgstr ""
+
+#: functions/home-customization.php:295 functions/home-customization.php:340
+#: functions/home-customization.php:384
+msgid "Select Image (Size 1000*720 px)"
+msgstr ""
+
+#: functions/home-customization.php:309 functions/home-customization.php:354
+#: functions/home-customization.php:398
+#: inc/widgets/key-feature-widget/key-feature-widget.php:48
+msgid "Button Link"
+msgstr ""
+
+#: functions/home-customization.php:313
+msgid "Personal"
+msgstr ""
+
+#: functions/home-customization.php:323 functions/home-customization.php:368
+#: functions/home-customization.php:412
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:50
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:71
+#: inc/widgets/key-feature-widget/key-feature-widget.php:41
+msgid "Button Text"
+msgstr ""
+
+#: functions/home-customization.php:358
+msgid "Business"
+msgstr ""
+
+#: functions/home-customization.php:402
+msgid "Fun"
+msgstr ""
+
+#: functions/home-customization.php:420
+msgid "Knowledge Section"
+msgstr ""
+
+#: functions/home-customization.php:435
+msgid "This id will use in menu link for one page website. eg. knowledge"
+msgstr ""
+
+#: functions/home-customization.php:439
+msgid "Knowledge"
+msgstr ""
+
+#: functions/home-customization.php:454
+msgid "What I know"
+msgstr ""
+
+#: functions/home-customization.php:469
+msgid "icon-clock"
+msgstr ""
+
+#: functions/home-customization.php:479 functions/home-customization.php:522
+#: functions/home-customization.php:565 functions/home-customization.php:608
+#: inc/widgets/key-feature-widget/key-feature-widget.php:204
+msgid "Icon"
+msgstr ""
+
+#: functions/home-customization.php:480 functions/theme-customization.php:40
+#: functions/theme-customization.php:73 functions/theme-customization.php:106
+#: functions/theme-customization.php:139
+msgid ""
+"Please add Font Awesome class here, which you can find <a target=\"_blank\" "
+"href=\"https://fortawesome.github.io/Font-Awesome/icons/\">here</a>"
+msgstr ""
+
+#: functions/home-customization.php:483 functions/home-customization.php:526
+msgid "Years of Experience"
+msgstr ""
+
+#: functions/home-customization.php:493 functions/home-customization.php:536
+#: functions/home-customization.php:579 functions/home-customization.php:622
+msgid "Knowledge Title"
+msgstr ""
+
+#: functions/home-customization.php:507 functions/home-customization.php:550
+#: functions/home-customization.php:593 functions/home-customization.php:636
+msgid "Knowledge Description"
+msgstr ""
+
+#: functions/home-customization.php:512
+msgid "icon-idea"
+msgstr ""
+
+#: functions/home-customization.php:523 functions/home-customization.php:566
+#: functions/home-customization.php:609
+msgid ""
+"Please add Font Awesome class here, which you can find <a target=\"_blank\" "
+"href=\"https://fortawesome.github.io/Font-Awesome/icons/\">here</a>."
+msgstr ""
+
+#: functions/home-customization.php:555
+msgid "icon-man"
+msgstr ""
+
+#: functions/home-customization.php:598
+msgid "icon-thumb"
+msgstr ""
+
+#: functions/home-customization.php:644
+msgid "Contact Section"
+msgstr ""
+
+#: functions/home-customization.php:659
+msgid "This id will use in menu link for one page website. eg. contact"
+msgstr ""
+
+#: functions/home-customization.php:673
+#: inc/widgets/key-feature-widget/key-feature-widget.php:24
+#: inc/widgets/key-feature-widget/key-feature-widget.php:81
+msgid "Title"
+msgstr ""
+
+#: functions/home-customization.php:687
+#: inc/widgets/key-feature-widget/key-feature-widget.php:35
+msgid "Description"
+msgstr ""
+
+#: functions/home-customization.php:702
+msgid "Contact Form Shortcode ID"
+msgstr ""
+
+#: functions/home-customization.php:718
+msgid "Select Background Image (Size 1920*960 px)"
+msgstr ""
+
+#: functions/home-customization.php:726
+msgid "Blog Section"
+msgstr ""
+
+#: functions/home-customization.php:741
+msgid "This id will use in menu link for one page website. eg. blog"
+msgstr ""
+
+#: functions/home-customization.php:754
+msgid "Blog"
+msgstr ""
+
+#: functions/home-customization.php:762 functions/home-customization.php:776
+#: functions/home-customization.php:790
+msgid "blog"
+msgstr ""
+
+#: functions/home-customization.php:772
+msgid "Title One"
+msgstr ""
+
+#: functions/home-customization.php:786 functions/home-customization.php:800
+msgid "Title Two"
+msgstr ""
+
+#: functions/home-customization.php:814
+msgid "Blog Category"
+msgstr ""
+
+#: functions/home-customization.php:830
+msgid "Blog Link"
+msgstr ""
+
+#: functions/theme-customization.php:20
+msgid "Social Accounts"
+msgstr ""
+
+#: functions/theme-customization.php:22
+msgid "Enter the URL of your social accounts. Leave it empty to hide the icon."
+msgstr ""
+
+#: functions/theme-customization.php:29
+msgid "icon-facebook"
+msgstr ""
+
+#: functions/theme-customization.php:38
+msgid "Social Icon 1"
+msgstr ""
+
+#: functions/theme-customization.php:54
+msgid "Social Link 1"
+msgstr ""
+
+#: functions/theme-customization.php:62
+msgid "icon-g-plus"
+msgstr ""
+
+#: functions/theme-customization.php:71
+msgid "Social Icon 2"
+msgstr ""
+
+#: functions/theme-customization.php:87
+msgid "Social Link 2"
+msgstr ""
+
+#: functions/theme-customization.php:95
+msgid "icon-pin"
+msgstr ""
+
+#: functions/theme-customization.php:104
+msgid "Social Icon 3"
+msgstr ""
+
+#: functions/theme-customization.php:120
+msgid "Social Link 3"
+msgstr ""
+
+#: functions/theme-customization.php:128
+msgid "icon-twitter"
+msgstr ""
+
+#: functions/theme-customization.php:137
+msgid "Social Icon 4"
+msgstr ""
+
+#: functions/theme-customization.php:153
+msgid "Social Link 4"
+msgstr ""
+
+#: functions/theme-customization.php:170
+msgid "Upload Dark Logo"
+msgstr ""
+
+#: functions/theme-customization.php:171 functions/theme-customization.php:180
+msgid "Recommended size 113 × 31"
+msgstr ""
+
+#: functions/theme-customization.php:179
+msgid "Theme Color"
+msgstr ""
+
+#: functions/theme-default-setup.php:7
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/theme-default-setup.php:9
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions/theme-default-setup.php:30
+msgid "By : "
+msgstr ""
+
+#: functions/theme-default-setup.php:41
+msgid "Tag :"
+msgstr ""
+
+#: functions/theme-default-setup.php:54
+msgctxt "comment form placeholder"
+msgid "Name *"
+msgstr ""
+
+#: functions/theme-default-setup.php:65
+msgctxt "comment form placeholder"
+msgid "Email Id *"
+msgstr ""
+
+#: functions/theme-default-setup.php:76
+msgctxt "comment form placeholder"
+msgid "Website URL"
+msgstr ""
+
+#: functions/theme-default-setup.php:93
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:920
+#: inc/class-tgm-plugin-activation.php:2622
+#: inc/class-tgm-plugin-activation.php:3669
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3041
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1027
+#: inc/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1214
+#: inc/class-tgm-plugin-activation.php:3037
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2362
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2365
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2381
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2384
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2410
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2416
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2419
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2422
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2431
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2571
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2579
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2587
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2599
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2622
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2636
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2637
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2642
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2643
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2692
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2697
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2773
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2806
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2812
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2815
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2846
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2889
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2997
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3023
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3247
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3596
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3598
+#: inc/class-tgm-plugin-activation.php:3606
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3598
+#: inc/class-tgm-plugin-activation.php:3606
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3599
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3601
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3604
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3606
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3607
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3609
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/widgets/blog-post-widget/blog-post-widget.php:12
+msgid "iCoach Blog Post"
+msgstr ""
+
+#: inc/widgets/blog-post-widget/blog-post-widget.php:14
+msgid "A blog section with slider."
+msgstr ""
+
+#: inc/widgets/blog-post-widget/blog-post-widget.php:24
+msgid "Select posts query"
+msgstr ""
+
+#: inc/widgets/blog-post-widget/blog-post-widget.php:28
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:58
+msgid "Select Blog Page"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:12
+msgid "iCoach Button"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:14
+msgid "A customizable button widget."
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:36
+msgid "Button text"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:41
+#: inc/widgets/hero-widget/hero-widget.php:111
+msgid "Destination URL"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:46
+msgid "Open in a new window"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:50
+msgid "Design and layout"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:55
+msgid "Button Width"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:59
+msgid "Align"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:62
+#: inc/widgets/headline-widget/headline-widget.php:91
+#: inc/widgets/headline-widget/headline-widget.php:168
+#: inc/widgets/headline-widget/headline-widget.php:242
+#: inc/widgets/key-feature-widget/key-feature-widget.php:59
+#: inc/widgets/key-feature-widget/key-feature-widget.php:213
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:63
+#: inc/widgets/headline-widget/headline-widget.php:92
+#: inc/widgets/headline-widget/headline-widget.php:169
+#: inc/widgets/headline-widget/headline-widget.php:243
+#: inc/widgets/key-feature-widget/key-feature-widget.php:60
+#: inc/widgets/key-feature-widget/key-feature-widget.php:214
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:64
+#: inc/widgets/headline-widget/headline-widget.php:90
+#: inc/widgets/headline-widget/headline-widget.php:167
+#: inc/widgets/headline-widget/headline-widget.php:241
+#: inc/widgets/key-feature-widget/key-feature-widget.php:58
+#: inc/widgets/key-feature-widget/key-feature-widget.php:212
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:65
+#: inc/widgets/headline-widget/headline-widget.php:93
+#: inc/widgets/headline-widget/headline-widget.php:170
+msgid "Justify"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:70
+msgid "Button theme"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:73
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:73
+msgid "Style 1"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:74
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:74
+msgid "Style 2"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:79
+#: inc/widgets/headline-widget/headline-widget.php:55
+#: inc/widgets/headline-widget/headline-widget.php:132
+#: inc/widgets/headline-widget/headline-widget.php:207
+#: inc/widgets/key-feature-widget/key-feature-widget.php:66
+msgid "Select Color Option"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:80
+#: inc/widgets/headline-widget/headline-widget.php:56
+#: inc/widgets/headline-widget/headline-widget.php:133
+#: inc/widgets/headline-widget/headline-widget.php:208
+#: inc/widgets/key-feature-widget/key-feature-widget.php:67
+msgid ""
+"if you select theme default colors option then customizer colors will be "
+"render."
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:94
+msgid "Button color"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:102
+msgid "Hover color"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:110
+#: inc/widgets/hero-widget/hero-widget.php:218
+msgid "Text color"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:119
+msgid "Use hover effects"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:123
+msgid "Font size"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:127
+msgid "Padding Top"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:131
+msgid "Padding Right"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:135
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:139
+msgid "Padding Left"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:145
+msgid "Other attributes and SEO"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:150
+msgid "Button ID"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:151
+msgid "An ID attribute allows you to target this button in Javascript."
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:156
+msgid "Title attribute"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:157
+msgid "Adds a title attribute to the button link."
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:162
+msgid "Onclick"
+msgstr ""
+
+#: inc/widgets/button-widget/button-widget.php:163
+msgid "Run this Javascript when the button is clicked. Ideal for tracking."
+msgstr ""
+
+#: inc/widgets/contact-widget/contact-widget.php:12
+msgid "iCoach Contact"
+msgstr ""
+
+#: inc/widgets/contact-widget/contact-widget.php:14
+msgid ""
+"A widget for simple contact form for your user to get hold of you(exclusive "
+"for contact form 7)."
+msgstr ""
+
+#: inc/widgets/contact-widget/contact-widget.php:24
+msgid "Enter Shortcode"
+msgstr ""
+
+#: inc/widgets/contact-widget/contact-widget.php:28
+msgid "Select Style"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:14
+msgid "iCoach Headline"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:16
+msgid "A headline widget."
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:32
+#: inc/widgets/headline-widget/headline-widget.php:262
+msgid "Headline"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:37
+#: inc/widgets/headline-widget/headline-widget.php:114
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:41
+#: inc/widgets/headline-widget/headline-widget.php:118
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:44
+#: inc/widgets/headline-widget/headline-widget.php:121
+msgid "H1"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:45
+#: inc/widgets/headline-widget/headline-widget.php:122
+msgid "H2"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:46
+#: inc/widgets/headline-widget/headline-widget.php:123
+msgid "H3"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:47
+#: inc/widgets/headline-widget/headline-widget.php:124
+msgid "H4"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:48
+#: inc/widgets/headline-widget/headline-widget.php:125
+msgid "H5"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:49
+#: inc/widgets/headline-widget/headline-widget.php:126
+msgid "H6"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:50
+#: inc/widgets/headline-widget/headline-widget.php:127
+msgid "Paragraph"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:70
+#: inc/widgets/headline-widget/headline-widget.php:147
+#: inc/widgets/headline-widget/headline-widget.php:222
+msgid "Color"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:78
+#: inc/widgets/headline-widget/headline-widget.php:155
+msgid "Font"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:83
+#: inc/widgets/headline-widget/headline-widget.php:160
+#: inc/widgets/key-feature-widget/key-feature-widget.php:106
+#: inc/widgets/key-feature-widget/key-feature-widget.php:143
+msgid "Font Size"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:87
+#: inc/widgets/headline-widget/headline-widget.php:164
+#: inc/widgets/headline-widget/headline-widget.php:238
+msgid "Alignment"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:98
+#: inc/widgets/headline-widget/headline-widget.php:175
+msgid "Line Height"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:102
+#: inc/widgets/headline-widget/headline-widget.php:179
+#: inc/widgets/headline-widget/headline-widget.php:253
+#: inc/widgets/key-feature-widget/key-feature-widget.php:110
+#: inc/widgets/key-feature-widget/key-feature-widget.php:147
+msgid "Top and Bottom Margin"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:109
+msgid "Sub headline"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:186
+#: inc/widgets/headline-widget/headline-widget.php:263
+msgid "Divider"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:191
+msgid "Style"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:194
+msgid "None"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:195
+msgid "Solid"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:196
+msgid "Dotted"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:197
+msgid "Dashed"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:198
+msgid "Double"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:199
+msgid "Groove"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:200
+msgid "Ridge"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:201
+msgid "Inset"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:202
+msgid "Outset"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:231
+msgid "Thickness"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:248
+msgid "Divider Width"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:260
+msgid "Element Order"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:264
+msgid "Sub Headline"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:270
+#: inc/widgets/hero-widget/hero-widget.php:197
+msgid "Use FitText"
+msgstr ""
+
+#: inc/widgets/headline-widget/headline-widget.php:271
+#: inc/widgets/hero-widget/hero-widget.php:198
+msgid "Dynamically adjust your heading font size based on screen size."
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:15
+msgid "iCoach Hero"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:17
+msgid "A big hero image with a few settings to make it your own."
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:39
+msgid "Hero frames"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:40
+msgid "Frame"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:51
+msgid "Content"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:56
+msgid "Buttons"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:57
+#: inc/widgets/hero-widget/hero-widget.php:69
+#: inc/widgets/key-feature-widget/key-feature-widget.php:42
+msgid "Button"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:58
+msgid "Add [buttons] shortcode to the content to insert these buttons."
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:77
+msgid "Background"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:81
+msgid "Background image"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:88
+msgid "Background image type"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:90
+msgid "Cover"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:96
+msgid "Background image opacity"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:105
+msgid "Background color"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:116
+msgid "Open URL in a new window"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:121
+msgid "Video"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:122
+msgid "Background videos"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:137
+msgid "Slider Controls"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:143
+msgid "Design and Layout"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:148
+msgid "Height"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:154
+msgid "Top and bottom padding"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:160
+msgid "Extra top padding"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:161
+msgid "Additional padding added to the top of the slider"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:167
+msgid "Side padding"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:173
+msgid "Maximum container width"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:179
+msgid "Heading font"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:185
+msgid "Heading color"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:191
+msgid "Heading size"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:204
+msgid "Heading shadow intensity"
+msgstr ""
+
+#: inc/widgets/hero-widget/hero-widget.php:212
+msgid "Text size"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:12
+msgid "iCoach Image Gallery"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:14
+msgid "A widget to create gallery for images."
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:24
+msgid "Showcase Images"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:25
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:29
+msgid "Choose a media thing"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:30
+msgid "Choose image"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:31
+msgid "Set image"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:38
+msgid "Hide Button"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:40
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:41
+msgid "Show"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:66
+msgid "Open in popup"
+msgstr ""
+
+#: inc/widgets/image-showcase-widget/image-showcase-widget.php:85
+msgid "Enter Height"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:12
+msgid "iCoach Key Feature"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:14
+msgid "Fully customized key feature box"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:25
+msgid "This is Title"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:31
+msgid "Select an icon"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:36
+msgid "This area used for description."
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:43
+#: inc/widgets/key-feature-widget/key-feature-widget.php:50
+msgid "Leave blank to hide button"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:55
+msgid "Text Align"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:86
+msgid "Choose a Title Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:94
+msgid "Choose a Title Hover Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:102
+#: inc/widgets/key-feature-widget/key-feature-widget.php:139
+msgid "Select a font"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:111
+msgid "This Margin will added before and after title."
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:118
+msgid "Descriptions"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:123
+msgid "Choose a Text Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:131
+msgid "Choose a Description Hover Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:148
+msgid "This Margin will added before and after description."
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:155
+msgid "Box Styling"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:160
+msgid "Choose Box Background Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:168
+msgid "Choose Box Background Hover Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:176
+msgid "Border Width"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:180
+msgid "Border Radius"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:184
+msgid "Top-Bottom Padding"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:189
+msgid "Right-Left Padding"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:194
+msgid "Choose Box Border Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:209
+msgid "Icon Alignment"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:220
+msgid "Choose a Icon Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:228
+msgid "Choose a Icon Hover Color"
+msgstr ""
+
+#: inc/widgets/key-feature-widget/key-feature-widget.php:236
+msgid "Icon Size"
+msgstr ""
+
+#: index.php:9
+msgid "Blog "
+msgstr ""
+
+#: search.php:10
+msgid "Search results for: "
+msgstr ""
+
+#: search.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+
+#: searchform.php:8
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:45
+msgid "Pages:"
+msgstr ""
+
+#: single.php:49
+msgid "Page"
+msgstr ""
+
+#: tag.php:10
+msgid "Tag : "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "iCoach"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://indigothemes.com/products/icoach-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"iCoach is clean and fully customizable, mobile responsive, search engine "
+"friendly, premium quality WordPress theme for individuals like Coaches, "
+"Freelancers, Yoga Teachers, Doctors, Consultants, designers etc. You can "
+"easily customize colors, add your own logo etc to make it as per your "
+"business branding. It works with SiteOrigin drag and drop page builder so "
+"you can create an unique layout for your website and you can also create "
+"unlimited variations of the home page as per you needs. It has an integrated "
+"mobile friendly slider to showcase your top services or skills on the home "
+"page. We have developed a step by step theme documentation along with demo "
+"import file to ensure you quickly set up your website even if you're not a "
+"WordPress expert. You can check the theme documentation here: https://"
+"indigothemes.com/documentation/icoach/ To check how powerful the theme is, "
+"please have a look at its demo here : http://demo.indigothemes.com/wordpress-"
+"themes/icoach/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "IndigoThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://indigothemes.com"
+msgstr ""

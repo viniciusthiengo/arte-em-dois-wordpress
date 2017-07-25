@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Branches\n"
+"POT-Creation-Date: 2017-03-21 18:37+0100\n"
+"PO-Revision-Date: 2017-03-21 18:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "Error 404"
+msgstr "Fehler 404"
+
+#: 404.php:8
+msgid ""
+"It seems like you have tried to open a page that doesn't exist. It could "
+"have been deleted, moved, or it never existed at all."
+msgstr ""
+"Sieht aus als hätten Sie versucht eine Seite zu öffnen die nicht vorhanden "
+"ist. Sie wurde entweder gelöscht oder hat nie existiert."
+
+#: archive.php:15 category.php:15 index.php:54
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: archive.php:16 category.php:16 index.php:55
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: archive.php:17 category.php:17 index.php:56
+msgid "Page"
+msgstr "Seite"
+
+#: comments.php:14 index.php:19 loop.php:5
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:14 comments.php:68 index.php:19 loop.php:5
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:33
+msgid "Previous"
+msgstr "Zurück"
+
+#: comments.php:39
+msgid "Next"
+msgstr "Weiter"
+
+#: comments.php:76
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:82
+msgid "Email"
+msgstr "E-Mail"
+
+#: comments.php:88
+msgid "Website"
+msgstr "Webseite"
+
+#. Author URI of the plugin/theme
+#: footer.php:13
+msgid "http://www.flohauck.de"
+msgstr "http://www.flohauck.de"
+
+#: footer.php:13
+#, php-format
+msgid "Theme by %s"
+msgstr "Theme von %s"
+
+#: functions.php:21
+msgid "Primary Menu"
+msgstr "Hauptnavigation"
+
+#: functions.php:25
+msgid "Primary"
+msgstr "Primär"
+
+#: functions.php:87
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:89
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Widgets in dieser Ebene werden in der Sidebar angezeigt."
+
+#: functions.php:143
+msgid "Accent Color"
+msgstr "Highlight Farbe"
+
+#: functions.php:155
+msgid "Define where to show the Sidebar."
+msgstr "Wo soll die Sidebar dargestellt werden?"
+
+#: functions.php:179
+msgid "Show Sidebar on front page and on archive/category pages"
+msgstr "Sidebar auf Startseite und Kategorie/Archiv Seiten anzeigen"
+
+#: functions.php:188
+msgid "Show Sidebar on single post and page template"
+msgstr "Sidebar auf Beitragstemplates und Seiten anzeigen"
+
+#: functions.php:198
+msgid "Some options for the single post and the page template."
+msgstr "Einige Anpassungsmöglichkeiten für die Beitragstemplates und Seiten"
+
+#: functions.php:214
+msgid "Show Featured Image on single post template"
+msgstr "Zeige Vorschaubild als Headerbild auf Beitragstemplate"
+
+#: functions.php:300
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:300 functions.php:342
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: functions.php:316
+msgid "Post author"
+msgstr "Autor"
+
+#: functions.php:348
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf eine Freischaltung."
+
+#: functions.php:355
+msgid "Reply"
+msgstr "Antworten"
+
+#: header.php:39
+msgid "Navigation"
+msgstr "Navigation"
+
+#: index.php:21 loop.php:7 single.php:19
+msgid "Edit Post"
+msgstr "Beitrag bearbeiten"
+
+#: loop.php:15
+msgid "&raquo; read more"
+msgstr "&raquo; mehr..."
+
+#: page.php:12
+msgid "Edit Page"
+msgstr "Seite bearbeiten"
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: search.php:13
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: search.php:15
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, aber leider konnten keine Suchergebnisse für diesen Begriff gefunden "
+"werden."
+
+#: single.php:18
+msgid "by"
+msgstr "von"
+
+#. Theme Name of the plugin/theme
+msgid "Branches"
+msgstr "Branches"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.flohauck.de/themes/branches/"
+msgstr "http://www.flohauck.de/themes/branches/"
+
+#. Description of the plugin/theme
+msgid ""
+"Branches is a simple, minimalistic magazine/blog theme. It has only a few "
+"options but that should be enough. Its fully retina ready and dont need a "
+"single image or additional javascript file for the layout itself, so its "
+"very lightweight."
+msgstr ""
+"Branches ist ein einfaches, minimalistische Magazin/Blog-Theme. Es hat zwar "
+"nur wenige Optionen um es auf die eigenen Bedürfnisse anzupassen, diese "
+"sollten aber reichen um ein schönes individuelles Layout zu kreieren. Für "
+"das Layout an sich wird kein einziges zusätzliches Bild benötigt und viel "
+"zusätzliches JavaScript kommt auch nicht zum Einsatz, deshalb ist das Theme "
+"sehr klein und lädt schnell."
+
+#. Author of the plugin/theme
+msgid "Flo Hauck"
+msgstr "Flo Hauck"

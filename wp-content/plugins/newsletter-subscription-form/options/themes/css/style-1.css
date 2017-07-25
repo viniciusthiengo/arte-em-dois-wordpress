@@ -1,0 +1,168 @@
+.space{
+padding:10px;
+}
+.newsletter-api-form-theme1 {
+	margin: 10px 0px;
+}
+.newsletter-api-form-theme1 .newsletter_form1{
+text-align:center;
+background-color:#333;
+color:#eee;
+}
+.newsletter-api-form-theme1 .newsletter_form1 span{
+font-size:30px;
+}
+.newsletter-api-form-theme1 .newsletter_form1 .newsletter_form1_icon{
+font-size:14px;
+}
+.widget_nlf_form_widget .newsletter-api-form-theme1 .newsletter_form1 .btn{
+
+width: 50%;
+ border: 0 none !important;
+}
+.newsletter-api-form-theme1 .newsletter_form1 .btn span{
+font-size:18px;
+}
+.newsletter-api-form-theme1 .newsletter_form1_social-icons{
+text-align: center;	
+padding: 10px 0px;
+}
+.newsletter-api-form-theme1 .newsletter_form1_social {
+  margin: 0 !important;
+  text-align: center;
+  list-style: none;
+  padding: 0;
+}
+.newsletter-api-form-theme1 .newsletter_form1_social li {
+  display: inline-block;
+  margin: 5px 0px;
+}
+.newsletter-api-form-theme1 .newsletter_form1_social li a{
+color:#fff;
+display:block;
+text-align:center;
+}
+.newsletter-api-form-theme1 .newsletter_form1_social-icons a{
+	box-shadow:none;
+}
+.newsletter-api-form-theme1 .newsletter_form1_social-icons .newsletter_form1_icon {
+  background-color: #fff;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  display: inline-block;
+  height: auto;
+  padding: 6px 2px;
+  width: 25px;
+}
+
+/*** Custom CSS ***/
+
+.newsletter-api-form-theme1 .newsletter_form1_section-sub_heading{
+	margin:5px 0px;
+}
+
+.newsletter-api-form-theme1 .error_email,.newsletter_form1_subscribe-message {
+	text-align:left;	
+}
+.newsletter-api-form-theme1 .newsletter_form1_section-heading {
+	margin: 20px 0px !important;
+	color: #fff;
+}
+
+.newsletter-api-form-theme1 .newsletter_form1_section-sub_heading {
+	margin: 0px !important;
+	color: #fff;
+}
+.newsletter-api-form-theme1 .newsletter_form1 .form-control {
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 0;
+    color: #ffffff;
+    height: 40px;
+    width: 50%;
+    margin: 10px auto;
+	font-size: 14px;
+	padding: 0px 0px 0px 5px !important;
+}
+
+.newsletter-api-form-theme1 .form-group-button{
+	width: 100%;
+	margin: 0px auto;
+}
+.newsletter-api-form-theme1 .form-group-button .subscriber_submit {
+    width: 200px;
+    height: 40px;
+	border: none;
+}
+.newsletter-api-form-theme1 .newsletter_form1_subscribe-message,.newsletter-api-form-theme1 #error_email2{
+    text-align: center;   
+    color: #fff;    
+    margin: 0px auto;
+    width: 50%;
+    font-weight: bold;
+}
+.newsletter_form1_social li a:before{
+	content: "" !important;
+    left: 0 !important;
+}
+.newsletter_form1_social li:before{
+	content: "" !important;
+    margin: 0 !important;
+}
+.newsletter_form1_social li a {
+  padding-left:0 !important;
+}
+.newsletter_form1_social li {
+  padding:0 !important;
+   border: none !important;
+}
+.newsletter_form1_section-description{
+	color:#fff !important;
+}
+.nlf_form_widget_select_template1 .form-control {
+  width: 100% !important;
+}
+@media(max-width:768px){
+.newsletter_form1 .form-control {
+  width: 100% !important;
+}
+}
+/*** Custom CSS ***/
+
+
+.newsletter_form_subscribe .main_div{
+	position: fixed;
+	z-index: 99999;
+	background-color: rgba(0, 0, 0, 0.6);
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+.newsletter_form_subscribe .main_div .subscribe-messages{
+	top: 30%;
+	left:35%;
+	width: 600px;
+	border: 2px solid rgb(255, 255, 255);
+	border-radius: 15px;
+	box-shadow: 1px 1px 10px rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	position: absolute;
+	background: rgb(0, 0, 0) none repeat scroll 0% 0%;
+	padding: 40px;
+	font-size: 20px;
+}
+.newsletter_form_subscribe .main_div .subscribe-messages .close_message{
+	top: 2%;
+	right: 5px;
+	padding: 5px;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+	border-radius: 2px;
+	background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+	color: rgb(0, 0, 0);
+	position: absolute;
+	cursor: pointer;
+}
+

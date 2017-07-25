@@ -1,0 +1,9 @@
+.basic-sortable-checkboxes li {
+	border: 1px solid #c6c6c6;
+	padding: 7px;
+	background: #f3f3f3;
+}
+.basic-sortable-checkboxes li i.dashicons {
+	float: right;
+	cursor: move;
+}

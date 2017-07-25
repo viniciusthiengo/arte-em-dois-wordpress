@@ -1,0 +1,102 @@
+.basic-child-design {
+	border: 1px solid #bbb;
+	padding: 7px;
+	background: #fff;
+	position: relative;
+	transition: all 0.3s;
+}
+
+.basic-child-design:hover {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#accordion-section-basic_other_themes .basic-child-design a:before,
+#accordion-section-basic_other_themes .basic-child-design a:after {
+	display: block;
+	position: absolute;
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+#accordion-section-basic_other_themes .basic-child-design a:before {
+	content: '';
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(255, 255, 255, 0.4);
+}
+#accordion-section-basic_other_themes .basic-child-design a:after {
+	content: "\f174";
+	font-size: 24px;
+	font-family: 'dashicons', sans-serif;
+	color: #fff;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	height: 20px;
+	line-height: 20px;
+	padding: 10px 0;
+	width: 40px;
+	margin: -20px 0 0 -20px;
+	border-radius:5px;
+	background: #e11651;
+}
+#accordion-section-basic_other_themes .basic-child-design:hover a:before,
+#accordion-section-basic_other_themes .basic-child-design:hover a:after {
+	opacity: 1;
+}
+
+#accordion-section-basic_other_themes .accordion-section-title{
+	border-right: 3px solid #e11651;
+}
+#accordion-section-basic_additional_design .accordion-section-title {
+	border-right: 3px solid #008ec2;
+}
+#accordion-section-basic_other_themes .accordion-section-title,
+#accordion-section-basic_additional_design .accordion-section-title {
+	font-weight: bold;
+	background: #f5f5f5;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+}
+
+#accordion-section-basic_other_themes .accordion-section-title:before,
+#accordion-section-basic_additional_design .accordion-section-title:before {
+	content: "\f100";
+	font-family: 'dashicons', sans-serif;
+	font-size: 24px;
+	line-height: 5px;
+	position: relative;
+	top: 7px;
+	margin-right: 5px;
+}
+#accordion-section-basic_other_themes .accordion-section-title:before{
+	content: "\f313";
+}
+
+#customize-controls #accordion-section-basic_additional_design:hover > .accordion-section-title {
+	background: #edfaff;
+}
+#customize-controls #accordion-section-basic_additional_design:hover > .accordion-section-title,
+#customize-controls #accordion-section-basic_additional_design:hover > .accordion-section-title:before,
+#customize-controls #accordion-section-basic_additional_design:hover > .accordion-section-title:after {
+	color: #008ec2;
+}
+
+#customize-controls #accordion-section-basic_other_themes:hover > .accordion-section-title {
+	background: #fff1f5;
+}
+#customize-controls #accordion-section-basic_other_themes:hover > .accordion-section-title,
+#customize-controls #accordion-section-basic_other_themes:hover > .accordion-section-title:before,
+#customize-controls #accordion-section-basic_other_themes:hover > .accordion-section-title:after {
+	color: #e11651;
+}
+
+#customize-controls #accordion-section-basic_additional_design > .accordion-section-title:after,
+#customize-controls #accordion-section-basic_other_themes > .accordion-section-title:after {
+	transition: right 0.3s;
+
+}
+#customize-controls #accordion-section-basic_additional_design:hover > .accordion-section-title:after,
+#customize-controls #accordion-section-basic_other_themes:hover > .accordion-section-title:after {
+	right: 5px;
+}

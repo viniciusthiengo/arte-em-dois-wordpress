@@ -1,0 +1,35 @@
+Version 1.0.0 (23-Aug-2016)
+i) Theme Submitted for approval.
+
+Version 1.0.1 (20-Jan-2017)
+i) Minor fixes.
+
+Version 1.0.2 (31-Jan-2017)
+i) Removed depricated functions.
+ii) Fixed gradient color and header text color option.
+iii) Fixed site title and tagline option.
+
+Version 1.0.3 (02-Feb-2017)
+i) Minor bug fixes.
+
+Version 1.0.4 (03-Feb-2017)
+i) Changed Screenshot.
+ii) Misc Changes.
+
+Version 1.0.5 (03-Feb-2017)
+i) Removed Extra CSS code.
+
+Version 1.0.6 (03-Feb-2017)
+i) Added Documentation Menu Link.
+
+Version 1.0.7 (06-Feb-2017)
+i) Added Documentation Menu Link.
+
+Version 1.0.8 (10-Feb-2017)
+i) Added new blog post widget.
+ii) Added new key feature widget.
+iii) Added new option for headline widget.
+
+Version 1.0.9 (18-May-2017)
+i) Changed pro feature image.
+ii) Minor improvement changes.

@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Radiate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-26 16:33+0545\n"
+"PO-Revision-Date: Wed Jul 15 2015 12:07:52 GMT+0200 (Romance Standard Time)\n"
+"Last-Translator: admin <apexfysio@gmail.com>\n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"Language: Danish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Target-Locale: da_DK"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Siden kan ikke findes."
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Try searching with some "
+"keywords."
+msgstr "Din søgning gav intet resultat. Prøv at søg med nøgleord. "
+
+#: ../archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: ../archive.php:41
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: ../archive.php:44
+#, php-format
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: ../archive.php:47
+#, php-format
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: ../archive.php:50
+msgid "Asides"
+msgstr "Sidebemærkninger"
+
+#: ../archive.php:53
+msgid "Images"
+msgstr "Billeder"
+
+#: ../archive.php:56
+msgid "Videos"
+msgstr "Videoer"
+
+#: ../archive.php:59
+msgid "Quotes"
+msgstr "Citater"
+
+#: ../archive.php:62
+msgid "Links"
+msgstr "Links"
+
+#: ../archive.php:65 ../sidebar.php:19
+msgid "Archives"
+msgstr "Arkiver"
+
+#: ../comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+"En tanke om \"%2$s\"\n"
+"	\n"
+"	\n"
+msgstr[1] ""
+
+#: ../comments.php:39 ../comments.php:57
+msgid "Comment navigation"
+msgstr "Kommentar navigation	"
+
+#: ../comments.php:40 ../comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer	"
+
+#: ../comments.php:41 ../comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: ../content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til at udgive dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: ../content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, men din søgning gav ingen resultater. Prøv igen med nogle andre "
+"søgeord."
+
+#: ../content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det ser ud til, at vi ikke kan finde det, du leder efter. Måske vil en "
+"søgning hjælpe."
+
+#: ../content-page.php:20 ../content-single.php:24 ../content.php:29
+msgid "Pages:"
+msgstr "Sider:"
+
+#: ../content-page.php:25 ../content-single.php:57 ../content.php:63
+msgid "Edit"
+msgstr "Rediger"
+
+#: ../content-single.php:34 ../content-single.php:44 ../content.php:40
+#: ../content.php:50
+msgid ", "
+msgstr ","
+
+#: ../content-single.php:54 ../content.php:60
+msgid "Leave a comment"
+msgstr "Skriv en kommentar"
+
+#: ../content-single.php:54 ../content.php:60
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: ../content-single.php:54 ../content.php:60
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: ../content.php:26
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Læs mere <span class=\"meta-nav\">&rarr;</span>	"
+
+#: ../footer.php:19
+msgid "Proudly  powered by "
+msgstr "Drevet af %s	"
+
+#: ../footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:22
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s by %2$s."
+
+#: ../front-page.php:34
+msgid "Read more"
+msgstr "Læs mere"
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr "Primære Menu	"
+
+#: ../functions.php:71
+msgid "Sidebar"
+msgstr "Sidebar	"
+
+#: ../header.php:38
+msgid "Skip to content"
+msgstr "Videre til indhold"
+
+#: ../inc/custom-header.php:41
+msgid "Header Image One"
+msgstr "Overskrifts billede et"
+
+#: ../inc/customizer.php:38
+msgid "Site Title"
+msgstr "Side Titel"
+
+#: ../inc/customizer.php:69
+msgid "Primary Color"
+msgstr "Primær Farve"
+
+#: ../inc/customizer.php:79
+msgid "Custom CSS"
+msgstr "Special CSS"
+
+#: ../inc/customizer.php:98
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "Tilføj din CSS kode her og design live! (for avancerede brugere)"
+
+#: ../inc/customizer.php:108
+msgid "Front Page Featured Section"
+msgstr "Fremhævet forside Sektion\n"
+
+#: ../inc/customizer.php:136
+msgid "First featured page"
+msgstr "Første fremhævede side"
+
+#: ../inc/customizer.php:144
+msgid "Second featured page"
+msgstr "Anden fremhævede side"
+
+#: ../inc/customizer.php:152
+msgid "Third featured page"
+msgstr "Tredje fremhævede side"
+
+#: ../inc/extras.php:82
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+#: ../inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Indlægsnavigation"
+
+#: ../inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ældre indlæg"
+
+#: ../inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nyere indlæg <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "Indlæg navigation"
+
+#: ../inc/template-tags.php:61
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">Forrige indlæg</span> %title	"
+
+#: ../inc/template-tags.php:62
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "<span class=\"meta-nav\">Næste indlæg</span> %title	"
+
+#: ../inc/template-tags.php:84
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/template-tags.php:84
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: ../inc/template-tags.php:99
+msgid "Post author"
+msgstr "Forfatter"
+
+#: ../inc/template-tags.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#: ../inc/template-tags.php:104
+#, php-format
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: ../inc/template-tags.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#: ../inc/template-tags.php:115
+msgid "Reply"
+msgstr "Svar"
+
+# Søge resultater
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Søgeresultater for: %s"
+
+# Søg efter
+#: ../searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søg efter"
+
+# Søg & Hjælp
+#: ../searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søg &hellip;"
+
+# Søg
+#: ../searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søg"
+
+#: ../sidebar.php:26
+msgid "Meta"
+msgstr "Meta"

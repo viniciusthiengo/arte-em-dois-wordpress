@@ -1,0 +1,8 @@
+div.dropbox-uploader-header { background:url('icon-large.png') no-repeat left center; padding-left:70px; padding-top:8px; height:54px; }
+div.dropbox-uploader-header div.title { font-size:22px; font-weight:100; padding-top:10px; }
+div.dropbox-uploader-header div.version { font-size:10px; font-weight:100; }
+
+/* Class Names Tie In With Shortcode Customization! */
+div.rad-dropbox-error { background:#ffebe8; border:1px solid #cc0000; border-radius:3px; padding:5px; padding-left:10px; }
+div.rad-dropbox-success { background:#9FC; border:1px solid #0C0; border-radius:3px; padding:5px; padding-left:10px; }
+div.message-yellow { background:#FFC; border:1px solid #FC0; border-radius:3px; padding:5px; padding-left:10px; }

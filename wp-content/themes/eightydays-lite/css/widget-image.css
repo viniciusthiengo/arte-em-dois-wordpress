@@ -1,0 +1,12 @@
+.eightydays-widget-image {
+	display: block;
+}
+.eightydays-widget-image__image {
+	width: 66px;
+	height: 66px;
+	display: block;
+	margin-top: 5px;
+}
+.eightydays-widget-image__image.hidden {
+	display: none;
+}

@@ -1,0 +1,2378 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .yikes-easy-mc-hidden {
+	display: none;
+ }
+
+ .shortcode-input-field {
+	color: #333333;
+	background: rgba(216, 216, 216, 0.35) !important;
+ }
+
+ .edit-form-field-container-span {
+	display: block;
+	margin: .5em 0;
+ }
+
+ .no-forms-widget {
+	margin: 2em 0;
+ }
+
+ .view-ad-link {
+	 display: block;
+	 margin: 0 auto;
+ }
+
+ .no-forms-found-icon {
+	font-size: 14px;
+	line-height: 1.4;
+	width: 14px;
+	color: rgb(224, 125, 125);
+ }
+
+ .coming-soon-button {
+	position: absolute;
+ }
+	.coming-soon-button .dashicons {
+		font-size: 14px;
+		line-height: 1.8;
+	}
+
+.add-ons-about-text {
+	 margin-top: 0;
+}
+
+#add-ons {
+	margin: 3em 0;
+}
+
+.addon-image {
+	display: block;
+	text-align: center;
+}
+
+.no-mailchimp-lists-found {
+	padding: 25px 0 25px 25px;
+}
+
+/***************************/
+/* Manage Lists Page */
+/**************************/
+.add-new-subscriber-button {
+	display:block;
+	margin-top:2em
+}
+
+.add-new-subscriber-form-container {
+	display: none;
+	padding-top: 1em;
+}
+	.add-new-subscriber-form-container h4 {
+		margin-top: 0;
+	}
+
+	/**********************/
+	/** Migrate Options **/
+	/**********************/
+	#migration-buttons {
+		display: inline-block;
+		margin-bottom: .5em;
+	}
+
+	#migration-buttons form:first-child {
+		margin-right: 10px;
+	}
+
+	#migration-buttons form {
+		float: left;
+	}
+
+ /*****************************/
+ /*	Dashboard Widgets   */
+ /****************************/
+
+	/** List Statistics **/
+	#yikes_easy_mc_list_stats_widget h3 span,
+	#yikes_easy_mc_account_activity_widget h3 span {
+		background: url( '../../includes/images/MailChimp_Assets/Freddie_original.png' ) no-repeat scroll 8px 4px / 25px auto;
+		background-size: 25px;
+		display: block;
+		height: 30px;
+		padding-left: 3em;
+		padding-top: 5px;
+	}
+
+	#yikes_easy_mc_account_activity_widget h3.hndle {
+		padding: 0;
+	}
+
+	#yikes_easy_mc_list_stats_widget h3 {
+		padding: 0;
+		line-height: 1.6em;
+	}
+
+	#yikes-easy-mc-dashboard-widget-stats h3 {
+		text-align: center;
+	}
+
+	/* Stat Table */
+	#yikes_easy_mc_list_stats_widget .inside {
+		padding: 0;
+	}
+
+	.yikes-easy-mc-stats-table {
+		margin-top: 1em;
+	}
+
+	.yikes-easy-mc-stats-table,
+	.yikes-easy-mc-stats-table tbody,
+	.yikes-easy-mc-stats-table .yikes-easy-mc-table-stats-tr {
+		display: block;
+		width: 100%;
+	}
+		.yikes-easy-mc-table-stats-tr td {
+			display: inline-block;
+			width: 48%;
+			text-align: center;
+		}
+
+		.yikes-easy-mc-table-stats-tr td:hover {
+			cursor: pointer;
+		}
+
+		.yikes-easy-mc-table-stats-tr td:first-of-type {
+			border-right: 1px solid #ececec;
+		}
+
+		.yikes-easy-mc-stats-table .yikes-easy-mc-table-stats-tr-first {
+			border-bottom: 1px solid #ececec;
+			border-top: 1px solid #ececec;
+		}
+
+		#yikes-easy-mc-widget-stat-holder {
+			margin-top: 1em;
+		}
+
+		.yikes-easy-mc-stats-table p.yikes-easy-mc-dashboard-stat {
+			color: #00a0d2;
+			font-weight: 800;
+			font-size: 20px;
+			margin-bottom: 2px;
+			margin-top: 15px;
+			line-height: 1.2;
+			max-height: 80px;
+		}
+		.yikes-easy-mc-stats-table p.yikes-easy-mc-stat-list-label {
+			font-size: 13px;
+			margin-top: 0;
+			margin-bottom: 15px;
+			font-family: "Open Sans";
+		}
+
+	/** Account Activity **/
+	#yikes_easy_mc_account_activity_widget table th.row-title {
+		padding-left: 10px;
+	}
+
+	/* Thickbox for Tags */
+	#pre-defined-tag-interior-container {
+		background: url(../../includes/images/tinyMCE/yikes-mailchimp-combo-faded.png) bottom right no-repeat #fff;
+		background-size: 40%;
+	}
+
+	/** Qtip Tooltips **/
+	.qtip-default {
+		background-color: transparent !important;
+		border: transparent !important;
+		z-index: 9999999 !important;
+	}
+
+	.qtip-bootstrap {
+		padding: 10px !important;
+		z-index: 9999999 !important;
+		font-size:12px;
+	}
+
+	.search-interest-group-preloader {
+		display: block;
+		margin: 8px 0 0 55px;
+		width: 12px;
+	}
+
+	.no-interest-groupings-enabled-message {
+		display: block;
+		margin-top: 12px !important;
+		width: 100%;
+	}
+
+	.tooltip-integration-banner {
+		max-width: 100%;
+		margin: 0 0 .25em 0;
+	}
+
+	.tooltiptext.qtip-bootstrap {
+		font-size: 12px;
+	}
+
+	.tooltip-title {
+		margin: 0;
+	}
+
+	.dashicons-editor-help:hover {
+		cursor: pointer;
+	}
+
+	body.easy-forms_page_yikes-inc-easy-mailchimp-settings .interest-group-section {
+		display: block;
+		width: 100%;
+		margin: 1.5em 0;
+	}
+
+	body.easy-forms_page_yikes-inc-easy-mailchimp-settings .interest-group-section .interest-group-section-title {
+		display: block;
+		width: 100%;
+		margin: .5em 0;
+		text-decoration: underline;
+	}
+
+	body.easy-forms_page_yikes-inc-easy-mailchimp-settings .interest-group-section input {
+		margin-right: 0;
+	}
+
+	body.easy-forms_page_yikes-inc-easy-mailchimp-settings .interest-group-section label {
+		margin-right: 10px;
+	}
+
+	/* TinyMCE Button Icon */
+	i.mce-ico.mce-i-yks_mc_tinymce_button_key {
+		background: url( '../../includes/images/tinyMCE/Freddie_wink.png');
+		background-size: 18px;
+		background-position-y: 1px;
+		background-repeat: no-repeat;
+	}
+
+	/* TinyMCE Modal */
+	#yikes_mailchimp_tinyMCE_modal-title {
+		padding-left: 42px;
+		background: transparent url('../../includes/images/MailChimp_Assets/Freddie_original.png');
+		background-repeat: no-repeat;
+		background-size: 25px;
+		background-position: left;
+		background-position-x: 10px;
+	}
+
+	#yikes_mailchimp_tinyMCE_modal .mce-foot {
+		border-top: none !important;
+	}
+
+	/* Modal Background Test */
+	#yikes_mailchimp_tinyMCE_modal {
+		background: #fff url('../../includes/images/tinyMCE/yikes-mailchimp-combo-faded.png');
+		background-position: bottom left;
+		background-size: 40%;
+		background-position-x: 10px;
+		background-position-y: 95%;
+		background-repeat: no-repeat;
+	}
+		#yikes_mailchimp_tinyMCE_modal .mce-foot {
+			background: transparent;
+		}
+/***************************/
+/*		Front end Widget	 */
+/**************************/
+*[id*="_yikes_easy_mc_widget"] > div.widget-top > div.widget-title > h4 {
+	background: #FAFAFA url('../../includes/images/MailChimp_Assets/Freddie_original.png') no-repeat scroll 2% 50% / 25px auto;
+	padding-left: 40px;
+}
+
+ /************************/
+ /*	   Global Styles	  */
+ /***********************/
+
+ /* Logo */
+ #review-yikes-easy-mailchimp-notice #yikes-mailchimp-logo {
+	background: url('../../includes/images/Welcome_Page/yikes-mailchimp-welcome-logo.png') no-repeat;
+	background-size: 60px;
+	float: left;
+	font-size: 14px;
+	height: 80px;
+	text-align: center;
+	width: 80px;
+}
+
+.about-wrap img.yikes-easy-mc-feature-image.yikes-easy-mc-feature-image-left, .yikes-easy-mc-feature-image-left {
+	float: left;
+	margin-right: 30px;
+	margin-left: 0 !important;
+}
+
+.need-support-icon {
+	line-height: 1.5;
+}
+
+ul.support-option-list {
+	display: inline-block;
+	width: 100%;
+}
+
+.support-option {
+	float: left;
+}
+	.support-option-second {
+		margin-left:10px;
+	}
+
+#yikes-mailchimp-logo.support-page {
+	float: left;
+	width: 80pt;
+}
+
+.yikes-easy-mc-whats-new-section-image {
+	float: none;
+	width: 100%;
+	margin-left: 0 !important;
+}
+
+.welcome-page-tabs {
+	margin-top: 2em !important;
+}
+
+/* Welcome Page */
+.welcome-page-about-wrap .about-text,
+.welcome-page-about-wrap h2.welcome-title {
+	margin-left: 115px;
+}
+
+.whats-new-wrap img.yikes-easy-mc-whats-new-section-image {
+	margin-top: 10px;
+}
+
+.whats-new-wrap .feature-section:nth-child(1) img {
+	float: left;
+}
+
+.whats-new-wrap .feature-section:nth-child(3) img {
+	float: right;
+	width: 250px;
+	margin-right: 0 !important;
+	margin-left: 30px;
+}
+
+.whats-new-wrap .feature-section:nth-child(4) img {
+	margin-left: 0 !important;
+}
+
+
+#yikes-mailchimp-logo {
+	height: 132px;
+	width: 132px;
+	font-size: 14px;
+	text-align: center;
+	background: url('../../includes/images/Welcome_Page/yikes-mailchimp-welcome-logo.png') no-repeat;
+}
+
+.about-wrap #yikes-mailchimp-logo {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.about-wrap h2 {
+	text-align: left;
+}
+
+.edd-welcome-screenshots {
+	float: right;
+	margin-left: 10px!important;
+}
+
+.about-wrap .feature-section {
+	margin-top: 20px;
+}
+
+.about-wrap .feature-section p {
+	max-width: 40em;
+}
+
+.about-wrap img.yikes-easy-mc-feature-image {
+	float: right;
+	margin-left: 30px;
+}
+
+.yikes-easy-mc-feature-image.yikes-easy-mc-feature-v3-image {
+	border: 0;
+	margin-left: 100px !important;
+	margin-right: 100px;
+	max-height: 340px;
+	width: auto;
+}
+
+#credit-container,
+#translators-container {
+	display: inline-block;
+	width: 100%;
+}
+
+#credit-container h2,
+#translators-container h2 {
+	margin: 0 0 .5em 1em;
+}
+
+#translators-container {
+	margin-top: 5em;
+}
+
+#translators-container .translation-language {
+	color: #333;
+}
+
+	#credit-container .team-member,
+	#translators-container .translator {
+		margin: 1em 0;
+		margin-right: 5%;
+		text-align: center;
+	}
+
+	#credit-container .team-member img,
+	#translators-container .translator img	{
+		border-radius: 50%;
+	}
+
+	.admin_page_yikes-mailchimp-welcome .about-wrap div.error,
+	.admin_page_yikes-mailchimp-welcome .about-wrap div.updated {
+		display: block;
+		margin-left: 115px;
+	}
+
+	.github-avatar-image {
+		width: 100px;
+	}
+
+	.github-avatar-url {
+		display: inline-block;
+		width: 20%;
+		text-decoration: none;
+	}
+
+	github-avatar-url:focus {
+		outline: 0; /* remove blue outline around avatars when clicked */
+	}
+
+/* End Welcome Page */
+
+	/* Form Customizer Upsell */
+	div.show-some-love-container img.customizer-upsell-banner,
+	body.admin_page_yikes-mailchimp-edit-form div.show-some-love-container img {
+		max-width: 100%;
+	}
+
+	body.admin_page_yikes-mailchimp-edit-form div.show-some-love-container p:first-child {
+		font-style: italic;
+	}
+
+	body.admin_page_yikes-mailchimp-edit-form div.show-some-love-container hr {
+		margin: 1em 0;
+	}
+
+	body.admin_page_yikes-mailchimp-welcome .nav-tab-wrapper .nav-tab .dashicons {
+		font-size: 17px;
+		line-height: 1.5;
+	}
+
+
+	/**
+	*	Knowledge base tab
+	*/
+	body.admin_page_yikes-mailchimp-welcome #kb-container,
+	body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles {
+		display: inline-block;
+		margin-top: 1em;
+	}
+
+		body.admin_page_yikes-mailchimp-welcome #kb-container h1 {
+			font-size: 20px;
+			margin-top: -1em;
+		}
+
+	body.admin_page_yikes-mailchimp-welcome #kb-container .knowledge-base-listing,
+	body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles .knowledge-base-listing {
+		width: 45%;
+		margin-right: 2%;
+		float: left;
+		min-height: 260px;
+	}
+
+	body.admin_page_yikes-mailchimp-welcome #kb-container .knowledge-base-listing li,
+	body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles .knowledge-base-listing li {
+		margin: 12px 0;
+		text-decoration: none;
+	}
+
+	body.admin_page_yikes-mailchimp-welcome #kb-container .knowledge-base-listing li:before,
+	body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles .knowledge-base-listing li:before {
+		font-family: "dashicons";
+		content: "\f123";
+		vertical-align: middle;
+		display: block;
+		float: left;
+		margin: 0 5px 5px 0;
+	}
+
+		body.admin_page_yikes-mailchimp-welcome #kb-container .knowledge-base-listing li a,
+		body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles .knowledge-base-listing li a {
+			text-decoration: none;
+		}
+
+		body.admin_page_yikes-mailchimp-welcome #kb-container .knowledge-base-listing li.list-title,
+		body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles .knowledge-base-listing li.list-title {
+			font-size: 17px;
+			font-weight: 200;
+			text-decoration: underline;
+		}
+
+		body.admin_page_yikes-mailchimp-welcome #kb-container .knowledge-base-listing li.list-title:before,
+		body.easy-forms_page_yikes-inc-easy-mailchimp-support .knowledge-base-articles .knowledge-base-listing li.list-title:before {
+			content: "";
+			padding-left: 12px;
+		}
+
+		body.admin_page_yikes-mailchimp-welcome .new-feature-list {
+			list-style: none;
+			line-height: middle;
+		}
+
+			body.admin_page_yikes-mailchimp-welcome .new-feature-list li {
+				margin-bottom: 10px;
+			}
+
+			body.admin_page_yikes-mailchimp-welcome .new-feature-list li:before {
+				font-family: "dashicons";
+				content: "\f139";
+				padding-right: 2px;
+				font-size: 20px;
+				vertical-align: middle;
+			}
+
+	/*
+	*	End knowledge base listings
+	*/
+
+	/* Button Container in Review Us Container */
+	#review-yikes-easy-mailchimp-notice .button-container {
+		display: block;
+		width: 100%;
+		margin: .75em 0 1.5em 0;
+	}
+
+		#review-yikes-easy-mailchimp-notice .button-container .dashicons {
+			font-size: 14px;
+			line-height: 1.9;
+			margin-left: -4px;
+		}
+
+		/* Star Icon */
+		#review-yikes-easy-mailchimp-notice .button-container .dashicons-star-filled {
+			color: #E6B800;
+		}
+
+		/* Upgrade Icon */
+		#review-yikes-easy-mailchimp-notice .button-container .dashicons-upload {
+			color: #6E8841;
+		}
+
+		/* Dismiss Icon */
+		#review-yikes-easy-mailchimp-notice .button-container .dashicons-no-alt {
+			color: rgb(220, 58, 58);
+			line-height: 2;
+		}
+
+		body.easy-mailchimp_page_yikes-inc-easy-mailchimp-settings .dashicons-no-alt {
+			color: rgb(220, 58, 58);
+		}
+
+		#review-yikes-easy-mailchimp-notice .button-container a {
+			margin-right: 10px;
+		}
+
+ /* Dismiss-able Notice */
+ #review-yikes-easy-mailchimp-notice {
+	border-left: 4px solid #00a0d2;
+	background: #fefefe;
+	padding: 1px 12px;
+	padding-top: 10px;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+	margin: 15px 25px 20px 5px;
+ }
+
+ /* Readonly Textareas */
+ textarea[readonly],
+ input[readonly],
+ textarea.readonly,
+ input.readonly {
+	background: #D8D8D8;
+ }
+
+ .dashicons.yikes-love {
+	color: pink;
+ }
+
+ .field-description-input {
+	resize: vertical;
+	max-height: 100px;
+ }
+ .yikes-easy-mc-postbox h3 {
+    background: #00a0d2;
+	font-weight: 800;
+	color: #ffffff;
+ }
+	.yikes-easy-mc-postbox h3.bg-transparent {
+		color: #333;
+		font-weight: 400;
+		background: transparent;
+	}
+
+ .yikes-mc-warning-message {
+	padding-left: 15px;
+	margin-top: 0;
+	padding-top: 10px;
+	color: rgb(218, 110, 110);
+ }
+
+ .error-message-container label[for="yikes-easy-mc-success-message"],
+ .error-message-container label[for="yikes-easy-mc-success-single-optin-message"],
+ .error-message-container label[for="yikes-easy-mc-user-resubscribed-success-message"],
+ .error-message-container label[for="yikes-easy-mc-general-error-message"],
+ .error-message-container label[for="yikes-easy-mc-user-subscribed-message"],
+ .error-message-container label[for="yikes-easy-mc-user-subscribed-update-link"],
+ .error-message-container label[for="yikes-easy-mc-user-email-subject"],
+ .error-message-container label[for="yikes-easy-mc-user-email-body"] {
+	padding: .5em 1em;
+	background: rgba(241, 241, 241, 0.75);
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	margin: 0;
+ }
+
+	body.admin_page_yikes-mailchimp-edit-form #error-container {
+		padding: 2px 1em;
+		background: rgba(241, 241, 241, 0.75);
+		box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		margin: 0;
+		color: #F56060;
+	}
+
+ .error-message-container label:last-child {
+	padding-bottom: 1em;
+	margin-bottom: .5em;
+ }
+
+ .error-message-container label,
+ .form-settings-container label {
+	display: block;
+	margin: 1em 0;
+ }
+
+ .yikes-easy-forms-sidebar .yikes-mc-settings-expansion-section {
+	padding: .5em .75em;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+ }
+
+.yikes-mc-settings-expansion-section {
+	display: none;
+	background: rgba(241, 241, 241, 0.75);
+}
+
+ 	.yikes-mc-settings-expansion-section .form-table td {
+ 		padding: 10px 10px;
+ 		vertical-align: top;
+ 	}
+
+		.yikes-mc-settings-expansion-section .form-table td p.description {
+ 			line-height: 1;
+			margin-top: 2px;
+		}
+
+	.expansion-section-title {
+		background: #ffffff;
+	}
+	.expansion-section-title.settings-sidebar, .form-builder-section-title {
+		text-decoration: none;
+		display: block;
+		border: 1px solid rgba(177, 177, 177, 0.71);
+		color: #333333;
+		padding: 5px;
+		margin: .5em 0 0 0;
+	}
+	.expansion-section-title.settings-sidebar .dashicons, .form-builder-section-title .dashicons {
+		content: "\f132";
+		font-family: "dashicons";
+		font-size: 15px;
+		line-height: 1.5;
+	}
+ /*********************************/
+ /** Settings/Options Page  **/
+ /********************************/
+	/* Add-Ons Valid/Invalid License */
+	span.easy-mailchimp-add-on-valid-license-container {
+		color: rgb(68, 186, 68);
+		display: block;
+		margin-top: 1em;
+	}
+
+	.easy-mailchimp-add-on-invalid-license-container {
+		color: rgba(227, 107, 107, 0.86);
+		display: block;
+		margin-top: 1em;
+	}
+
+	/* Set overflow to visible to display our arrow for visual indicator */
+	.options-sidebar .yikes-easy-mc-postbox {
+		overflow: visible;
+	}
+
+	.options-sidebar .inside {
+		padding: 0 20px 12px;
+	}
+
+	/* About Text Spacing */
+	.yikes-easy-mc-about-text {
+		margin-top: 0;
+	}
+	.add-on-settings-divider {
+		margin: 1em 0 !important;
+	}
+	/* Input Field Styles */
+	#yks-mailchimp-double-optin-message,
+	#yks-mailchimp-single-optin-message,
+	.settings-page-input {
+		width: 50%;
+	}
+
+	#yks-mailchimp-double-optin-message,
+	#yks-mailchimp-single-optin-message {
+		min-height: 75px;
+		max-height: 200px;
+		resize: vertical;
+	}
+
+	#settings-nav li a,
+	#addon-settings-nav li a {
+		color: #333333;
+		text-decoration: none !important;
+		 transition: color .15s ease-out;
+		-moz-transition: color .15s ease-out;
+		-webkit-transition: color .15s ease-out;
+		-o-transition: color .15s ease-out;
+	}
+		#settings-nav li a:hover,
+		#addon-settings-nav li a:hover {
+			color: #00a0d2 !important;
+		}
+
+		#addon-settings-nav {
+			margin-bottom: 0;
+			margin-top: 5px;
+		}
+
+	/* Selected Options Page Arrow */
+	.option-menu-selected-arrow {
+		width: 0;
+		height: 0;
+		border-top: 10px solid transparent;
+		border-bottom: 10px solid transparent;
+		border-left: 10px solid #a0a5aa;
+		position: absolute;
+		left: -.1em;
+	}
+
+	.option-menu-selected-arrow+a {
+		color: #00a0d2 !important;
+	}
+
+	label[for="yikes-mailchimp-debug-status"] {
+		display: inline-block;
+		margin-bottom: 1em;
+		line-height: 2.25;
+	}
+
+	#yikes-mailchimp-debug-status {
+		float: left;
+		margin-top: .5em;
+	}
+
+	label[for="yikes-mc-recaptcha-setting"],
+	label[for="yikes-mc-recaptcha-api-key"] {
+		display: block;
+		margin-bottom: 1em;
+	}
+
+	input.recaptcha-setting-checkbox {
+		display: block;
+		margin-top: .5em;
+	}
+
+	.recaptcha-preview-link {
+		display: block;
+		margin-top: .5em;
+	}
+
+	.recaptcha-preview-container {
+		display: block;
+		width: 100%;
+		display: none;
+		margin:1em 0;
+	}
+
+	/** Support Page **/
+	.wrap #col-right,
+	.wrap #col-left {
+		width: 49%;
+	}
+
+	@media (max-width:800px){
+		.wrap #col-right,
+		.wrap #col-left {
+			width: 100%;
+		}
+	}
+
+	.support-page-logo {
+		width: 100%;
+		opacity: .7;
+		max-width: 100%;
+		display: block;
+	}
+
+	.support-page-button {
+		display: block;
+		width: 100%;
+		min-height: 40px;
+		font-weight: bold;
+		text-align: center;
+		line-height: 3 !important;
+		margin-top: 1em !important;
+	}
+
+	.support-page-wordpress-font {
+		font-size:1.3em;
+		margin-right:13px;
+	}
+
+	h2.premium-support-title {
+		margin: 1em 0 .5em 0;
+	}
+
+	#premium-support-form {
+		display: block;
+		width: 100%;
+	}
+
+	#premium-support-form input[type="text"],
+	#premium-support-form input[type="email"],
+	#premium-support-form input[type="submit"],
+	#premium-support-form select {
+		display: block;
+		width: 100%;
+		min-width: 200px;
+		margin: .5em 0;
+	}
+
+	#premium-support-form label {
+		font-weight: 800;
+	}
+		#premium-support-form label input,
+		#premium-support-form label select {
+			font-weight: 500;
+		}
+		#premium-support-form p {
+			font-weight: 300;
+			display: block;
+			margin-bottom: 1em;
+		}
+
+	#wp-support-content-wrap {
+		min-height: 150px;
+		width: 100%;
+	}
+
+	.support-form-hidden {
+		display: none !important;
+	}
+	/* End Support Page */
+
+ 	/****************************************/
+	/*			Debug Settings Page		 */
+	/***************************************/
+	#yikes-mailchimp-error-log .row-title {
+		font-weight: 400;
+	}
+
+	.create-error-log-help:hover {
+		cursor: pointer;
+	}
+
+	.error-log-tr td {
+		display: table;
+		margin-bottom: 1em;
+		margin-top: .5em;
+	}
+
+		p.to-start-logging-errors-notice em,
+		p.error-log-missing-file em {
+			margin: 10px 0;
+		}
+
+	/***********************************************/
+	/*			Import/Export Forms Page		 */
+	/*********************************************/
+	.export-custom-forms-list {
+		display: none;
+		margin: 1em 0 2em 0;
+	}
+
+		.export-custom-forms-list p {
+			margin-top: 0;
+		}
+
+/******************************/
+/*		Lists Page			 */
+/*****************************/
+.list-rating-star {
+	color: #E6B800;
+}
+/*********************************/
+/*		Accont Details Page	*/
+/********************************/
+/* Chimp Chatter */
+#chimp-chatter {
+	text-align: center;
+}
+	#chimp-chatter .chimp-chatter-container {
+		margin: 1em 0.2em;
+		background: #F8F8F8;
+		border-radius: 10px;
+		float: left;
+		height: 220px;
+		padding: 10px;
+		width: 44%;
+	}
+
+	.chimp-chatter-mailchimp-logo {
+		width: 100%;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.chimp-chatter-sidebar h2.account-status {
+		text-align: center;
+	}
+
+	.mailchimp-affiliate-link {
+		color: #333;
+		display: none;
+	}
+
+	.mailchimp-avatar {
+		display: block;
+		margin: 0 auto;
+		box-shadow: 3px 3px 10px 0px rgba(214, 214, 214, 0.75);
+	}
+
+	.chimpchatter-button-container {
+	    clear: both;
+	    display: block;
+	}
+
+	.chimp-chatter-postbox {
+		float: left;
+		width: 49%;
+		margin-right: 1%;
+	}
+
+	#account-details .chimp-chatter-postbox.even {
+		margin-right: 0;
+	}
+
+
+/* Inactive + Active Markers */
+.circle-account-inactive {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: -3px;
+	margin-right: 5px;
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+	background: rgba(250, 138, 138, 0.79);
+}
+.chatter-type {
+    font-weight: 600;
+    font-family: "open sans";
+    font-size: 14px;
+    margin: 5px 5px 0 5px;
+}
+.chatter-message {
+   margin: 2px 2px 15px 2px !important;
+}
+.circle-account-active {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: -3px;
+	margin-right: 5px;
+	height: 15px;
+	width: 15px;
+	border-radius: 50%;
+	background: rgba(128, 214, 128, 0.77);
+}
+#account-details .mailchimp-avatar {
+	width: 120px;
+	border-radius: 10%;
+	margin-top: .5em;
+}
+/* Chatter Container Colors */
+.chimp-chatter-positive {
+	border-left: 4px solid rgb(157, 223, 157);
+}
+.chimp-chatter-negative {
+	border-left: 4px solid #FBA2A2;
+}
+.chimp-chatter-neutral {
+	border-left: 4px solid rgb(177, 177, 177);
+}
+/* Sidebar Create a new opt-in form */
+#import-list-to-site {
+	margin-top: 10px;
+}
+	#import-list-to-site .input-field {
+		display: block;
+		width: 100%;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	#import-list-to-site .form-description {
+		resize: vertical;
+		max-height: 65px;
+	}
+	#import-list-to-site .description {
+		margin-top: 5px;
+	}
+	input.clear-mailchimp-api-cache {
+		float: right;
+		margin-top: -33px !important;
+	}
+	.yikes-list-refreshed-notice {
+		border-left: 4px solid #46b450;
+		margin: 5px 0;
+	}
+		.yikes-list-refreshed-notice p {
+			margin: 1em 0 .5em 0;
+			padding: 6px 12px;
+			background: rgba(241, 241, 241, 0.5);
+			font-size: 13px;
+			line-height: 1.5;
+		}
+	.star-container {
+		margin-top: 5px;
+		margin-bottom: 1.5em;
+	}
+	.star-container a {
+		text-decoration: none;
+	}
+	.star-container .dashicons-star-filled {
+		font-size: 1.75em;
+	}
+	.sidebar-container {
+		margin-top: 5px;
+		margin-bottom: 1.5em;
+	}
+	.sidebar-footer-text {
+		margin: 15px 0 !important;
+		text-align: center;
+	}
+	.sidebar-twitter-icon {
+		text-decoration: none;
+		color: #55ACEE;
+	}
+	/* Field no longer exists warning */
+	.field-doesnt-exist-notice {
+		position: absolute;
+		margin-left: 5px;
+		width: 18px;
+	}
+	.field-type-text {
+		display: inline-block;
+		float: right;
+		margin-right: 0.1em;
+	}
+	.type-container {
+		margin-top: 0;
+		margin: 0;
+	}
+	.form-field-container {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	/* 2nd Error */
+	.field-no-longer-exists-warning {
+		position: absolute;
+		margin-left: 5px;
+		width: 18px;
+	}
+	/* Form Field Radios/Checkboxes */
+	.form-field-container tr.yikes-checkbox-container input[type="checkbox"] {
+	    float: left;
+	    margin: 5px;
+	}
+
+	.form-field-container tr.yikes-checkbox-container-first td {
+		padding-top: 12px !important;
+	}
+
+		.form-field-container tr.yikes-checkbox-container td {
+			padding: 2px 12px;
+		}
+
+		.form-field-container td input[type="checkbox"]:first-child,
+		.form-field-container td input[type="radio"]:first-child {
+			margin-left: 0 !important;
+		}
+	/* Merge variable ID */
+	.merge-tag-text {
+		background: transparent;
+		box-shadow: none;
+		border: none;
+	}
+	.pre-defined-tag-link {
+		display: block;
+		font-size: 11px;
+		margin-top: -2px;
+	}
+	/* Close/Delete Buttons */
+	.toggle-container {
+		font-size: small;
+		float: right;
+	}
+	/* Pre-Defined Tag container/modal */
+	#pre-defined-tag-container {
+		display: none;
+	}
+		#pre-defined-tag-container h3 {
+			margin-bottom: 0;
+		}
+		#pre-defined-tag-container .tooltop-tag .dashicons-editor-help {
+			font-size: 13px;
+			line-height: 1.5;
+		}
+		.no-fields-assigned-notice {
+			margin: 4em 0 2.25em 0;
+			padding-bottom: 6em;
+			width: 100%;
+			text-align: center;
+			background: url( '../../includes/images/no-form-fields-assigned-arrow.jpg' ) no-repeat;
+			background-position: bottom center;
+			background-size: 105px;
+		}
+	/* Yikes MailChimp Preloader */
+	.yikes-easy-mc-widget-preloader {
+		position: absolute;
+		left: 48%;
+		margin-top: -96px;
+	}
+	/* Yikes MailChimp Widget */
+	.yikes-dashboard-widget-section {
+		padding: 0 12px 12px;
+	}
+	.select-list-title {
+		padding-left: 0;
+	}
+	.yikes-dashboard-widget-section .description {
+		margin: .5em 0 0 0;
+	}
+	. error-descripion {
+		padding-top: .5em;
+	}
+	/* MailChimp Freddie Logo */
+	.yikes-mc-freddie-logo {
+		float: left;
+		margin-right: 10px;
+	}
+/* Merge Variable / Interest Group Toggle */
+.mv_ig_list {
+	width: 100%;
+	margin-bottom: 8px !important;
+	border: none !important;
+	background: transparent !important;
+}
+	.mv_ig_list .list-container {
+		position: absolute;
+	}
+	.mv_ig_list a {
+		width: 48%;
+		padding: 5px 0 !important;
+		text-align: center;
+		margin: 0;
+	}
+	.mv_ig_list a:first-child {
+		margin-right: 0;
+	}
+	.mv_ig_list a:last-child {
+		float: right;
+	}
+
+	.mv_ig_list {
+		margin-bottom: .5em;
+	}
+	.mv_ig_list .nav-tab {
+		border: 1px solid #ccc;
+	}
+		.mv_ig_list .nav-tab-active {
+			color: #fff;
+			font-weight: bold;
+			background: #00a0d2;
+		}
+
+	.mv_ig_list .arrow-down {
+		position: absolute;
+		margin-top: 21px;
+		margin-left: 50px;
+		width: 0;
+		height: 0;
+		border-left: 12px solid transparent;
+		border-right: 12px solid transparent;
+		border-top: 12px solid #00a0d2;
+	}
+
+#container-container {
+	display: inline-block;
+	width: 540px;
+}
+	#container-container .list-container {
+		float: left;
+		width: 254px;
+		position: relative;
+	}
+	#container-container .list-container:last-child {
+		margin-left: 2em;
+	}
+
+#yikes_easy_mc_toolbar {
+	margin-top: -.75em;
+}
+#yikes_easy_mc_toolbar_links {
+	display: inline-block;
+	width: 100%;
+	margin: 0;
+	padding: 10px 0;
+}
+	#yikes_easy_mc_toolbar_links li {
+		float: left;
+		margin: 0 .5em;
+	}
+	#yikes_easy_mc_toolbar_links li a {
+		text-decoration: none;
+		display: inline-block;
+	}
+	#yikes_easy_mc_toolbar_links li a:focus {
+		box-shadow: none;
+	}
+	#yikes_easy_mc_toolbar_links li a.selected_hidden_setting {
+		color: #333333;
+		/* border-bottom: 1px solid rgba(206, 206, 206, 1); */
+		margin-bottom: 3px;
+	}
+	#yikes_easy_mc_toolbar_links li .selected_setting_triangle {
+		width: 0;
+		height: 0;
+		border-left: 13px solid transparent;
+		border-right: 13px solid transparent;
+		border-top: 13px solid rgba(206, 206, 206, 1);
+		margin: 0 auto;
+	}
+		/* Toolbar Icons */
+		#yikes_easy_mc_toolbar_links li a.form-builder:before {
+			content: "\f116";
+			font-family: "dashicons";
+		}
+		#yikes_easy_mc_toolbar_links li a.form-customizer:before {
+			content: "\f100";
+			font-family: "dashicons";
+		}
+		#yikes_easy_mc_toolbar_links li a.error-messages:before {
+			content: "\f117";
+			font-family: "dashicons";
+		}
+		#yikes_easy_mc_toolbar_links li a.form-settings:before {
+			content: "\f111";
+			font-family: "dashicons";
+		}
+
+/*********************************/
+/* Checkbox Settings Page */
+/********************************/
+#checkbox-settings-form .dashicons-editor-help {
+	 font-size: 15px;
+	 line-height: 1.6;
+}
+
+.checkbox-settings-list-dropdown {
+	display: block;
+	width: 250px;
+}
+
+.no-lists-setup-notice {
+	padding: .5em 0 .5em 0;
+}
+
+.optin-checkbox-label-input {
+	display: block;
+	width: 250px;
+}
+
+/*****************************/
+/* Manage Forms Page */
+/***************************/
+
+/* Table */
+.yikes-form-id-number {
+	width: 55px;
+}
+
+span[title="Impressions"]:hover,
+span[title="Submissions"]:hover,
+span[title="Conversion Rate"]:hover {
+	display: block;
+	cursor: pointer;
+}
+
+/* Container holding the form ID */
+.form-id-container {
+	padding: 1px 8px;
+	border-radius: 5px;
+	background: rgb(73, 169, 236);
+	font-weight: bold;
+	color: #ffffff;
+}
+.manage-form-admin-notice {
+	margin-top: 1.75em !important;
+}
+a.yikes-delete-mailchimp-form,
+a.yikes-delete-subscriber,
+.yikes-mc-settings-expansion-section a.remove-field,
+.remove-notification {
+	color: rgb(217, 96, 96) !important;
+}
+.yikes-delete-mailchimp-form {
+	margin-top: 6px;
+}
+#postbox-container-1 .yikes-delete-mailchimp-form {
+	float: right;
+}
+.form-buttons-container {
+	display: block;
+	padding: 11px 10px;
+}
+	.forms-buttons-container input[type="submit"] {
+		margin: 0 0 .5em 0;
+	}
+.update-form-spinner {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	bottom: 13px;
+}
+.yikes-mc-shortcode-input {
+	text-align: center;
+	width: 100%;
+	color: #333333;
+}
+.hidden-class {
+	display: none !important;
+}
+
+.stat-container {
+	width:10%;
+	max-width: 75px;
+}
+
+.no-mailchimp-forms-found em,
+.no-current-subscriber-notice em {
+	padding: 25px 0 25px 25px;
+}
+
+.column-columnname span.stats {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+	.column-columnname span.stats span {
+		display: inline-block;
+		width: 20%;
+	}
+		.column-columnname span.stats span:hover {
+			cursor: pointer;
+		}
+/* Available Form Field List */
+#available-fields li,
+#available-interest-groups li {
+	text-decoration: none;
+	display: block;
+	border: 1px solid rgba(177, 177, 177, 0.71);
+	color: #333333;
+	padding: 5px;
+	margin: .5em 0;
+}
+	#available-fields li.not-available,
+	#available-interest-groups li.not-available {
+		opacity: .6 !important;
+	}
+
+	#available-fields li.field-to-add-to-form,
+	#available-interest-groups li.group-to-add-to-form {
+		background: rgba(46, 162, 204, 0.25);
+	}
+
+/* Add to Form Builder Arrow Icon */
+.add-field-to-editor .add-to-form-builder-arrow,
+.button-secondary .add-to-form-builder-arrow {
+	width: 15px;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+/*	Form Builder Clear Form Fields Button */
+.clear-form-fields {
+	background: #e14d43;
+	border-color: #d02c21;
+	color: #fff;
+	box-shadow: inset 0 1px 0 #ec8b85,0 1px 0 rgba(0,0,0,.15);
+	text-decoration: none;
+	display: inline-block;
+	height: 28px;
+	padding: 0 10px 1px;
+	border-width: 1px;
+	-webkit-appearance: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	font-size: 13px;
+	line-height: 26px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	float: right;
+	margin: 0 11px 10px 0;
+}
+
+.clear-form-fields:hover,
+.clear-form-fields:active,
+.clear-form-fields:focus {
+	background: #dd382d;
+	border-color: #ba281e;
+	color: #fff;
+	box-shadow: inset 0 1px 0 #e8776f;
+}
+/*****************************/
+/*		View User Page		*/
+/*****************************/
+.yikes-mc-view-list-breadcrumbs {
+	padding: .8em;
+	border: 1px solid #D8D8D8;
+	background: #ECECEC;
+	margin: 1.5em 0 .8em 0;
+}
+
+.yikes-mc-member-rating-star {
+	color: goldenrod;
+}
+
+	/* Subscriber Cards */
+	#yikes-mc-subscriber-card-wrapper {
+		background: #fefefe;
+		min-height: 200px;
+		display: inline-block;
+		box-shadow: 0 1px 1px rgba(0,0,0,.04);
+		webkit-box-shadow: 0 1px 1px rgba(0,0,0,.04);
+		border: 1px solid #e5e5e5;
+		padding: 15px 20px;
+		width: 500px;
+		float: left;
+	}
+
+		#yikes-mc-subscriber-card-wrapper .subscriber-optin-ip {
+			display: inline-block;
+			margin: 1em 0 0 0;
+			font-style: italic;
+		}
+
+		.view-user-data-wrap #customer-tab-wrapper-list {
+			float: left;
+			background: #fefefe;
+			margin-top: 0;
+			padding: 12px;
+			margin-left: -1px;
+			border-right: 1px solid #e5e5e5;
+			border-top: 1px solid #e5e5e5;
+			border-bottom: 1px solid #e5e5e5;
+		}
+
+		.view-user-data-wrap #customer-tab-wrapper-list .dashicons {
+			font-size: 23px;
+			height: 23px;
+			width: 23px;
+			margin: 3px 0;
+		}
+
+		.view-user-data-wrap #customer-tab-wrapper-list li.inactive {
+			color: rgba(51, 51, 51, 0.31);
+			transition: color ease-out .1s;
+		}
+
+			.view-user-data-wrap #customer-tab-wrapper-list li.active,
+			.view-user-data-wrap #customer-tab-wrapper-list li.inactive:hover {
+				color: rgba(51, 51, 51, 1);
+			}
+
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-top h2,
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-top img,
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-top .member-star-rating-container {
+			float: left;
+		}
+
+		#yikes-mc-subscriber-card-wrapper #delete-mailchimp-subscriber {
+			display: block;
+			margin: 0 auto;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-top img {
+			border-radius: 3px;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .merge-variable-section li {
+			display: inline-block;
+			list-style: none;
+			float: left;
+			width: 50%;
+			min-height: 65px;
+			border-bottom: 1px dotted #ddd;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .merge-variable-section li p {
+			margin: 0 0 1em 0px;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-top h2 {
+			max-width: 370px;
+			width: 75%;
+			padding: 0;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .member-star-rating-container {
+			display: block;
+			margin: .5em 0;
+			margin-left: 10px;
+		}
+
+		#yikes-mc-subscriber-card-wrapper h2 {
+			margin-left: 10px;
+			margin-top: 0;
+			padding-top: 0;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-top {
+			display: inline-block;
+			width: 100%;
+		}
+
+		#yikes-mc-subscriber-card-wrapper .yikes-mc-card-body {
+			display: inline-block;
+			width: 100%;
+		}
+
+			#yikes-mc-subscriber-card-wrapper .yikes-mc-card-body h4 {
+				margin-top: 0;
+				margin-left: 5px;
+			}
+
+		.yikes-mc-subscriber-hr {
+			margin: 1.5em 0;
+		}
+
+		.member-subscription-date {
+			display: block;
+			width: 70%;
+			max-width: 370px;
+			margin: .5em 0;
+			margin-left: 10px;
+			float: left;
+		}
+
+		.member-location-data {
+			display: block;
+			width: 70%;
+			max-width: 370px;
+			margin: .25em 0;
+			margin-left: 10px;
+			float: left;
+		}
+
+/*****************************/
+/*	Manage Lists Page	*/
+/*****************************/
+.addon-required-link {
+	color: #333333;
+	opacity: .5;
+}
+
+.view-list-sidebar-input {
+	color: #333333;
+}
+
+.merge-variable-ul,
+.interest-group-ul,
+.segment-ul {
+	padding-left: 15px;
+	font-size: 14px;
+}
+	.merge-variable-ul li .dashicons,
+	.interest-group-ul li .dashicons {
+		line-height: 1.8;
+		font-size: 9px;
+	}
+
+	a.button-primary.edit-fields-button {
+		margin: 0 0 10px 15px;
+	}
+
+.merge-variable-count,
+.interest-group-count,
+.segment-group-count {
+	text-decoration: underline;
+	margin-bottom: .75em;
+	padding-left:7px;
+}
+
+.interest-group-title {
+	padding-left: 5px;
+}
+
+.edit-segments-button {
+	margin: 0 0 10px 15px;
+}
+
+.edit-segment-description {
+	padding: 0 0 10px 15px;
+}
+
+#credit-container {
+	margin-top:1.5em;
+}
+
+/***********************/
+/* Edit Form Page  */
+/**********************/
+/* Custom Icons For custom Sections */
+.yikes-easy-mailchimp-custom-content-icon {
+	font-size: 15px;
+	line-height: 1;
+}
+.custom-field-section {
+	display: block;
+	margin: 1em 0;
+}
+#associated-list {
+	width: 100%;
+	margin-top: 5px;
+}
+#redirect-user-to-selection {
+	width: 100%;
+}
+#edit-yikes-mc-form label h3 {
+	margin-left:0;
+	padding-left: 0;
+}
+#available-fields .field-required {
+	color: rgb(217, 96, 96) !important;
+}
+	/* Post Stuff Heading */
+	body.admin_page_yikes-mailchimp-edit-form #poststuff h2 {
+		padding: 8px 12px;
+		margin-top: 0;
+	}
+	.edit-form-form-description {
+		width: 100%;
+		resize: vertical;
+		min-height: 65px;
+		max-height: 100px;
+	}
+
+.edit-form-title {
+	padding-left: 12px !important;
+}
+#edit-form-description {
+	padding: 0 12px;
+	margin: 1em 0;
+}
+.yikes-easy-mc-postbox {
+	overflow: hidden;
+}
+.no-interest-groups-found-message {
+	opacity: .35;
+}
+#interest-groups-container .description,
+#merge-variables-container .description {
+	padding-top: .5em;
+}
+.inside-section-1 {
+	margin-top: 0;
+	margin-bottom: 1.5em;
+}
+.inside-section-2 {
+	 margin-top: 0;
+	 margin-bottom: 2em;
+}
+.form-field-container-span {
+	display: block;
+	margin: .5em 0;
+}
+/* Style List - color pickers etc. */
+#style-list ul li {
+	display: block;
+	width: 100%;
+	margin: 1em 0;
+}
+	.wp-picker-container,
+	.form-style-adjustment {
+		display: block !important;
+		width: 100%;
+		margin: .5em 0;
+	}
+
+.dynamic-email-tag {
+	display: inline-block;
+	margin-right: 5px;
+}
+.dynamic-tag-description td {
+	padding-top: 0;
+}
+
+#create-new-notification-button {
+	margin-top: 1em;
+}
+
+/* File Field Type */
+.file-container {
+	display: none;
+}
+
+.yikes-mailchimp-file-field input[name*="custom-field[incentive-attachment]"] {
+	margin-bottom: .5em;
+}
+
+.yikes-mailchimp-file-field input[name*="custom-field[incentive-attachment]"]+.button-secondary {
+	margin-left: 4px;
+}
+
+input#upload-btn[data-attr-position="1"] {
+	margin-left: 0;
+}
+
+.remove-file-button {
+	background: url('../partials/helpers/fields/img/icon-delete.png');
+	height: 16px;
+	position: absolute;
+	text-indent: -99999px;
+	width: 16px;
+}
+
+a.add-new-incentive-attachment {
+	display: block;
+	width: 40px;
+	margin-right: 100% !important;
+	margin-top: .5em !important;
+}
+	a.add-new-incentive-attachment .dashicons {
+		font-size: 15px;
+		line-height: 1.8;
+	}
+
+.form-builder-placeholder {
+	background: rgba(206, 206, 206, 0.20);
+	height: 30px;
+}
+
+/******************************************/
+/*	  Edit Form Form Settings Section    */
+/****************************************/
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-title {
+	font-size: 1em;
+	border-bottom: 1px solid rgba(187, 187, 187, 0.29);
+	display: block;
+	width: 100%;
+	padding-bottom: 6px;
+	margin-bottom: .5em;
+	margin-top: 1.5em;
+}
+
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-title.first {
+		margin-top: 0;
+	}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior {
+	display: inline-block;
+	width: 100%;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	background: rgba(241, 241, 241, 0.75);
+	padding: 1em;
+}
+
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior label {
+		margin-top: 0;
+	}
+
+label.login-restriction-center {
+	display: block;
+	width: 100%;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .date-restirction-section {
+	display: inline-block;
+}
+
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .date-restirction-section p.description.error {
+		color: #F56060;
+	}
+
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .date-restirction-section label {
+		float: left;
+		margin-right: .5em;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .nested-child .yikes-easy-mc-form-restriction-pending-message,
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .nested-child .yikes-easy-mc-form-restriction-expired-message,
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .nested-child .yikes-easy-mc-form-restriction-login-message {
+	display: block;
+	width: 100%;
+	min-height: 50px;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .nested-child {
+	float: left;
+	padding-left: 2%;
+	width: 98%;
+	border-left: 1px dashed #BDBDBD;
+	border-spacing: 2px;
+	margin: .5em 0 1em 0;
+}
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .nested-child .yikes-easy-mc-submit-button-text {
+		margin: 0;
+	}
+
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .date-restirction-section {
+		margin-bottom: 0;
+	}
+
+	.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .date-restirction-section.last {
+		margin-bottom: .75em;
+	}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .nested-child.hidden {
+	display: none;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .description + label {
+	margin-top: 1em;
+	float: left;
+	width: 100%;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior label.inline-form-label {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior .description {
+	display: block;
+	width: 100%;
+	float: left;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .section-interior strong:first-child,
+.admin_page_yikes-mailchimp-edit-form #form-settings .nested-child strong:first-child {
+	display: block;
+	width: 100%;
+}
+
+.admin_page_yikes-mailchimp-edit-form #form-settings .inline-form-label {
+	float: left;
+	margin-right: 10px;
+}
+
+
+/******************************************/
+/*		Edit Form Custom Fields	   */
+/****************************************/
+/**
+*	Timepickers
+*	@since 6.0.3.8
+*/
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-wrapper {
+	overflow-y: auto;
+	height: 150px;
+	width: 170px;
+	background: #fff;
+	border: 1px solid #ddd;
+	box-shadow:0 5px 10px rgba(0,0,0,0.2);
+	outline: none;
+	z-index: 10001;
+	margin: 0;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-wrapper.ui-timepicker-with-duration {
+	width: 13em;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-wrapper.ui-timepicker-with-duration.ui-timepicker-step-30,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-wrapper.ui-timepicker-with-duration.ui-timepicker-step-60 {
+	width: 11em;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-duration {
+	margin-left: 5px; color: #888;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list:hover .ui-timepicker-duration {
+	color: #888;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li {
+	padding: 3px 0 3px 5px;
+	cursor: pointer;
+	white-space: nowrap;
+	color: #000;
+	list-style: none;
+	margin: 0;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list:hover .ui-timepicker-selected {
+	background: #fff; color: #000;
+}
+
+body.admin_page_yikes-mailchimp-edit-form li.ui-timepicker-selected,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li:hover,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list .ui-timepicker-selected:hover {
+	background: #1980EC; color: #fff;
+}
+
+body.admin_page_yikes-mailchimp-edit-form li.ui-timepicker-selected .ui-timepicker-duration,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li:hover .ui-timepicker-duration {
+	color: #ccc;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li.ui-timepicker-disabled,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li.ui-timepicker-disabled:hover,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled {
+	color: #888;
+	cursor: default;
+}
+
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li.ui-timepicker-disabled:hover,
+body.admin_page_yikes-mailchimp-edit-form .ui-timepicker-list li.ui-timepicker-selected.ui-timepicker-disabled {
+	background: #f2f2f2;
+}
+
+/*
+*	End Timepicker styles
+*/
+
+/*
+*	Bootstrap datepicker styles
+*/
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker {
+	background-color: #fff;
+	border: 1px solid #66AFE9;
+	border-radius: 4px;
+	box-shadow: 0 0 8px rgba(102,175,233,.6);
+	display: none;
+	margin-top: 4px;
+	padding: 10px;
+	width: 240px;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker a,
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker a:hover {
+	text-decoration: none;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker a:hover,
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker td:hover a {
+	color: #2A6496;
+	        transition: color 0.1s ease-in-out;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-header {
+	margin-bottom: 4px;
+	text-align: center;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-title {
+	font-weight: 700;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-prev,
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-next {
+	cursor: default;
+	font-family: 'Glyphicons Halflings';
+	-webkit-font-smoothing: antialiased;
+	font-style: normal;
+	font-weight: normal;
+	height: 20px;
+	line-height: 1;
+	margin-top: 2px;
+	width: 30px;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-prev {
+	float: left;
+	text-align: left;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-next {
+	float: right;
+	text-align: right;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-prev:before {
+	content: "\f141";
+	font-family: "dashicons";
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-next:before {
+	content: "\f139";
+	font-family: "dashicons";
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker-next:hover,
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker-prev:hover {
+	cursor: pointer !important;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker-close {
+	display: none;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker-current {
+	/* match the button secondary styles here */
+	color: #555 !important;
+	border-color: #ccc !important;
+	background: #f7f7f7 !important;
+	box-shadow: 0 1px 0 #ccc !important;
+	vertical-align: top !important;
+	display: inline-block;
+	text-decoration: none;
+	font-size: 13px;
+	line-height: 26px;
+	height: 28px;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-appearance: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	margin-top: 10px;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-icon {
+	display: none;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar {
+  table-layout: fixed;
+	width: 100%;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar th,
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar td {
+	text-align: center;
+	padding: 4px 0;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar td {
+	border-radius: 4px;
+	        transition: background-color 0.1s ease-in-out, color 0.1s ease-in-out;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar td:hover {
+	background-color: #EBEBEB;
+	cursor: pointer;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar td a {
+	text-decoration: none;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-today {
+	background-color: rgba(66, 137, 204, 0.65);
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-today a {
+	color: #fff
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-current-day {
+	background-color: #4289cc;
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-current-day a {
+	color: #fff
+}
+body.admin_page_yikes-mailchimp-edit-form .ui-datepicker .ui-datepicker-calendar .ui-datepicker-unselectable:hover {
+	background-color: #fff;
+	cursor: default;
+}
+/*
+*	End bootstrap datepicker styles
+*/
+
+/***************/
+/* Radio Field */
+/***************/
+.custom-radio-holder {
+	display: inline-block;
+	width: 100%;
+	margin: .5em 0;
+}
+.custom-radio-label {
+	display: block;
+	float: left;
+	margin: 0 5px;
+}
+	.custom-radio-label:first-child {
+		margin-left: 0 !important;
+	}
+	.custom-radio-label input[type="radio"] {
+		margin-right: 0 !important;
+	}
+/********************/
+/*	   Select Field   */
+/*******************/
+.custom-select-field {
+	display: block;
+	width: 100%;
+	margin: .5em 0;
+}
+/**********************************/
+/*	Front End Customizer 	  */
+/*********************************/
+/** Front end Custoizer Widget Icon **/
+#available-widgets [class*=yikes_easy] .widget-title:before {
+	content: "" !important;
+	background: url(../../includes/images/MailChimp_Assets/Freddie_original.png) no-repeat #FAFAFA;
+	background-size: contain;
+}
+
+body.wp-customizer #available-widgets [id*="_yikes_easy_mc_widget"]>div.widget-top>div.widget-title>h4 {
+	background: transparent !important;
+}
+
+	/***************************/
+	/* API Connection Styles */
+	/**************************/
+	#connection-container {
+		float: right;
+		color: #ffffff;
+		padding: .25em .75em .25em .25em;
+		margin-top: -4px;
+	}
+
+		#connection-container.api-connected {
+			background: rgb(68, 186, 68);
+		}
+
+		#connection-container.api-not-connected {
+			background: rgb(181, 181, 181);
+		}
+
+		/* Adjust Lineheight of Conencted vs Not-connected Icons */
+		.yikes-mc-api-connected,
+		.yikes-mc-api-not-connected {
+			line-height: 1;
+		}
+		/* End Icon line height adjustment */
+
+	/**************************/
+	/*  Settings Sidebar   */
+	/*************************/
+	.show-some-love-container {
+		transition: max-height .75s;
+	}
+		/* Leave Us A Review */
+		#review-yikes-easy-mc {
+			text-align: center;
+		}
+			#review-yikes-easy-mc .dashicons-star-filled {
+				color: #E6B800;
+			}
+		.meta-box-sortables hr {
+			margin: 1.75em 0 0 0;
+		}
+		/* About Yikes Inc. */
+		#about-yikes-inc {
+			display: none;
+		}
+			#about-yikes-inc .about-sidebar-yikes-logo {
+				float: left;
+				width: 95px;
+				margin: 5px 7px 0 0;
+			}
+			#about-yikes-inc p {
+				margin-top: 0;
+			}
+
+	/*************************/
+	/*	  Admin Notices   */
+	/************************/
+	.yikes-easy-mc-updated {
+		display: block;
+		border-left: 4px solid #4EAEF0;
+		margin:0 20px 2px 0px;
+		margin-top: 1em;
+		margin-bottom: 1em;
+		padding: 2px 10px;
+		background: #fff;
+		background-size: 120px;
+		background-position: right bottom;
+		background-repeat: no-repeat;
+		background-position-y: 29px;
+	}
+
+/*********************************/
+/*			    Support Page		  */
+/*********************************/
+.support-section	{
+	margin: 1.5em 0;
+	padding: 1em 0;
+}
+
+.github-octocat {
+	background: url( '../../includes/images/Support_Page/Octocat.png' );
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: left top;
+	width: 50px;
+	height: 45px;
+	display: block;
+	float: left;
+	margin-top: -5px;
+}
+
+
+/** Break Points **/
+
+@media screen and (max-width: 1200px) {
+
+	.yikes-easy-mc-postbox #post-body.columns-2 #postbox-container-1 {
+		float: none;
+	}
+
+}
+
+@media screen and (max-width: 850px) {
+
+	/* Hide Selected Option Arrow when it drops below the main content box */
+	.option-menu-selected-arrow {
+		display: none !important;
+	}
+
+}
+
+@media screen and (max-width: 782px) {
+		#chimp-chatter .chimp-chatter-container {
+		float: none;
+		height: auto;
+		width: 100%;
+	}
+}
+
+.recaptcha-demo-gif {
+	width: 275px;
+}
+
+/* pro version notice */
+.pro-version-only-notice {
+	color: rgb(217, 96, 96);
+}
+
+/* Upgrade Ellipses */
+.upgrading-ellipse-one {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	-moz-opacity: 0;
+	-khtml-opacity: 0;
+	opacity: 0;
+	-webkit-animation: dot 1.3s infinite;
+	-webkit-animation-delay: 0.0s;
+	animation: dot 1.3s infinite;
+	animation-delay: 0.0s;
+}
+.upgrading-ellipse-two {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	-moz-opacity: 0;
+	-khtml-opacity: 0;
+	opacity: 0;
+	-webkit-animation: dot 1.3s infinite;
+	-webkit-animation-delay: 0.2s;
+	animation: dot 1.3s infinite;
+	animation-delay: 0.2s;
+}
+.upgrading-ellipse-three {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	-moz-opacity: 0;
+	-khtml-opacity: 0;
+	opacity: 0;
+	-webkit-animation: dot 1.3s infinite;
+	-webkit-animation-delay: 0.3s;
+	 animation: dot 1.3s infinite;
+	 animation-delay: 0.3s;
+}
+
+.yikes-mc-edit-field-label-icon {
+	display: inline;
+}
+
+.yikes-mc-edit-field-label-input {
+	display: none;
+	width: auto;
+	border-radius: 5px;
+}
+.yikes-mc-save-field-label-edits-icon {
+	display: none;
+}
+.yikes-mc-edit-field-label-message {
+	display: none;
+	color: #F56060;
+	margin-left: 26px;
+}
+
+/* Animations */
+@keyframes dot {
+	  0% { opacity: 0; }
+	 50% { opacity: 0; }
+	100% { opacity: 1; }
+}
+
+
+
+
+/* Responsive */
+
+@media screen and (max-width: 1290px) {}
+
+
+
+
+
+
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInlpa2VzLWluYy1lYXN5LW1haWxjaGltcC1leHRlbmRlci1hZG1pbi5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7OztHQUdHOztDQUVGO0NBQ0EsY0FBYztFQUNiOztDQUVEO0NBQ0EsZUFBZTtDQUNmLGlEQUFpRDtFQUNoRDs7Q0FFRDtDQUNBLGVBQWU7Q0FDZixlQUFlO0VBQ2Q7O0NBRUQ7Q0FDQSxjQUFjO0VBQ2I7O0NBRUQ7RUFDQyxlQUFlO0VBQ2YsZUFBZTtFQUNmOztDQUVEO0NBQ0EsZ0JBQWdCO0NBQ2hCLGlCQUFpQjtDQUNqQixZQUFZO0NBQ1osMEJBQTBCO0VBQ3pCOztDQUVEO0NBQ0EsbUJBQW1CO0VBQ2xCO0NBQ0Q7RUFDQyxnQkFBZ0I7RUFDaEIsaUJBQWlCO0VBQ2pCOztBQUVGO0VBQ0UsY0FBYztDQUNmOztBQUVEO0NBQ0MsY0FBYztDQUNkOztBQUVEO0NBQ0MsZUFBZTtDQUNmLG1CQUFtQjtDQUNuQjs7QUFFRDtDQUNDLDBCQUEwQjtDQUMxQjs7QUFFRCw2QkFBNkI7QUFDN0IsdUJBQXVCO0FBQ3ZCLDRCQUE0QjtBQUM1QjtDQUNDLGNBQWM7Q0FDZCxjQUFjO0NBQ2Q7O0FBRUQ7Q0FDQyxjQUFjO0NBQ2QsaUJBQWlCO0NBQ2pCO0NBQ0E7RUFDQyxjQUFjO0VBQ2Q7O0NBRUQsd0JBQXdCO0NBQ3hCLHVCQUF1QjtDQUN2Qix3QkFBd0I7Q0FDeEI7RUFDQyxzQkFBc0I7RUFDdEIsb0JBQW9CO0VBQ3BCOztDQUVEO0VBQ0MsbUJBQW1CO0VBQ25COztDQUVEO0VBQ0MsWUFBWTtFQUNaOztDQUVELCtCQUErQjtDQUMvQix5QkFBeUI7Q0FDekIsOEJBQThCOztDQUU5Qix1QkFBdUI7Q0FDdkI7O0VBRUMsc0hBQXNIO0VBQ3RILHNCQUFzQjtFQUN0QixlQUFlO0VBQ2YsYUFBYTtFQUNiLGtCQUFrQjtFQUNsQixpQkFBaUI7RUFDakI7O0NBRUQ7RUFDQyxXQUFXO0VBQ1g7O0NBRUQ7RUFDQyxXQUFXO0VBQ1gsbUJBQW1CO0VBQ25C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NkI7RUFDN0Isc0JBQXNCO0NBQ3ZCOztBQUVELGdCQUFnQjtBQUNoQjtHQUNHLEtBQUssV0FBVyxFQUFFO0VBQ25CLE1BQU0sV0FBVyxFQUFFO0NBQ3BCLE9BQU8sV0FBVyxFQUFFO0NBQ3BCIiwiZmlsZSI6Inlpa2VzLWluYy1lYXN5LW1haWxjaGltcC1leHRlbmRlci1hZG1pbi5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKipcciAqIEFsbCBvZiB0aGUgQ1NTIGZvciB5b3VyIGFkbWluLXNwZWNpZmljIGZ1bmN0aW9uYWxpdHkgc2hvdWxkIGJlXHIgKiBpbmNsdWRlZCBpbiB0aGlzIGZpbGUuXHIgKi9cciBcciAvKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHIgLypcdERhc2hib2FyZCBXaWRnZXRzICAgKi9cciAvKioqKioqKioqKioqKioqKioqKioqKioqKioqKi9cclx0XHJcdC8qKiBMaXN0IFN0YXRpc3RpY3MgKiovXHJcdCN5aWtlc19lYXN5X21jX2xpc3Rfc3RhdHNfd2lkZ2V0IGgzIHNwYW4sXHJcdCN5aWtlc19lYXN5X21jX2FjY291bnRfYWN0aXZpdHlfd2lkZ2V0IGgzIHNwYW4ge1xyXHRcdHBhZGRpbmctbGVmdDogM2VtO1xyXHRcdGJhY2tncm91bmQ6IHVybCggJy4uLy4uL2luY2x1ZGVzL2ltYWdlcy9NYWlsQ2hpbXBfQXNzZXRzL0ZyZWRkaWVfb3JpZ2luYWwucG5nJyApO1xyXHRcdGJhY2tncm91bmQtc2l6ZTogMjVweDtcclx0XHRiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXHRcdGRpc3BsYXk6IGJsb2NrO1xyXHRcdGhlaWdodDogMzBweDtcclx0XHRiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IDNweDtcclx0XHRiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IDhweDtcclx0XHRwYWRkaW5nLXRvcDogNXB4O1xyXHR9XHJcdFxyXHQjeWlrZXNfZWFzeV9tY19hY2NvdW50X2FjdGl2aXR5X3dpZGdldCBoMy5obmRsZSB7XHJcdFx0cGFkZGluZzogMDtcclx0fVxyXHRcclx0I3lpa2VzX2Vhc3lfbWNfbGlzdF9zdGF0c193aWRnZXQgaDMge1xyXHRcdHBhZGRpbmc6IDA7XHJcdFx0bGluZS1oZWlnaHQ6IDEuNmVtO1xyXHR9XHJcdFxyXHQjeWlrZXMtZWFzeS1tYy1kYXNoYm9hcmQtd2lkZ2V0LXN0YXRzIGgzIHtcclx0XHR0ZXh0LWFsaWduOiBjZW50ZXI7XHJcdH1cclx0XHJcdC8qIFN0YXQgVGFibGUgKi9cclx0I3lpa2VzX2Vhc3lfbWNfbGlzdF9zdGF0c193aWRnZXQgLmluc2lkZSB7XHJcdFx0cGFkZGluZzogMDtcclx0fVxyXHRcdFxyXHQueWlrZXMtZWFzeS1tYy1zdGF0cy10YWJsZSB7XHJcdFx0bWFyZ2luLXRvcDogMWVtO1xyXHR9XHJcdFxyXHQueWlrZXMtZWFzeS1tYy1zdGF0cy10YWJsZSxcclx0Lnlpa2VzLWVhc3ktbWMtc3RhdHMtdGFibGUgdGJvZHksXHJcdC55aWtlcy1lYXN5LW1jLXN0YXRzLXRhYmxlIC55aWtlcy1lYXN5LW1jLXRhYmxlLXN0YXRzLXRyIHtcclx0XHRkaXNwbGF5OiBibG9jaztcclx0XHR3aWR0aDogMTAwJTtcclx0fVx0XHJcdFx0Lnlpa2VzLWVhc3ktbWMtdGFibGUtc3RhdHMtdHIgdGQge1xyXHRcdFx0ZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXHRcdFx0d2lkdGg6IDQ4JTtcclx0XHRcdHRleHQtYWxpZ246IGNlbnRlcjtcclx0XHR9XHJcdFx0XHJcdFx0Lnlpa2VzLWVhc3ktbWMtdGFibGUtc3RhdHMtdHIgdGQ6aG92ZXIge1xyXHRcdFx0Y3Vyc29yOiBwb2ludGVyO1xyXHRcdH1cclx0XHRcclx0XHQueWlrZXMtZWFzeS1tYy10YWJsZS1zdGF0cy10ciB0ZDpmaXJzdC1vZi10eXBlIHtcclx0XHRcdGJvcmRlci1yaWdodDogMXB4IHNvbGlkICNlY2VjZWM7XHJcdFx0fVxyXHRcdFxyXHRcdC55aWtlcy1lYXN5LW1jLXN0YXRzLXRhYmxlIC55aWtlcy1lYXN5LW1jLXRhYmxlLXN0YXRzLXRyLWZpcnN0IHtcclx0XHRcdGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWNlY2VjO1xyXHRcdFx0Ym9yZGVyLXRvcDogMXB4IHNvbGlkICNlY2VjZWM7XHJcdFx0fVxyXHRcdFxyXHRcdCN5aWtlcy1lYXN5LW1jLXdpZGdldC1zdGF0LWhvbGRlciB7XHJcdFx0XHRtYXJnaW4tdG9wOiAxZW07XHJcdFx0fVxyXHRcdFxyXHRcdC55aWtlcy1lYXN5LW1jLXN0YXRzLXRhYmxlIHAueWlrZXMtZWFzeS1tYy1kYXNoYm9hcmQtc3RhdCB7XHJcdFx0XHRjb2xvcjogIzUyQkFENTtcclx0XHRcdGZvbnQtd2VpZ2h0OiA4MDA7XHJcdFx0XHRmb250LXNpemU6IDIwcHg7XHJcdFx0XHRtYXJnaW4tYm90dG9tOiAycHg7XHJcdFx0XHRtYXJnaW4tdG9wOiAxNXB4O1xyXHRcdFx0bGluZS1oZWlnaHQ6IDEuMjtcclx0XHRcdG1heC1oZWlnaHQ6IDgwcHg7XHJcdFx0fVxyXHRcdC55aWtlcy1lYXN5LW1jLXN0YXRzLXRhYmxlIHAueWlrZXMtZWFzeS1tYy1zdGF0LWxpc3QtbGFiZWwge1xyXHRcdFx0Zm9udC1zaXplOiAxM3B4O1xyXHRcdFx0bWFyZ2luLXRvcDogMDtcclx0XHRcdG1hcmdpbi1ib3R0b206IDE1cHg7XHJcdFx0XHRmb250LWZhbWlseTogXCJPcGVuIFNhbnNcIjtcclx0XHR9XHJcdFx0XHJcdC8qKiBBY2NvdW50IEFjdGl2aXR5ICoqL1xyXHQjeWlrZXNfZWFzeV9tY19hY2NvdW50X2FjdGl2aXR5X3dpZGdldCB0YWJsZSB0aC5yb3ctdGl0bGUge1xyXHRcdHBhZGRpbmctbGVmdDogMTBweDtcclx0fVxyXHRcclx0LyogVGhpY2tib3ggZm9yIFRhZ3MgKi9cclx0I3ByZS1kZWZpbmVkLXRhZy1pbnRlcmlvci1jb250YWluZXIge1xyXHRcdGJhY2tncm91bmQ6IHVybCguLi8uLi9pbmNsdWRlcy9pbWFnZXMvdGlueU1DRS95aWtlcy1tYWlsY2hpbXAtY29tYm8tZmFkZWQucG5nKSBib3R0b20gcmlnaHQgbm8tcmVwZWF0ICNmZmY7XHJcdFx0YmFja2dyb3VuZC1zaXplOiA0MCU7XHJcdH1cclx0XHJcdC8qKiBRdGlwIFRvb2x0aXBzICoqL1xyXHQucXRpcC1kZWZhdWx0IHsgXHJcdFx0YmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQgIWltcG9ydGFudDsgXHJcdFx0Ym9yZGVyOiB0cmFuc3BhcmVudCAhaW1wb3J0YW50OyBcclx0XHR6LWluZGV4OiA5OTk5OTk5ICFpbXBvcnRhbnQ7IFxyXHR9XHJcdFxyXHQucXRpcC1ib290c3RyYXAgeyBcclx0XHRwYWRkaW5nOiAxMHB4ICFpbXBvcnRhbnQ7IFxyXHRcdHotaW5kZXg6IDk5OTk5OTkgIWltcG9ydGFudDsgXHJcdFx0Zm9udC1zaXplOjEycHg7IFxyXHR9XHJcdFx0XHJcdC50b29sdGlwLWludGVncmF0aW9uLWJhbm5lciB7IFxyXHRcdG1heC13aWR0aDogMTAwJTsgXHJcdFx0bWFyZ2luOiAwIDAgLjI1ZW0gMDsgXHJcdH1cdFxyXHRcclx0LnRvb2x0aXB0ZXh0LnF0aXAtYm9vdHN0cmFwIHtcclx0XHRmb250LXNpemU6IDEycHg7XHJcdH1cclx0XHJcdC50b29sdGlwLXRpdGxlIHtcclx0XHRtYXJnaW46IDA7XHJcdH1cclx0XHJcdC5kYXNoaWNvbnMtZWRpdG9yLWhlbHA6aG92ZXIge1xyXHRcdGN1cnNvcjogcG9pbnRlcjtcclx0fVxyXHRcclx0LyogVGlueU1DRSBCdXR0b24gSWNvbiAqL1xyXHRpLm1jZS1pY28ubWNlLWkteWtzX21jX3RpbnltY2VfYnV0dG9uX2tleSB7XHJcdFx0YmFja2dyb3VuZDogdXJsKCAnLi4vLi4vaW5jbHVkZXMvaW1hZ2VzL3RpbnlNQ0UvRnJlZGRpZV93aW5rLnBuZycpO1xyXHRcdGJhY2tncm91bmQtc2l6ZTogMThweDtcclx0XHRiYWNrZ3JvdW5kLXBvc2l0aW9uLXk6IDFweDtcclx0XHRiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXHR9XHJcdFxyXHQvKiBUaW55TUNFIE1vZGFsICovXHJcdCN5aWtlc19tYWlsY2hpbXBfdGlueU1DRV9tb2RhbC10aXRsZSB7XHJcdFx0cGFkZGluZy1sZWZ0OiA0MnB4O1xyXHRcdGJhY2tncm91bmQ6IHRyYW5zcGFyZW50IHVybCgnLi4vLi4vaW5jbHVkZXMvaW1hZ2VzL01haWxDaGltcF9Bc3NldHMvRnJlZGRpZV9vcmlnaW5hbC5wbmcnKTtcclx0XHRiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0O1xyXHRcdGJhY2tncm91bmQtc2l6ZTogMjVweDtcclx0XHRiYWNrZ3JvdW5kLXBvc2l0aW9uOiBsZWZ0O1xyXHRcdGJhY2tncm91bmQtcG9zaXRpb24teDogMTBweDtcclx0fVxyXHRcclx0LyogTW9kYWwgQmFja2dyb3VuZCBUZXN0ICovXHJcdCN5aWtlc19tYWlsY2hpbXBfdGlueU1DRV9tb2RhbCB7XHJcdFx0YmFja2dyb3VuZDogI2ZmZiB1cmwoJy4uLy4uL2luY2x1ZGVzL2ltYWdlcy90aW55TUNFL3lpa2VzLW1haWxjaGltcC1jb21iby1mYWRlZC5wbmcnKTtcclx0XHRiYWNrZ3JvdW5kLXBvc2l0aW9uOiBib3R0b20gbGVmdDtcclx0XHRiYWNrZ3JvdW5kLXNpemU6IDQwJTtcclx0XHRiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IDEwcHg7XHJcdFx0YmFja2dyb3VuZC1wb3NpdGlvbi15OiA5NSU7XHJcdFx0YmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcclx0fVxyXHRcdCN5aWtlc19tYWlsY2hpbXBfdGlueU1DRV9tb2RhbCAubWNlLWZvb3Qge1xyXHRcdFx0YmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7XHJcdFx0fVxyLyoqKioqKioqKioqKioqKioqKioqKioqKioqKi9cci8qXHRcdEZyb250IGVuZCBXaWRnZXRcdCAqL1xyLyoqKioqKioqKioqKioqKioqKioqKioqKioqL1xyKltpZCo9XCJfeWlrZXNfZWFzeV9tY193aWRnZXRcIl0gPiBkaXYud2lkZ2V0LXRvcCA+IGRpdi53aWRnZXQtdGl0bGUgPiBoNCB7XHJcdGJhY2tncm91bmQ6ICNGQUZBRkEgdXJsKCcuLi8uLi9pbmNsdWRlcy9pbWFnZXMvTWFpbENoaW1wX0Fzc2V0cy9GcmVkZGllX29yaWdpbmFsLnBuZycpO1xyXHRiYWNrZ3JvdW5kLXNpemU6IDI1cHg7XHJcdGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XHJcdGJhY2tncm91bmQtcG9zaXRpb24teDogMTJweDtcclx0YmFja2dyb3VuZC1wb3NpdGlvbi15OiA3cHg7XHJcdHBhZGRpbmctbGVmdDogNDhweDtccn1cclxyIC8qKioqKioqKioqKioqKioqKioqKioqKiovXHIgLypcdCAgIEdsb2JhbCBTdHlsZXNcdCAgKi9cciAvKioqKioqKioqKioqKioqKioqKioqKiovXHIgXHIgLyogTG9nbyAqL1xyICNyZXZpZXcteWlrZXMtZWFzeS1tYWlsY2hpbXAtbm90aWNlICN5aWtlcy1tYWlsY2hpbXAtbG9nbyB7XHJcdGhlaWdodDogODBweDtcclx0d2lkdGg6IDgwcHg7XHJcdGZvbnQtc2l6ZTogMTRweDtcclx0dGV4dC1hbGlnbjogY2VudGVyO1xyXHRiYWNrZ3JvdW5kOiB1cmwoJy4uLy4uL2luY2x1ZGVzL2ltYWdlcy9XZWxjb21lX1BhZ2UveWlrZXMtbWFpbGNoaW1wLXdlbGNvbWUtbG9nby5wbmcnKSBuby1yZXBlYXQ7XHJcdGJhY2tncm91bmQtc2l6ZTogNjBweDtcclx0ZmxvYXQ6IGxlZnQ7XHJ9XHJcclx0LyogQnV0dG9uIENvbnRhaW5lciBpbiBSZXZpZXcgVXMgQ29udGFpbmVyICovXHJcdCNyZXZpZXcteWlrZXMtZWFzeS1tYWlsY2hpbXAtbm90aWNlIC5idXR0b24tY29udGFpbmVyIHtcclx0XHRkaXNwbGF5OiBibG9jaztcclx0XHR3aWR0aDogMTAwJTtcclx0XHRtYXJnaW46IC43NWVtIDAgMS41ZW0gMDtcclx0fVxyXHRcclx0XHQjcmV2aWV3LXlpa2VzLWVhc3ktbWFpbGNoaW1wLW5vdGljZSAuYnV0dG9uLWNvbnRhaW5lciAuZGFzaGljb25zIHtcclx0XHRcdGZvbnQtc2l6ZTogMTRweDtcclx0XHRcdGxpbmUtaGVpZ2h0OiAxLjk7XHJcdFx0XHRtYXJnaW4tbGVmdDogLTRweDtcclx0XHR9XHJcdFx0XHJcdFx0LyogU3RhciBJY29uICovXHJcdFx0I3Jldmlldy15aWtlcy1lYXN5LW1haWxjaGltcC1ub3RpY2UgLmJ1dHRvbi1jb250YWluZXIgLmRhc2hpY29ucy1zdGFyLWZpbGxlZCB7XHJcdFx0XHRjb2xvcjogI0U2QjgwMDtcclx0XHR9XHJcdFx0XHJcdFx0LyogVXBncmFkZSBJY29uICovXHJcdFx0I3Jldmlldy15aWtlcy1lYXN5LW1haWxjaGltcC1ub3RpY2UgLmJ1dHRvbi1jb250YWluZXIgLmRhc2hpY29ucy11cGxvYWQge1xyXHRcdFx0Y29sb3I6ICM2RTg4NDE7XHJcdFx0fVxyXHJcdFx0LyogRGlzbWlzcyBJY29uICovXHJcdFx0I3Jldmlldy15aWtlcy1lYXN5LW1haWxjaGltcC1ub3RpY2UgLmJ1dHRvbi1jb250YWluZXIgLmRhc2hpY29ucy1uby1hbHQge1xyXHRcdFx0Y29sb3I6IHJnYigyMjAsIDU4LCA1OCk7XHJcdFx0XHRsaW5lLWhlaWdodDogMjtcclx0XHR9XHJcdFx0XHJcdFx0Ym9keS5lYXN5LW1haWxjaGltcF9wYWdlX3lpa2VzLWluYy1lYXN5LW1haWxjaGltcC1zZXR0aW5ncyAuZGFzaGljb25zLW5vLWFsdCB7XHJcdFx0XHRjb2xvcjogcmdiKDIyMCwgNTgsIDU4KTtcclx0XHR9XHJcdFx0XHJcdFx0I3Jldmlldy15aWtlcy1lYXN5LW1haWxjaGltcC1ub3RpY2UgLmJ1dHRvbi1jb250YWluZXIgYSB7XHJcdFx0XHRtYXJnaW4tcmlnaHQ6IDEwcHg7XHJcdFx0fVxyXHIgLyogRGlzbWlzc2FibGUgTm90aWNlICovXHIgI3Jldmlldy15aWtlcy1lYXN5LW1haWxjaGltcC1ub3RpY2Uge1xyXHRib3JkZXItbGVmdDogNHB4IHNvbGlkICM1MkJBRDU7XHJcdGJhY2tncm91bmQ6ICNmZWZlZmU7XHJcdHBhZGRpbmc6IDFweCAxMnB4O1xyXHRib3gtc2hhZG93OiAwIDFweCAxcHggMCByZ2JhKDAsMCwwLC4xKTtcclx0LXdlYmtpdC1ib3gtc2hhZG93OiAwIDFweCAxcHggMCByZ2JhKDAsMCwwLC4xKTtcclx0bWFyZ2luOiAxNXB4IDI1cHggMjBweCA1cHg7XHIgfVxyIFxyIC8qIFJlYWRvbmx5IFRleHRhcmVhcyAqL1xyIHRleHRhcmVhW3JlYWRvbmx5XSxcciBpbnB1dFtyZWFkb25seV0sXHIgdGV4dGFyZWEucmVhZG9ubHksXHIgaW5wdXQucmVhZG9ubHkge1xyXHRiYWNrZ3JvdW5kOiAjZWVlO1xyIH1cciBcciAuZGFzaGljb25zLnlpa2VzLWxvdmUge1xyXHRjb2xvcjogcGluaztcciB9XHIgXHIgLmZpZWxkLWRlc2NyaXB0aW9uLWlucHV0IHtcclx0cmVzaXplOiB2ZXJ0aWNhbDtcclx0bWF4LWhlaWdodDogMTAwcHg7XHIgfVxyIC55aWtlcy1lYXN5LW1jLXBvc3Rib3ggaDMge1xyICAgIGJhY2tncm91bmQ6ICM1MkJBRDU7XHJcdGZvbnQtd2VpZ2h0OiA4MDA7XHJcdGNvbG9yOiAjZmZmZmZmO1xyIH1cclx0Lnlpa2VzLWVhc3ktbWMtcG9zdGJveCBoMy5iZy10cmFuc3BhcmVudCB7XHJcdFx0Y29sb3I6ICMzMzM7XHJcdFx0Zm9udC13ZWlnaHQ6IDQwMDtcclx0XHRiYWNrZ3JvdW5kOiB0cmFuc3BhcmVudDtcclx0fVxyXHRcciAueWlrZXMtbWMtd2FybmluZy1tZXNzYWdlIHtcclx0cGFkZGluZy1sZWZ0OiAxNXB4O1xyXHRtYXJnaW4tdG9wOiAwO1xyXHRwYWRkaW5nLXRvcDogMTBweDtcclx0Y29sb3I6IHJnYigyMTgsIDExMCwgMTEwKTtcciB9XHIgXHIgLmVycm9yLW1lc3NhZ2UtY29udGFpbmVyIGxhYmVsIHtcclx0ZGlzcGxheTogYmxvY2s7IFxyXHRtYXJnaW46IDFlbSAwO1xyIH1cciBcciAueWlrZXMtbWMtc2V0dGluZ3MtZXhwYW5zaW9uLXNlY3Rpb24ge1xyXHRkaXNwbGF5OiBub25lO1xyIH1cclx0LmV4cGFuc2lvbi1zZWN0aW9uLXRpdGxlIHtcclx0XHRiYWNrZ3JvdW5kOiAjZmZmZmZmO1xyXHR9XHJcdC5leHBhbnNpb24tc2VjdGlvbi10aXRsZS5zZXR0aW5ncy1zaWRlYmFyLCAuZm9ybS1idWlsZGVyLXNlY3Rpb24tdGl0bGUge1xyXHRcdHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclx0XHRkaXNwbGF5OiBibG9jaztcclx0XHRib3JkZXI6IDFweCBzb2xpZCByZ2JhKDE3NywgMTc3LCAxNzcsIDAuNzEpO1xyXHRcdGNvbG9yOiAjMzMzMzMzO1xyXHRcdHBhZGRpbmc6IDVweDtcclx0XHRtYXJnaW46IC41ZW0gMDtcclx0fVxyXHQuZXhwYW5zaW9uLXNlY3Rpb24tdGl0bGUuc2V0dGluZ3Mtc2lkZWJhciAuZGFzaGljb25zLCAuZm9ybS1idWlsZGVyLXNlY3Rpb24tdGl0bGUgLmRhc2hpY29ucyB7XHJcdFx0Y29udGVudDogXCJcXGYxMzJcIjtcclx0XHRmb250LWZhbWlseTogXCJkYXNoaWNvbnNcIjtcclx0XHRmb250LXNpemU6IDE1cHg7XHJcdFx0bGluZS1oZWlnaHQ6IDEuNTtcclx0fVxyIC8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHIgLyoqIFNldHRpbmdzL09wdGlvbnMgUGFnZSAgKiovXHIgLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyXHQvKiBBYm91dCBUZXh0IFNwYWNpbmcgKi9cclx0Lnlpa2VzLWVhc3ktbWMtYWJvdXQtdGV4dCB7IFxyXHRcdG1hcmdpbi10b3A6IDA7IFxyXHR9XHJcdFxyXHQvKiBJbnB1dCBGaWVsZCBTdHlsZXMgKi9cclx0I3lrcy1tYWlsY2hpbXAtZG91YmxlLW9wdGluLW1lc3NhZ2UsXHJcdCN5a3MtbWFpbGNoaW1wLXNpbmdsZS1vcHRpbi1tZXNzYWdlLFxyXHQuc2V0dGluZ3MtcGFnZS1pbnB1dCB7XHJcdFx0d2lkdGg6IDUwJTtcclx0fVxyXHRcclx0I3lrcy1tYWlsY2hpbXAtZG91YmxlLW9wdGluLW1lc3NhZ2UsXHJcdCN5a3MtbWFpbGNoaW1wLXNpbmdsZS1vcHRpbi1tZXNzYWdlIHtcclx0XHRtaW4taGVpZ2h0OiA3NXB4O1xyXHRcdG1heC1oZWlnaHQ6IDIwMHB4O1xyXHRcdHJlc2l6ZTogdmVydGljYWw7XHJcdH1cclx0XHJcdCNzZXR0aW5ncy1uYXYgbGkgYSB7XHJcdFx0Y29sb3I6ICMzMzMzMzM7XHJcdFx0dGV4dC1kZWNvcmF0aW9uOiBub25lICFpbXBvcnRhbnQ7XHJcdFx0IHRyYW5zaXRpb246IGNvbG9yIC4xNXMgZWFzZS1vdXQ7XHJcdFx0LW1vei10cmFuc2l0aW9uOiBjb2xvciAuMTVzIGVhc2Utb3V0O1xyXHRcdC13ZWJraXQtdHJhbnNpdGlvbjogY29sb3IgLjE1cyBlYXNlLW91dDtcclx0XHQtby10cmFuc2l0aW9uOiBjb2xvciAuMTVzIGVhc2Utb3V0O1xyXHR9XHJcdFx0I3NldHRpbmdzLW5hdiBsaSBhOmhvdmVyIHtcclx0XHRcdGNvbG9yOiAjNTJCQUQ1ICFpbXBvcnRhbnQ7XHJcdFx0fVxyXHRcclx0LyogU2VsZWN0ZWQgT3B0aW9ucyBQYWdlIEFycm93ICovXHJcdC5vcHRpb24tbWVudS1zZWxlY3RlZC1hcnJvdyB7XHJcdFx0d2lkdGg6IDA7IFxyXHRcdGhlaWdodDogMDsgXHJcdFx0Ym9yZGVyLXRvcDogMTBweCBzb2xpZCB0cmFuc3BhcmVudDtcclx0XHRib3JkZXItYm90dG9tOiAxMHB4IHNvbGlkIHRyYW5zcGFyZW50OyBcclx0XHRib3JkZXItcmlnaHQ6IDEwcHggc29saWQgYmx1ZTsgXHJcdFx0Ym9yZGVyLXJpZ2h0OiAxMHB4IHNvbGlkICNmZmY7XHJcdFx0cG9zaXRpb246IGFic29sdXRlO1xyXHRcdGxlZnQ6IC0uNmVtO1xyXHR9XHJcdFxyXHQub3B0aW9uLW1lbnUtc2VsZWN0ZWQtYXJyb3crYSB7XHJcdFx0Y29sb3I6ICM1MkJBRDUgIWltcG9ydGFudDtcclx0fVxyXHRcclx0LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHJcdC8qXHRcdFx0RGVidWcgUGFnZVx0XHQgKi9cclx0LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyXHQjeWlrZXMtbWFpbGNoaW1wLWVycm9yLWxvZyAucm93LXRpdGxlIHtcclx0XHRmb250LXdlaWdodDogNDAwO1xyXHR9XHJcdFxyXHQuY3JlYXRlLWVycm9yLWxvZy1oZWxwOmhvdmVyIHtcclx0XHRjdXJzb3I6IHBvaW50ZXI7XHJcdH1cclx0XHIvKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyLypcdFx0TGlzdHMgUGFnZVx0XHRcdCAqL1xyLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyLmxpc3QtcmF0aW5nLXN0YXIge1xyXHRjb2xvcjogI0U2QjgwMDtccn1cci8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHIvKlx0XHRBY2NvbnQgRGV0YWlscyBQYWdlXHQqL1xyLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyLyogQ2hpbXAgQ2hhdHRlciAqL1xyI2NoaW1wLWNoYXR0ZXIge1xyXHR0ZXh0LWFsaWduOiBjZW50ZXI7XHJ9XHJcdCNjaGltcC1jaGF0dGVyIC5jaGltcC1jaGF0dGVyLWNvbnRhaW5lciB7XHJcdFx0bWFyZ2luOiAyZW0gMDtcclx0XHRiYWNrZ3JvdW5kOiAjRjhGOEY4O1xyXHRcdGJvcmRlci1yYWRpdXM6IDEwcHg7XHJcdFx0cGFkZGluZzogMTBweDtcclx0fVxyLyogSW5hY3RpdmUgKyBBY3RpdmUgTWFya2VycyAqL1xyLmNpcmNsZS1hY2NvdW50LWluYWN0aXZlIHtcclx0ZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXHR2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xyXHRtYXJnaW4tdG9wOiAtM3B4O1xyXHRtYXJnaW4tcmlnaHQ6IDVweDtcclx0aGVpZ2h0OiAxNXB4O1xyXHR3aWR0aDogMTVweDtcclx0Ym9yZGVyLXJhZGl1czogNTAlO1xyXHRiYWNrZ3JvdW5kOiByZ2JhKDI1MCwgMTM4LCAxMzgsIDAuNzkpO1xyfVxyLmNoYXR0ZXItdHlwZSB7XHIgICAgZm9udC13ZWlnaHQ6IDYwMDtcciAgICBmb250LWZhbWlseTogXCJvcGVuIHNhbnNcIjtcciAgICBmb250LXNpemU6IDE0cHg7XHIgICAgbWFyZ2luOiA1cHg7XHJ9XHIuY2hhdHRlci1tZXNzYWdlIHtcdFxyICAgbWFyZ2luOiAxNXB4ICFpbXBvcnRhbnQ7XHJ9XHIuY2lyY2xlLWFjY291bnQtYWN0aXZlIHtcclx0ZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXHR2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlO1xyXHRtYXJnaW4tdG9wOiAtM3B4O1xyXHRtYXJnaW4tcmlnaHQ6IDVweDtcclx0aGVpZ2h0OiAxNXB4O1xyXHR3aWR0aDogMTVweDtcclx0Ym9yZGVyLXJhZGl1czogNTAlO1xyXHRiYWNrZ3JvdW5kOiByZ2JhKDEyOCwgMjE0LCAxMjgsIDAuNzcpO1xyfVxyI2FjY291bnQtZGV0YWlscyAubWFpbGNoaW1wLWF2YXRhciB7XHJcdHdpZHRoOiAxMjBweDtcclx0Ym9yZGVyLXJhZGl1czogMTAlO1xyfVxyLyogQ2hhdHRlciBDb250YWluZXIgQ29sb3JzICovXHIuY2hpbXAtY2hhdHRlci1wb3NpdGl2ZSB7XHJcdGJvcmRlci10b3A6IDJweCBzb2xpZCByZ2IoMTU3LCAyMjMsIDE1Nyk7XHJ9XHIuY2hpbXAtY2hhdHRlci1uZWdhdGl2ZSB7XHJcdGJvcmRlci10b3A6IDJweCBzb2xpZCAjRkJBMkEyO1xyfVxyLmNoaW1wLWNoYXR0ZXItbmV1dHJhbCB7XHJcdGJvcmRlci10b3A6IDJweCBzb2xpZCByZ2IoMTc3LCAxNzcsIDE3Nyk7XHJ9XHIvKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHIvKlx0ICBNYW5hZ2UgTGlzdHMgUGFnZSAqL1xyLyoqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHIvKiBNZXJnZSBWYXJpYWJsZSAvIEludGVyZXN0IEdyb3VwIFRvZ2dsZSAqL1xyLm12X2lnX2xpc3Qge1xyXHR3aWR0aDoxMDAlO1xyXHRtYXJnaW4tYm90dG9tOiAuMjVlbTtccn1cclx0Lm12X2lnX2xpc3QgLmxpc3QtY29udGFpbmVyIHtcclx0XHRwb3NpdGlvbjogYWJzb2x1dGU7XHJcdH1cclx0Lm12X2lnX2xpc3QgYSB7XHJcdFx0d2lkdGg6IDQ4JTtcclx0XHRwYWRkaW5nOiA1cHggMCAhaW1wb3J0YW50O1xyXHRcdHRleHQtYWxpZ246IGNlbnRlcjtcclx0XHRtYXJnaW46IDA7XHJcdH1cclx0Lm12X2lnX2xpc3QgYTpmaXJzdC1jaGlsZCB7XHJcdFx0bWFyZ2luLXJpZ2h0OiAwO1xyXHR9XHJcdC5tdl9pZ19saXN0IGE6bGFzdC1jaGlsZCB7XHJcdFx0ZmxvYXQ6IHJpZ2h0O1xyXHR9XHJcdFxyXHQubXZfaWdfbGlzdCB7XHJcdFx0bWFyZ2luLWJvdHRvbTogLjVlbTtcclx0fVxyXHQubXZfaWdfbGlzdCAubmF2LXRhYiB7XHJcdFx0Ym9yZGVyOiAxcHggc29saWQgI2NjYztcclx0fVx0XHJcdFx0Lm12X2lnX2xpc3QgLm5hdi10YWItYWN0aXZlIHtcclx0XHRcdGNvbG9yOiAjZmZmO1xyXHRcdFx0Zm9udC13ZWlnaHQ6IGJvbGQ7XHJcdFx0XHRiYWNrZ3JvdW5kOiAjNTJiYWQ1O1xyXHRcdH1cclx0XHRcclx0Lm12X2lnX2xpc3QgLmFycm93LWRvd24ge1xyXHRcdHBvc2l0aW9uOiBhYnNvbHV0ZTtcclx0XHRtYXJnaW4tdG9wOiAyMXB4O1xyXHRcdG1hcmdpbi1sZWZ0OiA1MHB4O1xyXHRcdHdpZHRoOiAwOyBcclx0XHRoZWlnaHQ6IDA7IFxyXHRcdGJvcmRlci1sZWZ0OiAxMnB4IHNvbGlkIHRyYW5zcGFyZW50O1xyXHRcdGJvcmRlci1yaWdodDogMTJweCBzb2xpZCB0cmFuc3BhcmVudDtcclx0XHRib3JkZXItdG9wOiAxMnB4IHNvbGlkICM1MkJBRDU7XHJcdH1cclx0XHIjY29udGFpbmVyLWNvbnRhaW5lciB7XHJcdGRpc3BsYXk6IGlubGluZS1ibG9jaztcclx0d2lkdGg6IDUyMXB4O1xyfVxyXHQjY29udGFpbmVyLWNvbnRhaW5lciAubGlzdC1jb250YWluZXIge1xyXHRcdGZsb2F0OiBsZWZ0O1xyXHRcdHdpZHRoOiAyNTRweDtcclx0XHRwb3NpdGlvbjogcmVsYXRpdmU7XHJcdH1cclx0I2NvbnRhaW5lci1jb250YWluZXIgLmxpc3QtY29udGFpbmVyOmxhc3QtY2hpbGQge1xyXHRcdG1hcmdpbi1sZWZ0OiAxZW07XHJcdH1cclx0XHIjeWlrZXNfZWFzeV9tY190b29sYmFyIHtcclx0bWFyZ2luLXRvcDogLS43NWVtO1xyfVxyI3lpa2VzX2Vhc3lfbWNfdG9vbGJhcl9saW5rcyB7XHJcdGRpc3BsYXk6IGlubGluZS1ibG9jaztcclx0d2lkdGg6IDEwMCU7XHJcdG1hcmdpbjogMDtcclx0cGFkZGluZzogMTBweCAwO1xyfVxyXHQjeWlrZXNfZWFzeV9tY190b29sYmFyX2xpbmtzIGxpIHtcclx0XHRmbG9hdDogbGVmdDtcclx0XHRtYXJnaW46IDAgLjVlbTtcclx0fVxyXHQjeWlrZXNfZWFzeV9tY190b29sYmFyX2xpbmtzIGxpIGEge1xyXHRcdHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclx0fVxyXHQjeWlrZXNfZWFzeV9tY190b29sYmFyX2xpbmtzIGxpIGEuc2VsZWN0ZWRfaGlkZGVuX3NldHRpbmcge1xyXHRcdGNvbG9yOiAjMzMzMzMzO1xyXHRcdGJvcmRlci1ib3R0b206IDFweCBzb2xpZCByZ2JhKDIwNiwgMjA2LCAyMDYsIDEpO1xyXHRcdG1hcmdpbi1ib3R0b206IDNweDtcclx0fVxyXHQjeWlrZXNfZWFzeV9tY190b29sYmFyX2xpbmtzIGxpIC5zZWxlY3RlZF9zZXR0aW5nX3RyaWFuZ2xlIHtcclx0XHR3aWR0aDogMDsgXHJcdFx0aGVpZ2h0OiAwOyBcclx0XHRib3JkZXItbGVmdDogMTNweCBzb2xpZCB0cmFuc3BhcmVudDtcclx0XHRib3JkZXItcmlnaHQ6IDEzcHggc29saWQgdHJhbnNwYXJlbnQ7XHJcdFx0Ym9yZGVyLXRvcDogMTNweCBzb2xpZCByZ2JhKDIwNiwgMjA2LCAyMDYsIDEpO1xyXHRcdG1hcmdpbjogMCBhdXRvO1xyXHR9XHJcdFx0LyogVG9vbGJhciBJY29ucyAqL1xyXHRcdCN5aWtlc19lYXN5X21jX3Rvb2xiYXJfbGlua3MgbGkgYS5mb3JtLWJ1aWxkZXI6YmVmb3JlIHtcclx0XHRcdGNvbnRlbnQ6IFwiXFxmMTE2XCI7XHJcdFx0XHRmb250LWZhbWlseTogXCJkYXNoaWNvbnNcIjtcclx0XHR9XHJcdFx0I3lpa2VzX2Vhc3lfbWNfdG9vbGJhcl9saW5rcyBsaSBhLmZvcm0tY3VzdG9taXplcjpiZWZvcmUge1xyXHRcdFx0Y29udGVudDogXCJcXGYxMDBcIjtcclx0XHRcdGZvbnQtZmFtaWx5OiBcImRhc2hpY29uc1wiO1xyXHRcdH1cclx0XHQjeWlrZXNfZWFzeV9tY190b29sYmFyX2xpbmtzIGxpIGEuZXJyb3ItbWVzc2FnZXM6YmVmb3JlIHtcclx0XHRcdGNvbnRlbnQ6IFwiXFxmMTE3XCI7XHJcdFx0XHRmb250LWZhbWlseTogXCJkYXNoaWNvbnNcIjtcclx0XHR9XHJcdFx0I3lpa2VzX2Vhc3lfbWNfdG9vbGJhcl9saW5rcyBsaSBhLmN1c3RvbS1ub3RpZmljYXRpb25zOmJlZm9yZSB7XHJcdFx0XHRjb250ZW50OiBcIlxcZjQ2NlwiO1xyXHRcdFx0Zm9udC1mYW1pbHk6IFwiZGFzaGljb25zXCI7XHJcdFx0fVxyXHRcci8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKi9cci8qIE1hbmFnZSBGb3JtcyBQYWdlICovXHIvKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyc3Bhblt0aXRsZT1cIkltcHJlc3Npb25zXCJdOmhvdmVyLFxyc3Bhblt0aXRsZT1cIlN1Ym1pc3Npb25zXCJdOmhvdmVyLFxyc3Bhblt0aXRsZT1cIkNvbnZlcnNpb24gUmF0ZVwiXTpob3ZlciB7XHJcdGRpc3BsYXk6IGJsb2NrO1xyXHRjdXJzb3I6IHBvaW50ZXI7XHJ9XHJcci8qIENvbnRhaW5lciBob2xkaW5nIHRoZSBmb3JtIElEICovXHIuZm9ybS1pZC1jb250YWluZXIge1xyXHRwYWRkaW5nOiAxcHggOHB4O1xyXHRib3JkZXItcmFkaXVzOiA1cHg7XHJcdGJhY2tncm91bmQ6IHJnYig3MywgMTY5LCAyMzYpO1xyXHRmb250LXdlaWdodDogYm9sZDtcclx0Y29sb3I6ICNmZmZmZmY7XHJ9XHIubWFuYWdlLWZvcm0tYWRtaW4tbm90aWNlIHtcclx0bWFyZ2luLXRvcDogMS43NWVtICFpbXBvcnRhbnQ7XHJ9XHJhLnlpa2VzLWRlbGV0ZS1tYWlsY2hpbXAtZm9ybSxccmEueWlrZXMtZGVsZXRlLXN1YnNjcmliZXIsXHIueWlrZXMtbWMtc2V0dGluZ3MtZXhwYW5zaW9uLXNlY3Rpb24gYS5yZW1vdmUtZmllbGQsXHIucmVtb3ZlLW5vdGlmaWNhdGlvbiB7XHJcdGNvbG9yOiByZ2IoMjE3LCA5NiwgOTYpICFpbXBvcnRhbnQ7XHJ9XHIueWlrZXMtbWMtc2hvcnRjb2RlLWlucHV0IHtcclx0dGV4dC1hbGlnbjogY2VudGVyO1xyfVxyLmhpZGRlbi1jbGFzcyB7XHJcdGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDtccn1cci5jb2x1bW4tY29sdW1ubmFtZSBzcGFuLnN0YXRzIHtcclx0ZGlzcGxheTogYmxvY2s7XHJcdHdpZHRoOiAxMDAlO1xyXHR0ZXh0LWFsaWduOiBjZW50ZXI7XHJ9XHJcdC5jb2x1bW4tY29sdW1ubmFtZSBzcGFuLnN0YXRzIHNwYW4ge1xyXHRcdGRpc3BsYXk6IGlubGluZS1ibG9jaztcclx0XHR3aWR0aDogMjAlO1xyXHR9XHJcdFx0LmNvbHVtbi1jb2x1bW5uYW1lIHNwYW4uc3RhdHMgc3Bhbjpob3ZlciB7XHJcdFx0XHRjdXJzb3I6IHBvaW50ZXI7XHJcdFx0fVxyLyogQXZhaWxhYmxlIEZvcm0gRmllbGQgTGlzdCAqL1xyI2F2YWlsYWJsZS1maWVsZHMgbGksIFxyI2F2YWlsYWJsZS1pbnRlcmVzdC1ncm91cHMgbGkge1xyXHR0ZXh0LWRlY29yYXRpb246IG5vbmU7XHJcdGRpc3BsYXk6IGJsb2NrO1xyXHRib3JkZXI6IDFweCBzb2xpZCByZ2JhKDE3NywgMTc3LCAxNzcsIDAuNzEpO1xyXHRjb2xvcjogIzMzMzMzMztcclx0cGFkZGluZzogNXB4O1xyXHRtYXJnaW46IC41ZW0gMDtccn1cclx0I2F2YWlsYWJsZS1maWVsZHMgbGkubm90LWF2YWlsYWJsZSwgXHJcdCNhdmFpbGFibGUtaW50ZXJlc3QtZ3JvdXBzIGxpLm5vdC1hdmFpbGFibGUge1xyXHRcdG9wYWNpdHk6IC42ICFpbXBvcnRhbnQ7XHJcdH1cclx0XHJcdCNhdmFpbGFibGUtZmllbGRzIGxpLmZpZWxkLXRvLWFkZC10by1mb3JtLFxyXHQjYXZhaWxhYmxlLWludGVyZXN0LWdyb3VwcyBsaS5ncm91cC10by1hZGQtdG8tZm9ybSB7XHJcdFx0YmFja2dyb3VuZDogcmdiYSg0NiwgMTYyLCAyMDQsIDAuMjUpO1xyXHR9XHIvKioqKioqKioqKioqKioqKioqKioqKiovXHIvKiBFZGl0IEZvcm0gUGFnZSAgKi9cci8qKioqKioqKioqKioqKioqKioqKioqL1xyI2VkaXQteWlrZXMtbWMtZm9ybSBsYWJlbCBoMyB7XHJcdG1hcmdpbi1sZWZ0OjA7XHJcdHBhZGRpbmctbGVmdDogMDtccn1cciNhdmFpbGFibGUtZmllbGRzIC5maWVsZC1yZXF1aXJlZCB7XHJcdGNvbG9yOiByZ2IoMjE3LCA5NiwgOTYpICFpbXBvcnRhbnQ7XHJ9XHJcdC8qIFBvc3QgU3R1ZmYgSGVhZGluZyAqL1xyXHRib2R5LmFkbWluX3BhZ2VfeWlrZXMtbWFpbGNoaW1wLWVkaXQtZm9ybSAjcG9zdHN0dWZmIGgyIHtcclx0XHRwYWRkaW5nOiA4cHggMTJweDtcclx0XHRtYXJnaW4tdG9wOiAwO1xyXHR9XHJcdFxyLyogU3R5bGUgTGlzdCAtIGNvbG9yIHBpY2tlcnMgZXRjLiAqL1xyI3N0eWxlLWxpc3QgdWwgbGkge1xyXHRkaXNwbGF5OiBibG9jaztcclx0d2lkdGg6IDEwMCU7XHJcdG1hcmdpbjogMWVtIDA7XHJ9XHJcdC53cC1waWNrZXItY29udGFpbmVyLFxyXHQuZm9ybS1zdHlsZS1hZGp1c3RtZW50IHtcclx0XHRkaXNwbGF5OiBibG9jayAhaW1wb3J0YW50O1xyXHRcdHdpZHRoOiAxMDAlO1xyXHRcdG1hcmdpbjogLjVlbSAwO1xyXHR9XHJcdFxyLmR5bmFtaWMtZW1haWwtdGFnIHtcclx0ZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXHRtYXJnaW4tcmlnaHQ6IDVweDtccn1cci5keW5hbWljLXRhZy1kZXNjcmlwdGlvbiB0ZCB7XHJcdHBhZGRpbmctdG9wOiAwO1xyfVxyXHIjY3JlYXRlLW5ldy1ub3RpZmljYXRpb24tYnV0dG9uIHtcclx0bWFyZ2luLXRvcDogMWVtO1xyfVxyXHRcci8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1xyLyogQWJvdXQgWWlrZXMgSW5jIFBhZ2UgICAqL1xyLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqL1x0XHIjdGVhbS1tZW1iZXItY29udGFpbmVyIHtcclx0ZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXHR3aWR0aDogYXV0bztcclx0bWFyZ2luOiAwIGF1dG87XHJcdHdpZHRoOiAxMDAlO1xyfVxyXHQueWlrZXMtbmV3cy1hcnRpY2xlIHtcclx0XHRtYXJnaW46IDEycHggMDtcclx0fVxyXHRcdC55aWtlcy1uZXdzLWFydGljbGUgYSB7XHJcdFx0XHR0ZXh0LWRlY29yYXRpb246IG5vbmUgIWltcG9ydGFudDtcclx0XHR9XHJcdFx0XHRcdFxyXHRcdC5zdGFmZi1wb3NpdGlvbiB7XHJcdFx0XHRkaXNwbGF5OiBibG9jaztcclx0XHRcdHRleHQtYWxpZ246IGNlbnRlcjtcclx0XHR9XHJcdFxyXHQjYWJvdXQteWlrZXMgLnRlYW0tbWVtYmVyIGltZyB7XHJcdFx0Ym9yZGVyLXJhZGl1czogNTAlO1xyXHRcdGRpc3BsYXk6YmxvY2s7XHJcdFx0bWFyZ2luOjAgYXV0bztcclx0fVxyXHQuYWJvdXQteWlrZXMtaW5jLXRleHQge1xyXHRcdC1tcy1maWx0ZXI6IFwicHJvZ2lkOkRYSW1hZ2VUcmFuc2Zvcm0uTWljcm9zb2Z0LkFscGhhKE9wYWNpdHk9MClcIjtcclx0XHQvKiBJRSA1LTcgKi9cclx0XHRmaWx0ZXI6IGFscGhhKG9wYWNpdHk9MCk7XHJcdFx0LyogTmV0c2NhcGUgKi9cclx0XHQtbW96LW9wYWNpdHk6IDA7XHJcdFx0LyogU2FmYXJpIDEueCAqL1xyXHRcdC1raHRtbC1vcGFjaXR5OiAwO1xyXHRcdC8qIEdvb2QgYnJvd3NlcnMgKi9cclx0XHRvcGFjaXR5OiAwO1xyXHR9XHJcdCNhYm91dC15aWtlcyAudGVhbS1tZW1iZXIge1xyXHRcdC1tcy1maWx0ZXI6IFwicHJvZ2lkOkRYSW1hZ2VUcmFuc2Zvcm0uTWljcm9zb2Z0LkFscGhhKE9wYWNpdHk9MClcIjtcclx0XHQvKiBJRSA1LTcgKi9cclx0XHRmaWx0ZXI6IGFscGhhKG9wYWNpdHk9MCk7XHJcdFx0LyogTmV0c2NhcGUgKi9cclx0XHQtbW96LW9wYWNpdHk6IDA7XHJcdFx0LyogU2FmYXJpIDEueCAqL1xyXHRcdC1raHRtbC1vcGFjaXR5OiAwO1xyXHRcdC8qIEdvb2QgYnJvd3NlcnMgKi9cclx0XHRvcGFjaXR5OiAwO1xyXHRcdGZsb2F0OiBsZWZ0O1xyXHRcdGRpc3BsYXk6YmxvY2s7XHJcdFx0d2lkdGg6IDMxJTtcclx0XHRtYXJnaW46IDFlbSA1cHggMWVtIDVweDtcclx0fVxyXHRcclx0Lnlpa2VzLWFib3V0LWltYWdlLWNvbnRhaW5lciB7XHJcdFx0cG9zaXRpb246IHJlbGF0aXZlO1xyXHRcdGRpc3BsYXk6IGJsb2NrO1xyXHRcdHdpZHRoOiAxMDVweDtcclx0XHRtYXJnaW46IDAgYXV0bztcclx0fVxyXHRcclx0Lnlpa2VzLWFib3V0LWltYWdlLWNvbnRhaW5lcjpob3ZlciB7XHJcdFx0Y3Vyc29yOiBwb2ludGVyO1xyXHR9XHJcdFx0XHJcdFx0Lnlpa2VzLWFib3V0LWltYWdlLWNvbnRhaW5lciAuZGFzaGljb25zLWhvbGRlciB7XHJcdFx0XHRtYXJnaW46IGF1dG87XHJcdFx0XHRwb3NpdGlvbjogYWJzb2x1dGU7XHJcdFx0XHR0b3A6IDA7IFxyXHRcdFx0bGVmdDogMDsgXHJcdFx0XHRib3R0b206IDA7IFxyXHRcdFx0cmlnaHQ6IDA7XHJcdFx0XHRwYWRkaW5nOiA1cHg7XHJcdFx0XHRiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDUxLCA1MSwgNTEsIDAuNzEpO1xyXHRcdFx0Ym9yZGVyLXJhZGl1czogNTAlO1xyXHRcdFx0dmlzaWJpbGl0eTogaGlkZGVuO1xyXHRcdH1cclx0XHRcclx0XHQueWlrZXMtYWJvdXQtaW1hZ2UtY29udGFpbmVyIC5kYXNoaWNvbnMuZmFkZU91dExlZnQsXHJcdFx0Lnlpa2VzLWFib3V0LWltYWdlLWNvbnRhaW5lciAuZGFzaGljb25zLmZhZGVJblJpZ2h0IHtcclx0XHRcdHZpc2liaWxpdHk6IHZpc2libGUgIWltcG9ydGFudDtcclx0XHR9XHJcdFx0XHJcdFx0XHQueWlrZXMtYWJvdXQtaW1hZ2UtY29udGFpbmVyIC5kYXNoaWNvbnMtdHdpdHRlciB7XHJcdFx0XHRcdGNvbG9yOiAjMDBCMEVEO1xyXHRcdFx0fVxyXHRcdFx0XHJcdFxyXHQjYWJvdXQteWlrZXMgLnRlYW0tcm93OmZpcnN0LWNoaWxkIHtcclx0XHRtYXJnaW4tdG9wOiAyZW07XHJcdH1cclx0XHJcdCNhYm91dC15aWtlcyAudGVhbS1yb3cge1xyXHRcdHdpZHRoOiAxMDAlO1xyXHRcdGZsb2F0OiBsZWZ0O1xyXHR9XHJcdCNhYm91dC15aWtlcyAudGVhbS1tZW1iZXIgcCB7XHJcdFx0cGFkZGluZy1sZWZ0OiAxMHB4O1xyXHRcdGZvbnQtc2l6ZTogMTZweDtcclx0fVxyXHRcclx0I2NlcnRpZmljYXRpb25zIHVsIHtcclx0XHRkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcdFx0d2lkdGg6IDEwMCU7XHJcdFx0dGV4dC1hbGlnbjogY2VudGVyO1xyXHR9XHJcdFx0I2NlcnRpZmljYXRpb25zIHVsIGxpIHtcclx0XHRcdGZsb2F0OiBsZWZ0O1xyXHRcdH1cclx0XHRcdCNjZXJ0aWZpY2F0aW9ucyB1bCBsaSBpbWcge1xyXHRcdFx0XHRtYXgtd2lkdGg6IDEwMCU7XHJcdFx0XHRcdGRpc3BsYXk6YmxvY2s7XHJcdFx0XHRcdG1hcmdpbjogMCBhdXRvO1xyXHRcdFx0fVxyXHRcdFx0XHJcdC8qKioqKioqKioqKioqKioqKioqKioqKioqKiovXHJcdC8qIEFQSSBDb25uZWN0aW9uIFN0eWxlcyAqL1xyXHQvKioqKioqKioqKioqKioqKioqKioqKioqKiovXHJcdCNjb25uZWN0aW9uLWNvbnRhaW5lciB7XHJcdFx0ZmxvYXQ6IHJpZ2h0O1xyXHRcdGNvbG9yOiAjZmZmZmZmO1xyXHRcdHBhZGRpbmc6IC4yNWVtIC43NWVtIC4yNWVtIC4yNWVtO1xyXHRcdG1hcmdpbi10b3A6IC00cHg7XHJcdH1cclx0XHRcclx0XHQjY29ubmVjdGlvbi1jb250YWluZXIuYXBpLWNvbm5lY3RlZCB7XHJcdFx0XHRiYWNrZ3JvdW5kOiByZ2IoNjgsIDE4NiwgNjgpO1xyXHRcdH1cclx0XHRcclx0XHQjY29ubmVjdGlvbi1jb250YWluZXIuYXBpLW5vdC1jb25uZWN0ZWQge1xyXHRcdFx0YmFja2dyb3VuZDogcmdiKDE4MSwgMTgxLCAxODEpO1xyXHRcdH1cclx0XHRcclx0XHQvKiBBZGp1c3QgTGluZWhlaWdodCBvZiBDb25lbmN0ZWQgdnMgTm90LWNvbm5lY3RlZCBJY29ucyAqL1xyXHRcdC55aWtlcy1tYy1hcGktY29ubmVjdGVkLFxyXHRcdC55aWtlcy1tYy1hcGktbm90LWNvbm5lY3RlZCB7XHJcdFx0XHRsaW5lLWhlaWdodDogMTtcclx0XHR9XHJcdFx0LyogRW5kIEljb24gbGluZSBoZWlnaHQgYWRqdXN0bWVudCAqL1xyXHRcclx0LyoqKioqKioqKioqKioqKioqKioqKioqL1xyXHQvKiAgU2V0dGluZ3MgU2lkZWJhciAgICovXHJcdC8qKioqKioqKioqKioqKioqKioqKioqL1xyXHRcdC8qIExlYXZlIFVzIEEgUmV2aWV3ICovXHJcdFx0I3Jldmlldy15aWtlcy1lYXN5LW1jIHtcclx0XHRcdHRleHQtYWxpZ246IGNlbnRlcjtcclx0XHR9XHJcdFx0XHQjcmV2aWV3LXlpa2VzLWVhc3ktbWMgLmRhc2hpY29ucy1zdGFyLWZpbGxlZCB7XHJcdFx0XHRcdGNvbG9yOiAjRTZCODAwO1xyXHRcdFx0fVxyXHRcdC5tZXRhLWJveC1zb3J0YWJsZXMgaHIge1xyXHRcdFx0bWFyZ2luOiAxLjc1ZW0gMCAwIDA7XHJcdFx0fVxyXHRcdFxyXHQvKioqKioqKioqKioqKioqKioqKioqKioqKi9cclx0LypcdCAgQWRtaW4gTm90aWNlcyAgICovXHJcdC8qKioqKioqKioqKioqKioqKioqKioqKiovXHJcdC55aWtlcy1lYXN5LW1jLXVwZGF0ZWQge1xyXHRcdGRpc3BsYXk6IGJsb2NrO1xyXHRcdGJvcmRlci1sZWZ0OiA0cHggc29saWQgIzRFQUVGMDtcclx0XHRtYXJnaW46MCAyMHB4IDJweCAwcHg7XHJcdFx0bWFyZ2luLXRvcDogMWVtO1xyXHRcdG1hcmdpbi1ib3R0b206IDFlbTtcclx0XHRwYWRkaW5nOiAycHggMTBweDtcclx0XHRiYWNrZ3JvdW5kOiAjZmZmO1xyXHRcdGJhY2tncm91bmQtc2l6ZTogMTIwcHg7XHJcdFx0YmFja2dyb3VuZC1wb3NpdGlvbjogcmlnaHQgYm90dG9tO1xyXHRcdGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7XHJcdFx0YmFja2dyb3VuZC1wb3NpdGlvbi15OiAyOXB4O1xyXHR9XHJcdFxyXHQvKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi9cclx0LyogU2lyIFRyZXZvciBDU1MgQWRqdXN0bWVudHMgICovXHJcdC8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHJcdC5zdC1ibG9jay1jb250cm9scyBhIHtcclx0XHR0cmFuc2l0aW9uOiBjb2xvciAuMjVzIGVhc2Utb3V0O1xyXHRcdC1tb3otdHJhbnNpdGlvbjogY29sb3IgLjI1cyBlYXNlLW91dDtcclx0XHQtd2Via2l0LXRyYW5zaXRpb246IGNvbG9yIC4yNXMgZWFzZS1vdXQ7XHJcdFx0LW8tdHJhbnNpdGlvbjogY29sb3IgLjI1cyBlYXNlLW91dDtcclx0fVxyXHQuc3QtYmxvY2stdWktYnRuLCBcclx0LnN0LWJsb2NrLWNvbnRyb2wtdWktYnRuIHtcclx0XHRmb250LXNpemU6IDFlbSAhaW1wb3J0YW50O1xyXHR9XHJcdFx0XHJcdFx0LyogT3ZlcnJyaWRlIENvbHVtbnMgSWNvbiAqL1xyXHRcdC8qIEZpZ3VyZSBvdXQgYSBiZXR0ZXIgd2F5IHRvIGFzc2lnbiB0aGUgZm9udCBmYW1pbHkgKi9cclx0XHQuc3QtYmxvY2stY29udHJvbHMgLnN0LWJsb2NrLWNvbnRyb2xbZGF0YS10eXBlPVwiQ29sdW1uc1wiXSA+IHNwYW4ge1xyXHRcdFx0Zm9udC1mYW1pbHk6ICdTVC1Db2x1bW5zLUljb25zJyAhaW1wb3J0YW50O1xyXHRcdH1cclx0XHRcclx0XHRcclx0XHRcci8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovXHIvKlx0XHRcdCAgICBTdXBwb3J0IFBhZ2VcdFx0ICAqL1xyLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi9cci5zdXBwb3J0LXNlY3Rpb25cdHtcclx0bWFyZ2luOiAxLjVlbSAwO1xyXHRwYWRkaW5nOiAxZW0gMDtccn1cclxyLmdpdGh1Yi1vY3RvY2F0IHtcclx0YmFja2dyb3VuZDogdXJsKCAnLi4vLi4vaW5jbHVkZXMvaW1hZ2VzL1N1cHBvcnRfUGFnZS9PY3RvY2F0LnBuZycgKTtcclx0YmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDtcclx0YmFja2dyb3VuZC1zaXplOiAxMDAlO1xyXHRiYWNrZ3JvdW5kLXBvc2l0aW9uOiBsZWZ0IHRvcDtcclx0d2lkdGg6IDUwcHg7XHJcdGhlaWdodDogNDVweDtcclx0ZGlzcGxheTogYmxvY2s7XHJcdGZsb2F0OiBsZWZ0O1xyXHRtYXJnaW4tdG9wOiAtNXB4O1xyfVx0XHRcclx0XHRcclx0XHIvKiogQnJlYWsgUG9pbnRzICoqL1xyLyogQWJvdXQgUGFnZSAqL1xyQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDk1cHgpIHtcclx0I3RlYW0tbWVtYmVyLWNvbnRhaW5lciAudGVhbS1tZW1iZXIge1xyXHRcdHdpZHRoOiAxMDAlO1xyXHR9XHJcdFxyfVxyLyogT3B0aW9ucyBQYWdlICovXHJAbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA4NTBweCkge1xyXHRcclx0LyogSGlkZSBTZWxlY3RlZCBPcHRpb24gQXJyb3cgd2hlbiBpdCBkcm9wcyBiZWxvdyB0aGUgbWFpbiBjb250ZW50IGJveCAqL1xyXHQub3B0aW9uLW1lbnUtc2VsZWN0ZWQtYXJyb3cge1xyXHRcdGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDtcclx0fVxyXHRccn1cclxyLyogcHJvIHZlcnNpb24gbm90aWNlICovXHIucHJvLXZlcnNpb24tb25seS1ub3RpY2Uge1xyXHRjb2xvcjogcmdiKDIxNywgOTYsIDk2KTtccn1cclxyLyogVXBncmFkZSBFbGlwc2VzICovXHIudXBncmFkaW5nLWVsbGlwc2Utb25lIHtcclx0LW1zLWZpbHRlcjogXCJwcm9naWQ6RFhJbWFnZVRyYW5zZm9ybS5NaWNyb3NvZnQuQWxwaGEoT3BhY2l0eT0wKVwiO1xyXHRmaWx0ZXI6IGFscGhhKG9wYWNpdHk9MCk7XHJcdC1tb3otb3BhY2l0eTogMDtcclx0LWtodG1sLW9wYWNpdHk6IDA7XHJcdG9wYWNpdHk6IDA7XHJcdC13ZWJraXQtYW5pbWF0aW9uOiBkb3QgMS4zcyBpbmZpbml0ZTtcclx0LXdlYmtpdC1hbmltYXRpb24tZGVsYXk6IDAuMHM7XHJcdGFuaW1hdGlvbjogZG90IDEuM3MgaW5maW5pdGU7XHJcdGFuaW1hdGlvbi1kZWxheTogMC4wcztccn1cci51cGdyYWRpbmctZWxsaXBzZS10d28ge1xyXHQtbXMtZmlsdGVyOiBcInByb2dpZDpEWEltYWdlVHJhbnNmb3JtLk1pY3Jvc29mdC5BbHBoYShPcGFjaXR5PTApXCI7XHJcdGZpbHRlcjogYWxwaGEob3BhY2l0eT0wKTtcclx0LW1vei1vcGFjaXR5OiAwO1xyXHQta2h0bWwtb3BhY2l0eTogMDtcclx0b3BhY2l0eTogMDtcclx0LXdlYmtpdC1hbmltYXRpb246IGRvdCAxLjNzIGluZmluaXRlO1xyXHQtd2Via2l0LWFuaW1hdGlvbi1kZWxheTogMC4ycztcclx0YW5pbWF0aW9uOiBkb3QgMS4zcyBpbmZpbml0ZTtcclx0YW5pbWF0aW9uLWRlbGF5OiAwLjJzO1xyfVxyLnVwZ3JhZGluZy1lbGxpcHNlLXRocmVlIHtcclx0LW1zLWZpbHRlcjogXCJwcm9naWQ6RFhJbWFnZVRyYW5zZm9ybS5NaWNyb3NvZnQuQWxwaGEoT3BhY2l0eT0wKVwiO1xyXHRmaWx0ZXI6IGFscGhhKG9wYWNpdHk9MCk7XHJcdC1tb3otb3BhY2l0eTogMDtcclx0LWtodG1sLW9wYWNpdHk6IDA7XHJcdG9wYWNpdHk6IDA7XHJcdC13ZWJraXQtYW5pbWF0aW9uOiBkb3QgMS4zcyBpbmZpbml0ZTtcclx0LXdlYmtpdC1hbmltYXRpb24tZGVsYXk6IDAuM3M7XHJcdCBhbmltYXRpb246IGRvdCAxLjNzIGluZmluaXRlO1xyXHQgYW5pbWF0aW9uLWRlbGF5OiAwLjNzO1xyfVxyXHIvKiBBbmltYXRpb25zICovXHJALXdlYmtpdC1rZXlmcmFtZXMgZG90IHtcclx0ICAwJSB7IG9wYWNpdHk6IDA7IH1cclx0IDUwJSB7IG9wYWNpdHk6IDA7IH1cclx0MTAwJSB7IG9wYWNpdHk6IDE7IH1ccn1cckBrZXlmcmFtZXMgZG90IHtcclx0ICAwJSB7IG9wYWNpdHk6IDA7IH1cclx0IDUwJSB7IG9wYWNpdHk6IDA7IH1cclx0MTAwJSB7IG9wYWNpdHk6IDE7IH1ccn0iXX0= */

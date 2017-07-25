@@ -1,0 +1,150 @@
+/* Sections icons */
+
+#customize-theme-controls > ul > li > h3:before {
+	font: 400 18px/21px dashicons;
+	speak: none;
+	position: relative;
+	bottom: -3px;
+	margin-right: 5px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	background-image: none!important;
+}
+
+#accordion-panel-sentio_header_panel > h3:before {
+	content: "\f510";
+}
+
+#accordion-panel-sentio_footer_panel > h3:before {
+	content: '\f164';
+}
+
+#accordion-section-sentio_content_frontpage > h3:before {
+	content: '\f538';
+}
+
+#accordion-panel-sentio_general_panel > h3:before {
+	content: '\f108';
+}
+
+#accordion-panel-widgets > h3:before {
+	content: '\f478';
+}
+
+#accordion-panel-nav_menus > h3:before {
+	content: '\f333';
+}
+
+#accordion-section-colors > h3:before {
+	content: '*';
+	color: #d54e21;
+}
+
+.dh-pro {
+	display: block;
+	background: #d54e21;
+	color: #ffffff;
+	position: relative;
+	-webkit-transition: left ease-in-out .18s;
+	transition: left ease-in-out .18s;
+	padding: 10px 10px 10px 35px;
+	left: 0;
+}
+
+.dh-pro:hover, .dh-pro:focus {
+	color: #ffffff;
+	box-shadow: none !important;
+}
+
+.dh-pro:before {
+	content: "\f463";
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    opacity: .8;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    speak: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+.in-sub-panel .dh-pro {
+	left: -300px;
+}
+
+/* Social control picker */
+.social-picker li {
+	position: relative;	
+}
+
+.social-picker-item {
+	padding: 0 44px;
+	margin: 5px 0;
+}
+
+.social-picker-item select {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 40px;
+	min-width: 0 !important;
+	-webkit-appearance: none;
+   	-moz-appearance:    none;
+   	appearance:         none;
+   	border: none;
+   	text-align: center;
+   	line-height: 20px !important;
+   	height: 26px !important;
+   	-webkit-box-shadow: none;
+   	box-shadow: none;
+   	font-size: 20px;
+   	opacity: 0.8;
+}
+
+.social-picker-item + span {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.social-picker-item + span a {
+	font-size: 2em !important;
+	display: none !important;
+}
+
+.social-picker li:not(:last-child) .remove-social {
+	display: inline-block !important;
+}
+
+.social-picker li:last-child .add-social {
+	display: inline-block !important;
+}
+
+.social-input {
+	display: none;
+}
+
+@font-face {
+	font-family: 'Sentio';
+	src: url('../../fonts/font-icon/font-icon.eot');
+	src: url('../../fonts/font-icon/font-icon.eot') format('embedded-opentype'), url('../../fonts/font-icon/font-icon.woff') format('woff'), url('../../fonts/font-icon/font-icon.ttf') format('truetype'), url('../../fonts/font-icon/font-icon.svg?9sz7c4#sentio') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.font-icon, [data-icon] {
+	display: inline-block;
+	font-family: 'Sentio';
+	font-size: inherit;
+	line-height: inherit;
+	text-rendering: auto;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+[data-icon]:before {
+	content: attr(data-icon);
+}
+		
+	

@@ -1,0 +1,118 @@
+/*
+Theme Name: Stylic
+Theme URI: https://indigothemes.com/products/stylic-wordpress-theme/ 
+Author: IndigoThemes
+Author URI: https://indigothemes.com
+Description: Stylic is a premium quality WordPress theme developed primarily for but not limited to individuals, small-medium sized companies and ecommerce shops intended to sell their products using WooCommerce. Stylic is a customizable theme and logo, color etc can be easily customized from customizer section. Stylic is a mobile responsive theme so it looks impressive in all type of devices including mobile phones and tablets. Documentation and dummy data of Stylic theme ia available at: https://indigothemes.com/documentation/stylic/
+Version: 1.0.8
+Tags: one-column, two-columns, left-sidebar, custom-colors, custom-background, custom-menu, custom-logo, grid-layout, theme-options, featured-images, threaded-comments, blog
+License: GNU GENERAL PUBLIC LICENSE, Version 3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: stylic
+*/
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 98.5%;
+    /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+.wp-caption p.wp-caption-text {
+    font-size: 12px;
+    line-height: 17px;
+    margin: 0;
+    text-align: center;
+    padding: 10px 4px 0px;
+}
+.wp-caption a {
+    color: #fff;
+}
+.wp-caption,
+.gallery {
+    margin-bottom: 1.6842em;
+}
+iframe,
+embed {
+    max-width: 100%;
+}
+.sticky .entry-date {
+    display: none;
+}
+.gallery-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.5;
+    max-height: 50%;
+    opacity: 0;
+    padding: 6px 8px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    width: 100%;
+}
+.gallery-caption:before {
+    content: "";
+    height: 100%;
+    min-height: 49px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.gallery-item:hover .gallery-caption {
+    opacity: 1;
+}
+.gallery-columns-7 .gallery-caption,
+.gallery-columns-8 .gallery-caption,
+.gallery-columns-9 .gallery-caption {
+    display: none;
+}
+.bypostauthor {}
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.alignright {
+    display: inline;
+    float: right;
+}
+.single-blog-social a[rel~='nofollow'] {
+    outline: 0em dotted transperant !important;
+    outline-offset: 0em;
+}
+img {width: auto;max-width: 100%;}
+.tagcloud a {
+    padding: 5px;
+    border: 1px solid #14213D;
+    margin: 5px 5px 5px 0;
+    border-radius: 2px;
+}

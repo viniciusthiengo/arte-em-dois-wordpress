@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Basic\n"
+"POT-Creation-Date: 2016-11-02 10:36+0200\n"
+"PO-Revision-Date: 2016-11-02 10:37+0200\n"
+"Last-Translator: Alexandra Vovk <avovkdesign@gmail.com>\n"
+"Language-Team: WP Puzzle <wppuzzle@gmail.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_e;__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:14
+msgid "Category"
+msgstr "Kategorie "
+
+#: archive.php:17
+msgid "Tag"
+msgstr "Schlagwort"
+
+#: archive.php:20
+msgid "Day archives:"
+msgstr "Tagesarchiv:"
+
+#: archive.php:22
+msgid "Monthly archives:"
+msgstr "Monatsarchive:"
+
+#: archive.php:24
+msgid "Year archives:"
+msgstr "Jahresarchiv:"
+
+#: archive.php:26
+msgid "Author archives"
+msgstr "Autoren-Archiv"
+
+#: archive.php:29
+msgid "Archive"
+msgstr "Archiv"
+
+#: archive.php:41 index.php:17 search.php:20
+msgid "&laquo; Prev"
+msgstr "&laquo; Zurück"
+
+#: archive.php:42 index.php:18 search.php:21
+msgid "Next &raquo;"
+msgstr "Weiter &raquo;"
+
+#: archive.php:49 index.php:25
+msgid "Posts not found"
+msgstr "Keine Einträge gefunden"
+
+#: comments.php:9 inc/html-blocks.php:113
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:13 comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:14 comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:45
+msgid "Your Name"
+msgstr "Name"
+
+#: comments.php:46
+msgid "Your E-mail"
+msgstr "E-Mail"
+
+#: comments.php:47
+msgid "Your Website"
+msgstr "Webseite"
+
+#: comments.php:51
+msgid "Message"
+msgstr "Nachricht"
+
+#: footer.php:37
+msgid "Theme by"
+msgstr "Thema von"
+
+#: footer.php:38
+msgid "WP Puzzle"
+msgstr "WP Puzzle"
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr "Oberes Menü"
+
+#: functions.php:31
+msgid "Footer Menu"
+msgstr "Footer-Menü"
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:106
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Hier Widgets hinzufügen, um diese in der Seitenleiste anzeigen."
+
+#: functions.php:178 inc/schemaorg.php:26
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:181 inc/schemaorg.php:29
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: functions.php:185 inc/schemaorg.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: header.php:51
+msgid "Menu"
+msgstr "Menüs"
+
+#: header.php:64 header.php:67
+msgid "Home"
+msgstr "Hauptseite"
+
+#: inc/admin/meta-boxes.php:12 inc/admin/meta-boxes.php:15
+msgid "Select Layout"
+msgstr "Layout auswählen"
+
+#: inc/admin/meta-boxes.php:30
+msgid "Default"
+msgstr "Default"
+
+#: inc/admin/meta-boxes.php:35 inc/customizer/customizer-settings.php:318
+#: inc/customizer/customizer-settings.php:344
+#: inc/customizer/customizer-settings.php:371
+#: inc/customizer/customizer-settings.php:398
+msgid "Rightbar"
+msgstr "Rechte Spalte"
+
+#: inc/admin/meta-boxes.php:40 inc/customizer/customizer-settings.php:319
+#: inc/customizer/customizer-settings.php:345
+#: inc/customizer/customizer-settings.php:372
+#: inc/customizer/customizer-settings.php:399
+msgid "Leftbar"
+msgstr "Linke Spalte"
+
+#: inc/admin/meta-boxes.php:45 inc/customizer/customizer-settings.php:320
+#: inc/customizer/customizer-settings.php:346
+#: inc/customizer/customizer-settings.php:373
+#: inc/customizer/customizer-settings.php:400
+msgid "Fullwidth Content"
+msgstr "Inhalt auf ganze Breite ausdehnen"
+
+#: inc/admin/meta-boxes.php:50 inc/customizer/customizer-settings.php:321
+#: inc/customizer/customizer-settings.php:347
+#: inc/customizer/customizer-settings.php:374
+#: inc/customizer/customizer-settings.php:401
+msgid "Centered Content"
+msgstr "Zentrieren"
+
+#: inc/customizer/customizer-settings.php:18
+#: inc/customizer/customizer-settings.php:56
+msgid "Site title"
+msgstr "Titel der Website"
+
+#: inc/customizer/customizer-settings.php:34
+msgid "Display logo image with site title"
+msgstr "Logo & Seitentitel anzeigen"
+
+#: inc/customizer/customizer-settings.php:38
+msgid "Only image, without text"
+msgstr "Nur Bild, ohne Seitentitel"
+
+#: inc/customizer/customizer-settings.php:39
+msgid "Picture above the text"
+msgstr "Bild über dem Text"
+
+#: inc/customizer/customizer-settings.php:40
+msgid "Picture to the left of text"
+msgstr "Bild links von dem Text"
+
+#: inc/customizer/customizer-settings.php:41
+msgid "Picture to the right of text"
+msgstr "Bild rechts von dem Text"
+
+#: inc/customizer/customizer-settings.php:42
+msgid "Picture under the text"
+msgstr "Bild unter dem Text"
+
+#: inc/customizer/customizer-settings.php:79
+msgid "Description"
+msgstr "Untertitel"
+
+#: inc/customizer/customizer-settings.php:104
+msgid "Title position"
+msgstr "Titelposition"
+
+#: inc/customizer/customizer-settings.php:108
+msgid "Left"
+msgstr "Links"
+
+#: inc/customizer/customizer-settings.php:109
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/customizer/customizer-settings.php:110
+msgid "Center"
+msgstr "Mittig"
+
+#: inc/customizer/customizer-settings.php:128
+msgid "Show site description"
+msgstr "Untertitel der Website anzeigen"
+
+#: inc/customizer/customizer-settings.php:144
+msgid "Other"
+msgstr "Andere"
+
+#: inc/customizer/customizer-settings.php:171
+msgid "Set header height as background image size"
+msgstr "Kopfzeile an die Bildgröße anpassen"
+
+#: inc/customizer/customizer-settings.php:190
+msgid "Image repeat"
+msgstr "Das Bild wiederholt einstellen"
+
+#: inc/customizer/customizer-settings.php:194
+msgid "No repeat"
+msgstr "Nicht Wiederholen"
+
+#: inc/customizer/customizer-settings.php:195
+msgid "Repeat"
+msgstr "Wiederholen "
+
+#: inc/customizer/customizer-settings.php:203
+msgid "Background"
+msgstr "Hintergrund"
+
+#: inc/customizer/customizer-settings.php:218
+msgid "Design"
+msgstr "Design"
+
+#: inc/customizer/customizer-settings.php:220
+msgid "Main theme options"
+msgstr "Grundeinstellungen"
+
+#: inc/customizer/customizer-settings.php:239
+msgid "Main color"
+msgstr "Grundfarbe"
+
+#: inc/customizer/customizer-settings.php:240
+msgid "Choose main color"
+msgstr "Farbe auswählen"
+
+#: inc/customizer/customizer-settings.php:254
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/customizer-settings.php:255
+msgid "Set up layout for site pages"
+msgstr "Struktur für die Seite einstellen"
+
+#: inc/customizer/customizer-settings.php:275
+msgid "Show sidebar on mobile"
+msgstr "Seitenleiste auf Handy anzeigen"
+
+#: inc/customizer/customizer-settings.php:293
+msgid "Show featured images on mobile"
+msgstr "Miniaturansicht auf Handy anzeigen"
+
+#: inc/customizer/customizer-settings.php:313
+msgid "Layout on Home"
+msgstr "Struktur für die Hauptseite"
+
+#: inc/customizer/customizer-settings.php:340
+msgid "Layout on Post"
+msgstr "Eintragsstruktur (Post)"
+
+#: inc/customizer/customizer-settings.php:366
+msgid "Layout on Page"
+msgstr "Seitenstruktur (Page)"
+
+#: inc/customizer/customizer-settings.php:393
+msgid "Global layout"
+msgstr "Grundstruktur"
+
+#: inc/customizer/customizer-settings.php:394
+msgid "It is used when individual page layout is not set"
+msgstr ""
+"Dies wird benutzt, wenn die individuelle Struktur nicht eingestellt ist"
+
+#: inc/customizer/customizer-settings.php:415
+msgid "Other options"
+msgstr "Andere Optionen"
+
+#: inc/customizer/customizer-settings.php:436
+msgid "Post meta"
+msgstr "Post-Metadaten"
+
+#: inc/customizer/customizer-settings.php:437
+msgid "What meta information to display for posts"
+msgstr "Welche Metadaten für Posts anzeigen"
+
+#: inc/customizer/customizer-settings.php:440
+msgid "Publication date"
+msgstr "Datum der Veröffentlichung"
+
+#: inc/customizer/customizer-settings.php:441
+msgid "Post author"
+msgstr "Postautor"
+
+#: inc/customizer/customizer-settings.php:442
+msgid "Post categories"
+msgstr "Kategorien"
+
+#: inc/customizer/customizer-settings.php:443
+msgid "Comments count"
+msgstr "Zahl der Kommentare"
+
+#: inc/customizer/customizer-settings.php:444
+msgid "Post tags"
+msgstr "Schlagworte"
+
+#: inc/customizer/customizer-settings.php:458
+msgid "Post"
+msgstr "Eintrag"
+
+#: inc/customizer/customizer-settings.php:459
+msgid "Set your custom options to displaying posts"
+msgstr "Zusätzliche Optionen der Anzeige einstellen "
+
+#: inc/customizer/customizer-settings.php:468
+msgid "Social"
+msgstr "Soziales Netzwerk"
+
+#: inc/customizer/customizer-settings.php:469
+msgid "Social buttons"
+msgstr "Sozial-Knopf"
+
+#: inc/customizer/customizer-settings.php:489
+msgid "Add Open Graph tags to &lt;head&gt;"
+msgstr "Stichwörter Open Graph hinzufügen &lt;head&gt;"
+
+#: inc/customizer/customizer-settings.php:510
+msgid "Social share buttons after post"
+msgstr "Soziale-Knöpfe nach dem Eintrag"
+
+#: inc/customizer/customizer-settings.php:514
+msgid "Hide"
+msgstr "Verstecken"
+
+#: inc/customizer/customizer-settings.php:515
+msgid "Custom theme buttons"
+msgstr "Default-Knöpfe (von den Entwicklern des Themas)"
+
+#: inc/customizer/customizer-settings.php:516
+msgid "Yandex Buttons"
+msgstr "Yandex Knöpfe"
+
+#: inc/customizer/customizer-settings.php:536
+msgid "Custom text before share buttons"
+msgstr "Text über den Sozialen-Knöpfen"
+
+#: inc/customizer/customizer-settings.php:548
+msgid "Structured Data"
+msgstr "Strukturierte Daten"
+
+#: inc/customizer/customizer-settings.php:568
+msgid "Enable Schema.org mark up according CreativeWork->Article and Comment"
+msgstr ""
+"Markup Schema.org aktivieren entsprechend CreativeWork->Article and Comment"
+
+#: inc/customizer/customizer-settings.php:588
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/customizer/customizer-settings.php:589
+#: inc/customizer/customizer-settings.php:610
+#: inc/customizer/customizer-settings.php:634
+msgid "use in https://schema.org/Organization"
+msgstr "benutzen in https://schema.org/Organization"
+
+#: inc/customizer/customizer-settings.php:601
+msgid "Russia"
+msgstr "Deutschland"
+
+#: inc/customizer/customizer-settings.php:609
+msgid "Address"
+msgstr "Anschrift"
+
+#: inc/customizer/customizer-settings.php:633
+msgid "Publisher logo"
+msgstr "Logo des Herausgeber"
+
+#: inc/customizer/customizer-settings.php:644
+msgid "Advertisement"
+msgstr "Anzeige"
+
+#: inc/customizer/customizer-settings.php:645
+msgid "Setup advertisement before and after post content"
+msgstr "Anzeige vor und nach dem Inhalt einstellen"
+
+#: inc/customizer/customizer-settings.php:656
+#: inc/customizer/customizer-settings.php:665
+msgid "Code before single post content"
+msgstr "Code vor dem Inhalt"
+
+#: inc/customizer/customizer-settings.php:664
+msgid "Before content"
+msgstr "Vor dem Inhalt"
+
+#: inc/customizer/customizer-settings.php:677
+#: inc/customizer/customizer-settings.php:686
+msgid "Code after single post content"
+msgstr "Code nach dem Inhalt"
+
+#: inc/customizer/customizer-settings.php:685
+msgid "After content"
+msgstr "Nach dem Inhalt"
+
+#: inc/customizer/customizer-settings.php:697
+msgid "Custom codes"
+msgstr "Benutzerdefinierte Codes"
+
+#: inc/customizer/customizer-settings.php:698
+msgid "It helps you to setup custom scripts and styles"
+msgstr ""
+"Diese Optionen helfen Ihnen benutzerdefinierte Skripte und Stile einzustellen"
+
+#: inc/customizer/customizer-settings.php:712
+msgid "Global settings"
+msgstr "Globale Einstellungen"
+
+#: inc/customizer/customizer-settings.php:732
+msgid "Scripts in header"
+msgstr "Skripte in der Kopfzeile"
+
+#: inc/customizer/customizer-settings.php:733
+msgid "HTML code in &lt;head&gt; tag"
+msgstr "HTML code in &lt;head&gt; tag"
+
+#: inc/customizer/customizer-settings.php:753
+msgid "Scripts in site footer"
+msgstr "Skripte im Footer"
+
+#: inc/customizer/customizer-settings.php:754
+msgid "HTML code before &lt;/body&gt; tag"
+msgstr "HTML code bevor &lt;/body&gt; tag"
+
+#: inc/customizer/customizer-settings.php:766
+msgid "Custom CSS"
+msgstr "CSS Stile"
+
+#: inc/customizer/customizer-settings.php:786
+msgid "Custom styles"
+msgstr "Benutzerdefinierte Stile"
+
+#: inc/customizer/customizer-settings.php:787
+msgid "Add your custom CSS styles"
+msgstr "Ihre CSS Stile hinzufügen"
+
+#: inc/customizer/customizer-settings.php:800
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/customizer-settings.php:801
+msgid "Customize footer"
+msgstr "Footer anpassen"
+
+#: inc/customizer/customizer-settings.php:812
+msgid "All rights reserved"
+msgstr "Alle Rechte vorbehalten"
+
+#: inc/customizer/customizer-settings.php:820
+msgid "Copyright text"
+msgstr "Text Urheberrecht"
+
+#: inc/customizer/customizer-settings.php:840
+msgid "Counters code"
+msgstr "Code Zähler"
+
+#: inc/customizer/customizer-settings.php:853
+msgid "Design skins for theme BASIC"
+msgstr "Design für Thema BASIC"
+
+#: inc/customizer/customizer-settings.php:856
+msgid "Get child theme with additional design!"
+msgstr "Hier finden Sie Tochter Themen für BASIC mit zusätzlichen Design"
+
+#: inc/customizer/customizer-settings.php:934
+msgid "WP Puzzle Themes"
+msgstr "WP Puzzle Themen"
+
+#: inc/customizer/customizer-settings.php:935
+msgid "Choose great premium themes by WP Puzzle Shop!"
+msgstr "Wählen Sie großartige  premium Themen von WP Puzzle Shop!"
+
+#: inc/hooks.php:122 inc/hooks.php:125 inc/hooks.php:126
+msgid "Share in"
+msgstr "Teilen auf"
+
+#: inc/hooks.php:123
+msgid "Share in VK"
+msgstr "Teilen auf VK"
+
+#: inc/hooks.php:124
+msgid "Share in OK"
+msgstr "Teilen auf OK"
+
+#: inc/html-blocks.php:14
+msgid "Read more"
+msgstr "Weiter Lesen"
+
+#: inc/html-blocks.php:116
+msgid "Tags: "
+msgstr "Stichwörter: "
+
+#: search.php:6
+msgid "Search results for"
+msgstr "Suchergebnisse für"
+
+#: search.php:27
+msgid "No results for "
+msgstr "Keine Ergebnisse für"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Suche"
+
+#: sidebar.php:22
+msgid "Categories"
+msgstr "Kategorien"

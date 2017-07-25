@@ -1,0 +1,237 @@
+/* HTML elements */
+*,
+*:before,
+*:after {
+  transition: all .3s;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+blockquote {
+  font-style: italic;
+  color: #939393;
+  text-align: center;
+  border: 0;
+}
+blockquote:before,
+blockquote:after {
+  display: block;
+  content: '';
+  position: relative;
+  width: 30px;
+  border-top: 2px solid #818181;
+  margin: 15px auto;
+}
+blockquote.pull-right,
+blockquote.pull-left {
+  max-width: 360px;
+  border: 0;
+}
+blockquote.pull-right:before,
+blockquote.pull-left:before,
+blockquote.pull-right:after,
+blockquote.pull-left:after {
+  display: none;
+}
+blockquote cite {
+  font-size: 12px;
+  font-style: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: block;
+  margin-top: 30px;
+}
+a:focus,
+a:active {
+  outline: 0;
+}
+a:focus {
+  color: #333;
+}
+a:hover {
+  opacity: .9;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  transition: opacity .3s;
+}
+label {
+  font-weight: normal;
+}
+th,
+td {
+  padding: 3px 8px;
+  border: 1px solid #e1e1e1;
+}
+textarea,
+input[type="text"],
+input[type="url"],
+input[type="email"],
+input[type="tel"],
+input[type="password"],
+input[type="search"] {
+  border: 1px solid #e1e1e1;
+  width: 100%;
+  padding-left: .6em;
+  padding-right: .6em;
+  box-sizing: border-box;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="url"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus {
+  outline: 0;
+}
+textarea {
+  height: 12em;
+  display: block;
+}
+button,
+input[type="button"],
+input[type="submit"],
+.button {
+  display: inline-block;
+  padding: 0 25px;
+  line-height: 40px;
+  position: relative;
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
+  letter-spacing: 2px;
+  background: #333;
+  border: 0;
+  border-radius: 1px;
+}
+button:hover,
+input[type="button"]:hover,
+input[type="submit"]:hover,
+.button:hover {
+  color: #fff;
+  background: #000;
+  text-decoration: none;
+}
+svg {
+  vertical-align: middle;
+  fill: currentColor;
+}
+:focus,
+:active {
+  outline: none;
+}
+/* Overwrite social icons from Jetpack */
+body .jetpack-social-navigation ul {
+  margin: 0;
+}
+body .jetpack-social-navigation li {
+  margin-right: 15px;
+}
+body .jetpack-social-navigation li:last-child {
+  margin-right: 0;
+}
+/* WordPress must-have styles */
+.alignnone {
+  margin: 30px 0;
+}
+.aligncenter,
+.aligncenter img {
+  display: block;
+  margin: 30px auto;
+}
+.alignright {
+  float: right;
+  margin: 0 0 30px 30px;
+}
+.alignleft {
+  float: left;
+  margin: 0 30px 30px 0;
+}
+.wp-caption {
+  text-align: center;
+  max-width: 100%;
+}
+.wp-caption img {
+  display: block;
+  margin: 0 auto;
+}
+.wp-caption-text {
+  font-size: 11px;
+  margin: 5px 0 0;
+}
+.bypostauthor {
+  display: block;
+}
+.sticky {
+  display: block;
+}
+.wp-playlist-item .wp-playlist-caption,
+.wp-playlist-item .wp-playlist-item-length {
+  line-height: 2.5;
+}
+.entry-content .wp-playlist,
+.entry-summary .wp-playlist {
+  padding-bottom: 0;
+}
+.screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+.screen-reader-text:focus {
+  clip: auto !important;
+  display: block;
+  height: auto;
+  left: 5px;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+.gallery {
+  margin: 30px auto;
+  clear: both;
+}
+.gallery-item {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 100%;
+  padding: 0 15px;
+}
+.gallery-item img {
+  width: 100%;
+}
+.gallery-columns-2 .gallery-item {
+  max-width: 50%;
+}
+.gallery-columns-3 .gallery-item {
+  max-width: 33.33%;
+}
+.gallery-columns-4 .gallery-item {
+  max-width: 25%;
+}
+.gallery-columns-5 .gallery-item {
+  max-width: 20%;
+}
+.gallery-columns-6 .gallery-item {
+  max-width: 16.66%;
+}
+.gallery-columns-7 .gallery-item {
+  max-width: 14.28%;
+}
+.gallery-columns-8 .gallery-item {
+  max-width: 12.5%;
+}
+.gallery-columns-9 .gallery-item {
+  max-width: 11.11%;
+}
+.gallery-caption {
+  display: block;
+}

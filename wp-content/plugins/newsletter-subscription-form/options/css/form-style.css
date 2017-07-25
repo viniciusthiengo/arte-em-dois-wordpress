@@ -1,0 +1,35 @@
+.main_div1{
+	position: fixed;
+	z-index: 99999;
+	background-color: rgba(0, 0, 0, 0.6);
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+}
+.main_div1 .subscribe-messages1{
+	top: 30%;
+	left:35%;
+	width: 600px;
+	border: 2px solid rgb(255, 255, 255);
+	border-radius: 15px;
+	box-shadow: 1px 1px 10px rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	position: absolute;
+	background: rgb(0, 0, 0) none repeat scroll 0% 0%;
+	padding: 40px;
+	font-size: 20px;
+}
+.main_div1 .subscribe-messages1 .close_message1{
+	top: 2%;
+	right: 5px;
+	padding: 5px;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 20px;
+	border-radius: 2px;
+	background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+	color: rgb(0, 0, 0);
+	position: absolute;
+	cursor: pointer;
+}

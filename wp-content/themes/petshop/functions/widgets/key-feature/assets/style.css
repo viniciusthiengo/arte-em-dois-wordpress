@@ -1,0 +1,66 @@
+.provide-info {
+    padding: 40px 50px 20px;
+    text-align: center;
+}
+.provide-info span {
+    font-size: 62px;
+    transition: 0.5s;
+    display: block;
+    transform: translate(0, 0);
+    transition: transform 0.3s ease-in-out;
+}
+.provide-info:hover span {
+    transform: translate(0, -8px);
+}
+.provide-info h3 {
+    margin: 10px 0 15px;
+    font-size: 24px;
+    padding: 15px 8px;
+    border: 1px transparent solid;
+    transition: 0.5s;
+    position: relative;
+    font-weight: 400;
+}
+.provide-info h3:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+}
+.provide-info:hover h3 {
+    color: #465a65;
+    cursor: pointer;
+    /*border-gradient*/
+    border: 1px solid transparent;
+    -moz-border-image: -moz-linear-gradient(right, #c628270%, #ae1558 100%);
+    -webkit-border-image: -webkit-linear-gradient(right, #c62827 0%, #ae1558 100%);
+    border-image: linear-gradient(to right, #c62827 0%, #ae1558 100%);
+    border-image-slice: 1;
+}
+.provide-info p {
+    color: #465a65;
+    margin: 0;
+}
+
+.button-div {
+    width: 100%;
+    padding-top: 5%;
+}
+.button-read {
+    background: #ffffff;
+    border-radius: 3px;
+    border: 1px solid #dbdbdb;
+    color: #2c3e50;
+    display: inline-block;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 14px;
+}
+.button-read:hover {
+    color: #ffffff;
+    background: #e61119;
+}

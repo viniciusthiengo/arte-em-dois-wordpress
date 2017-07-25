@@ -1,0 +1,68 @@
+@import "../../../base/less/mixins";
+
+@keyFeatureTextAlignment: '';
+@keyFeatureTitleColor: '';
+@keyFeatureTitleHoverColor: '';
+@keyFeatureDescriptionColor: '';
+@keyFeatureDescriptionHoverColor: '';
+@keyFeatureBackgroundColor: '';
+@keyFeatureBackgroundHoverColor: '';
+@keyFeatureIconColor: '';
+@keyFeatureIconHoverColor: '';
+@keyFeatureIconAlignment: '';
+@keyFeatureTitleFontSize: '';
+@keyFeatureDescriptionFontSize: '';
+@keyFeatureBorderWidth: 0;
+@keyFeatureBorderRadius: 0;
+@keyFeatureBorderColor: '';
+@keyFeatureDescriptionFontFamily: '';
+@keyFeatureTitleFontFamily: '';
+@keyFeatureDescriptionMargin: 5px;
+@keyFeatureTitleMargin: 10px;
+@keyFeatureHorizontalSpace : '';
+@keyFeatureVerticalSpace: '';
+@keyFeatureButtonColor: '';
+
+/*knowledge*/
+.knowledge-box span{
+	display:block;
+	text-align: @keyFeatureIconAlignment;
+}
+.knowledge-box {
+    text-align: @keyFeatureTextAlignment;
+    padding-top: @keyFeatureHorizontalSpace;
+    padding-bottom: @keyFeatureHorizontalSpace;
+    padding-left: @keyFeatureVerticalSpace;
+    padding-right: @keyFeatureVerticalSpace;
+}
+.knowledge-box .keyFeatureTitle{
+	font-family: @keyFeatureTitleFontFamily;
+    color: @keyFeatureTitleColor;
+    font-size: @keyFeatureTitleFontSize;
+    padding: @keyFeatureTitleMargin 0;
+}
+.knowledge-box .keyFeatureDescription{
+	font-family: @keyFeatureDescriptionFontFamily;
+    color: @keyFeatureDescriptionColor;
+    font-size: @keyFeatureDescriptionFontSize;
+    padding: @keyFeatureDescriptionMargin 0;
+}
+.knowledge-box{
+	border-width: @keyFeatureBorderWidth;
+	border-style: solid;
+	border-radius: @keyFeatureBorderRadius;
+	border-color: @keyFeatureBorderColor;
+    background: @keyFeatureBackgroundColor;
+}
+.knowledge-box:hover {
+    background: @keyFeatureBackgroundHoverColor;
+}
+.knowledge-box:hover .keyFeatureTitle{
+	color: @keyFeatureTitleHoverColor;
+}
+.knowledge-box:hover .keyFeatureDescription{
+	color: @keyFeatureDescriptionHoverColor;
+}
+.btn-light:hover, a:hover{
+    color: @keyFeatureButtonColor;
+}

@@ -1,0 +1,6 @@
+.sow-slider-pagination li{
+	display: none;
+}
+.sow-slider-base [class^="sow-sld-icon-"], .sow-slider-base [class*=" sow-sld-icon-"] {
+    font-family: 'FontAwesome';
+}

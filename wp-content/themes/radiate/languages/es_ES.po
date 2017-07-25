@@ -1,0 +1,306 @@
+# Radiate WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Radiate Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Radiate\n"
+"POT-Creation-Date: 2015-01-26 16:43+0545\n"
+"PO-Revision-Date: 2015-01-26 16:44+0545\n"
+"Last-Translator: ThemeGrill <themegrill@gmail.com>\n"
+"Language-Team: David Cantón <estaesbuena@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x:1,2c;_x;_n:1,2;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Vaya! No se ha encontrado la p&aacute;gina"
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Try searching with some "
+"keywords."
+msgstr ""
+"No se ha encontrado nada. Intenta la b&uacute;squeda con algunas palabras "
+"clave"
+
+#: ../archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: ../archive.php:41
+#, php-format
+msgid "Day: %s"
+msgstr "D&iacute;a: %s"
+
+#: ../archive.php:44
+#, php-format
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: ../archive.php:47
+#, php-format
+msgid "Year: %s"
+msgstr "A&ntilde;o: %s"
+
+#: ../archive.php:50
+msgid "Asides"
+msgstr "Anotaciones"
+
+#: ../archive.php:53
+msgid "Images"
+msgstr "Im&aacute;genes"
+
+#: ../archive.php:56
+msgid "Videos"
+msgstr "V&iacute;deos"
+
+#: ../archive.php:59
+msgid "Quotes"
+msgstr "Citas"
+
+#: ../archive.php:62
+msgid "Links"
+msgstr "Enlaces"
+
+#: ../archive.php:65 ../sidebar.php:19
+msgid "Archives"
+msgstr "Archivos"
+
+#: ../comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensamiento en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:39 ../comments.php:57
+msgid "Comment navigation"
+msgstr "Navegaci&oacute;n de comentarios"
+
+#: ../comments.php:40 ../comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios m&aacute;s antiguos"
+
+#: ../comments.php:41 ../comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios m$aacute;s nuevos"
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr "Comentarios cerrados"
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: ../content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"&iquest;Listo para publicar tu primera entrada? <a href=\"%1$s\">Comienza "
+"aqu&iacute;</a>."
+
+#: ../content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, pero no hay nada que se corresponda con los t&eacute;rminos de "
+"b&uacute;squeda. Int&eacute;ntalo de nuevo con algunas palabras clave "
+"diferentes."
+
+#: ../content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que est&aacute;s buscando. Puede que una "
+"b&uacute;squeda pueda ayudar."
+
+#: ../content-page.php:20 ../content-single.php:24 ../content.php:29
+msgid "Pages:"
+msgstr "P&aacute;ginas"
+
+#: ../content-page.php:25 ../content-single.php:57 ../content.php:63
+msgid "Edit"
+msgstr "Editar"
+
+#: ../content-single.php:34 ../content-single.php:44 ../content.php:40
+#: ../content.php:50
+msgid ", "
+msgstr ","
+
+#: ../content-single.php:54 ../content.php:60
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: ../content-single.php:54 ../content.php:60
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: ../content-single.php:54 ../content.php:60
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: ../content.php:26
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Leer m&aacute;s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../footer.php:19
+msgid "Proudly  powered by "
+msgstr "Con la tecnolog&iacute;a de"
+
+#: ../footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:22
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Plantilla: %1$s by %2$s."
+
+#: ../front-page.php:34
+msgid "Read more"
+msgstr "Leer m&aacute;s"
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr "Men&uacute; Primario"
+
+#: ../functions.php:71
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: ../header.php:38
+msgid "Skip to content"
+msgstr "Pasar al contenido"
+
+#: ../inc/custom-header.php:41
+msgid "Header Image One"
+msgstr "Imagen uno del encabezado"
+
+#: ../inc/customizer.php:38
+msgid "Site Title"
+msgstr "T&iacute;tulo del sitio"
+
+#: ../inc/customizer.php:69
+msgid "Primary Color"
+msgstr "Color primario"
+
+#: ../inc/customizer.php:79
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: ../inc/customizer.php:98
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr ""
+"&iexcl;A&ntilde;ade tu css personal aqu&iacute; y dise&ntilde;a en director! "
+"(para usuarios avanzados)"
+
+#: ../inc/customizer.php:108
+msgid "Front Page Featured Section"
+msgstr "Secci&oacute;n Destacados en la portada"
+
+#: ../inc/customizer.php:136
+msgid "First featured page"
+msgstr "Primer bloque Destacados"
+
+#: ../inc/customizer.php:144
+msgid "Second featured page"
+msgstr "Segundo bloque Destacados"
+
+#: ../inc/customizer.php:152
+msgid "Third featured page"
+msgstr "Tercer bloque Destacados"
+
+#: ../inc/extras.php:82
+#, php-format
+msgid "Page %s"
+msgstr "P&aacute;gina %s"
+
+#: ../inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Navegaci&oacute;n por las entradas"
+
+#: ../inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Entradas m&aacute;s antiguas"
+
+#: ../inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr " Entradas m&aacute;s nuevas <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "Navegaci&oacute;n por la entrada"
+
+#: ../inc/template-tags.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: ../inc/template-tags.php:62
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:84
+msgid "Pingback:"
+msgstr "Retroenlace:"
+
+#: ../inc/template-tags.php:84
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../inc/template-tags.php:99
+msgid "Post author"
+msgstr "Autor de la entrada"
+
+#: ../inc/template-tags.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: ../inc/template-tags.php:104
+#, php-format
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Enlace permanente</a>"
+
+#: ../inc/template-tags.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario est&aacute; pendiente de ser aceptado"
+
+#: ../inc/template-tags.php:115
+msgid "Reply"
+msgstr "Respuesta"
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados para la b&uacute;squeda: %s"
+
+#: ../searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: ../searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: ../searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: ../sidebar.php:26
+msgid "Meta"
+msgstr "Meta"

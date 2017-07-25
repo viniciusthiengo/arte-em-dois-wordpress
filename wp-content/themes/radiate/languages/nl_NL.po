@@ -1,0 +1,300 @@
+# Radiate WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Radiate Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Radiate\n"
+"POT-Creation-Date: 2015-01-26 16:50+0545\n"
+"PO-Revision-Date: 2015-01-26 16:50+0545\n"
+"Last-Translator: ThemeGrill <themegrill@gmail.com>\n"
+"Language-Team:  <poedit@brambring.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x:1,2c;_x;_n:1,2;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps, die pagina is er niet"
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Try searching with some "
+"keywords."
+msgstr "Hier hebben we niks, probeer eens met wat andere trefwoorden"
+
+#: ../archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: ../archive.php:41
+#, php-format
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: ../archive.php:44
+#, php-format
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: ../archive.php:47
+#, php-format
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: ../archive.php:50
+msgid "Asides"
+msgstr "Asides"
+
+#: ../archive.php:53
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: ../archive.php:56
+msgid "Videos"
+msgstr "Video&#39;s"
+
+#: ../archive.php:59
+msgid "Quotes"
+msgstr "Citaten"
+
+#: ../archive.php:62
+msgid "Links"
+msgstr "Links"
+
+#: ../archive.php:65 ../sidebar.php:19
+msgid "Archives"
+msgstr "Archief"
+
+#: ../comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een reactie op &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s reacties op &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:39 ../comments.php:57
+msgid "Comment navigation"
+msgstr "Navigeer de reacties"
+
+#: ../comments.php:40 ../comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr;  Oudere Reacties"
+
+#: ../comments.php:41 ../comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere Reacties &rarr;"
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: ../content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: ../content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Helaas, er waren geen overeenkomsten met jouw zoekterm. Probeer het opnieuw "
+"met enkele andere zoekwoorden."
+
+#: ../content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht dat de "
+"zoekfunctie helpt."
+
+#: ../content-page.php:20 ../content-single.php:24 ../content.php:29
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: ../content-page.php:25 ../content-single.php:57 ../content.php:63
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../content-single.php:34 ../content-single.php:44 ../content.php:40
+#: ../content.php:50
+msgid ", "
+msgstr ", "
+
+#: ../content-single.php:54 ../content.php:60
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: ../content-single.php:54 ../content.php:60
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: ../content-single.php:54 ../content.php:60
+msgid "% Comments"
+msgstr "% reacties"
+
+#: ../content.php:26
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../footer.php:19
+msgid "Proudly  powered by "
+msgstr "Met trots ondersteund door %s"
+
+#: ../footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../footer.php:22
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s door %2$s."
+
+#: ../front-page.php:34
+msgid "Read more"
+msgstr "Lees verder"
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr "Hoofd menu"
+
+#: ../functions.php:71
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../header.php:38
+msgid "Skip to content"
+msgstr "Naar de inhoud springen"
+
+#: ../inc/custom-header.php:41
+msgid "Header Image One"
+msgstr "Hoogte van de hoofd afbeelding"
+
+#: ../inc/customizer.php:38
+msgid "Site Title"
+msgstr "Websitetitel"
+
+#: ../inc/customizer.php:69
+msgid "Primary Color"
+msgstr "Achtergrondkleur"
+
+#: ../inc/customizer.php:79
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: ../inc/customizer.php:98
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "Hier kun je je eigen CSS toevoegen en live de aanpassingen zien"
+
+#: ../inc/customizer.php:108
+msgid "Front Page Featured Section"
+msgstr "Featured pagina voor homepage"
+
+#: ../inc/customizer.php:136
+msgid "First featured page"
+msgstr "Eerste featured pagina"
+
+#: ../inc/customizer.php:144
+msgid "Second featured page"
+msgstr "Tweede featured hoofdpagina"
+
+#: ../inc/customizer.php:152
+msgid "Third featured page"
+msgstr "Derde featured pagina"
+
+#: ../inc/extras.php:82
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: ../inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Bericht navigatie"
+
+#: ../inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#: ../inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: ../inc/template-tags.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: ../inc/template-tags.php:62
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../inc/template-tags.php:84
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/template-tags.php:84
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#: ../inc/template-tags.php:99
+msgid "Post author"
+msgstr "Auteur"
+
+#: ../inc/template-tags.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: ../inc/template-tags.php:104
+#, php-format
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: ../inc/template-tags.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: ../inc/template-tags.php:115
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: ../searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: ../searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#: ../searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../sidebar.php:26
+msgid "Meta"
+msgstr "Meta"

@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MF Radiate 2014 v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-28 14:53:33+0000\n"
+"Last-Translator: Markus Frenzel <translator@markusfrenzel.de>\n"
+"Language-Team: Markus Frenzel <translator@markusfrenzel.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ radiate
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte nicht gefunden werden."
+
+#: 404.php:21
+#@ radiate
+msgid "It looks like nothing was found at this location. Try searching with some keywords."
+msgstr "Sieht so aus, als wenn hier nicht gefunden werden konnte. Versuchen Sie die Suche bitte mit anderen Begriffen."
+
+#: archive.php:33
+#, php-format
+#@ radiate
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: archive.php:41
+#, php-format
+#@ radiate
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: archive.php:44
+#, php-format
+#@ radiate
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: archive.php:47
+#, php-format
+#@ radiate
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: archive.php:50
+#@ radiate
+msgid "Asides"
+msgstr "Neben"
+
+#: archive.php:53
+#@ radiate
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:56
+#@ radiate
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:59
+#@ radiate
+msgid "Quotes"
+msgstr "Zitate"
+
+#: archive.php:62
+#@ radiate
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:65
+#: sidebar.php:19
+#@ radiate
+msgid "Archives"
+msgstr "Archive"
+
+#: comments.php:32
+#, php-format
+#@ radiate
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+#: comments.php:39
+#: comments.php:57
+#@ radiate
+msgid "Comment navigation"
+msgstr "Kommentar Navigation"
+
+#: comments.php:40
+#: comments.php:58
+#@ radiate
+msgid "&larr; Older Comments"
+msgstr "&larr; &Auml;ltere Kommentare"
+
+#: comments.php:41
+#: comments.php:59
+#@ radiate
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:69
+#@ radiate
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: content-none.php:15
+#@ radiate
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: content-none.php:21
+#, php-format
+#@ radiate
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereits Ihren ersten Beitrag zu ver&ouml;ffentlichen? <a href=\"%1$s\">Starten Sie hier</a>."
+
+#: content-none.php:25
+#@ radiate
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber nichts entsprach Ihren Suchbegriffen. Bitte versuchen Sie es erneut mit anderen Begriffen."
+
+#: content-none.php:30
+#@ radiate
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als wenn wir das von Ihnen gew&uuml;nschte nicht finden k&ouml;nnen. Vielleicht hilft Ihnen die Suche?"
+
+#: content-page.php:20
+#: content-single.php:24
+#: content.php:29
+#@ radiate
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-page.php:25
+#: content-single.php:57
+#: content.php:63
+#@ radiate
+msgid "Edit"
+msgstr "Editieren"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34
+#: content-single.php:44
+#: content.php:40
+#: content.php:50
+#@ radiate
+msgid ", "
+msgstr ", "
+
+#: content-single.php:54
+#: content.php:60
+#@ radiate
+msgid "Leave a comment"
+msgstr "Hinterlassen Sie einen Kommentar"
+
+#: content-single.php:54
+#: content.php:60
+#@ radiate
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: content-single.php:54
+#: content.php:60
+#@ radiate
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: content.php:26
+#@ radiate
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:19
+#@ radiate
+msgid "Proudly  powered by "
+msgstr "Stolz pr&auml;sentiert von "
+
+#: footer.php:20
+#@ radiate
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:22
+#, php-format
+#@ radiate
+msgid "Theme: %1$s by %2$s."
+msgstr "Design: %1$s von %2$s."
+
+#: front-page.php:34
+#@ radiate
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: functions.php:48
+#@ radiate
+msgid "Primary Menu"
+msgstr "Prim&auml;res Men&uuml;"
+
+#: functions.php:71
+#@ radiate
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: header.php:41
+#@ radiate
+msgid "Skip to content"
+msgstr "Weiter zum Inhalt"
+
+#: inc/custom-header.php:41
+#@ radiate
+msgid "Header Image One"
+msgstr "Kopfbild 1"
+
+#: inc/customizer.php:38
+#@ radiate
+msgid "Site Title"
+msgstr "Seitentitel"
+
+#: inc/customizer.php:69
+#@ radiate
+msgid "Primary Color"
+msgstr "Prim&auml;re Farbe"
+
+#: inc/customizer.php:79
+#@ radiate
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: inc/customizer.php:98
+#@ radiate
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "F&uuml;gen Sie Ihr benutzerdefiniertes CSS hier hinzu und designen Sie live! (f&uuml;r fortgeschrittene Benutzer)"
+
+#: inc/customizer.php:108
+#@ radiate
+msgid "Front Page Featured Section"
+msgstr "Startseite Hervorgehobene Sektion"
+
+#: inc/customizer.php:136
+#@ radiate
+msgid "First featured page"
+msgstr "Erste hervorgehobene Seite"
+
+#: inc/customizer.php:144
+#@ radiate
+msgid "Second featured page"
+msgstr "Zweite hervorgehobene Seite"
+
+#: inc/customizer.php:152
+#@ radiate
+msgid "Third featured page"
+msgstr "Dritte hervorgehobene Seite"
+
+#: inc/extras.php:82
+#, php-format
+#@ radiate
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: inc/template-tags.php:25
+#@ radiate
+msgid "Posts navigation"
+msgstr "Beitr&auml;ge Navigation"
+
+#: inc/template-tags.php:29
+#@ radiate
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> &Auml;ltere Beitr&auml;ge"
+
+#: inc/template-tags.php:33
+#@ radiate
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neue Beitr&auml;ge <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:58
+#@ radiate
+msgid "Post navigation"
+msgstr "Beitrags Navigation"
+
+#: inc/template-tags.php:61
+#, php-format
+#@ radiate
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:62
+#, php-format
+#@ radiate
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:84
+#@ radiate
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:84
+#@ radiate
+msgid "(Edit)"
+msgstr "(Editieren)"
+
+#: inc/template-tags.php:99
+#@ radiate
+msgid "Post author"
+msgstr "Beitrags Autor"
+
+#: inc/template-tags.php:102
+#, php-format
+#@ radiate
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: inc/template-tags.php:104
+#, php-format
+#@ radiate
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: inc/template-tags.php:110
+#@ radiate
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wird von einem Moderator gepr&uuml;ft."
+
+#: inc/template-tags.php:115
+#@ radiate
+msgid "Reply"
+msgstr "Antwort"
+
+#: search.php:18
+#, php-format
+#@ radiate
+msgid "Search Results for: %s"
+msgstr "Such Ergebnisse f&uuml;r: %s"
+
+#: searchform.php:12
+#@ radiate
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: searchform.php:13
+#@ radiate
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"
+
+#: searchform.php:15
+#@ radiate
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#: sidebar.php:26
+#@ radiate
+msgid "Meta"
+msgstr "Meta"
+

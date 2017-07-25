@@ -1,0 +1,12 @@
+<wpml-config>
+  <admin-texts>
+    <key name="basic_theme_options_basic">
+      <key name="title_before_socshare"/>
+      <key name="before_content"/>
+      <key name="after_content"/>
+      <key name="footer_scripts"/>
+      <key name="copyright_text"/>
+      <key name="footer_counters"/>
+    </key>
+  </admin-texts>
+</wpml-config>

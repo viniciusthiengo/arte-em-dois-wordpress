@@ -1,0 +1,61 @@
+@import "../../../base/less/mixins";
+
+@keyFeatureTextAlignment: '';
+@keyFeatureTitleColor: '';
+@keyFeatureTitleHoverColor: '';
+@keyFeatureDescriptionColor: '';
+@keyFeatureDescriptionHoverColor: '';
+@keyFeatureBackgroundColor: '';
+@keyFeatureBackgroundHoverColor: '';
+@keyFeatureIconColor: '';
+@keyFeatureIconHoverColor: '';
+@keyFeatureIconAlignment: '';
+@keyFeatureTitleFontSize: '';
+@keyFeatureDescriptionFontSize: '';
+@keyFeatureBorderWidth: 0;
+@keyFeatureBorderRadius: 0;
+@keyFeatureBorderColor: '';
+@keyFeatureDescriptionFontFamily: '';
+@keyFeatureTitleFontFamily: '';
+@keyFeatureDescriptionMargin: 5px;
+@keyFeatureTitleMargin: 10px;
+@keyFeatureHorizontalSpace : 0px;
+@keyFeatureVerticalSpace: 0px;
+@keyFeatureButtonColor: '';
+
+/*knowledge*/
+
+.provide-info span{
+	display:block;
+	text-align: @keyFeatureIconAlignment;
+}
+.provide-info {
+    text-align: @keyFeatureTextAlignment;
+    padding-top: @keyFeatureHorizontalSpace;
+    padding-bottom: @keyFeatureHorizontalSpace;
+    padding-left: @keyFeatureVerticalSpace;
+    padding-right: @keyFeatureVerticalSpace;
+}
+.provide-info .keyFeatureTitle{
+	font-family: @keyFeatureTitleFontFamily;
+    color: @keyFeatureTitleColor;
+    font-size: @keyFeatureTitleFontSize;
+    padding: @keyFeatureTitleMargin 0;
+}
+.provide-info .keyFeatureDescription{
+	font-family: @keyFeatureDescriptionFontFamily;
+    color: @keyFeatureDescriptionColor;
+    font-size: @keyFeatureDescriptionFontSize;
+    padding: @keyFeatureDescriptionMargin 0;
+}
+.provide-info{
+	border-width: @keyFeatureBorderWidth;
+	border-style: solid;
+	border-radius: @keyFeatureBorderRadius;
+	border-color: @keyFeatureBorderColor;
+    background: @keyFeatureBackgroundColor;
+}
+
+.btn-light:hover, a:hover{
+    color: @keyFeatureButtonColor;
+}

@@ -1,0 +1,836 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dazzling Theme\n"
+"POT-Creation-Date: 2016-03-18 11:18+0200\n"
+"PO-Revision-Date: 2016-03-18 11:18+0200\n"
+"Last-Translator: Aigars Silkalns <a.silkalns@gmail.com>\n"
+"Language-Team: colorlib <info@colorlib.com>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;_n;_n:1,2;esc_attr__;esc_attr_x;"
+"_nx:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppá! Az oldal sajnos nem található."
+
+#: ../404.php:18
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Úgy tűnik, semmi sem található ezen a címen. Próbálja meg a lenti linkek "
+"egyikét, vagy a keresés funkciót."
+
+#: ../404.php:26
+msgid "Most Used Categories"
+msgstr "Legyakrabban használt kategóriák"
+
+#: ../404.php:43
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Keresse a havi archívumban. %1$s"
+
+#: ../archive.php:26
+#, php-format
+msgid "Author: %s"
+msgstr "Szerző: %s"
+
+#: ../archive.php:29
+#, php-format
+msgid "Day: %s"
+msgstr "Nap:  %s"
+
+#: ../archive.php:32
+#, php-format
+msgid "Month: %s"
+msgstr "Hónap:  %s"
+
+#: ../archive.php:35
+#, php-format
+msgid "Year: %s"
+msgstr "Év:  %s"
+
+#: ../archive.php:38
+msgid "Asides"
+msgstr "Mellett"
+
+#: ../archive.php:41
+msgid "Galleries"
+msgstr "Galériák"
+
+#: ../archive.php:44
+msgid "Images"
+msgstr "Képek"
+
+#: ../archive.php:47
+msgid "Videos"
+msgstr "Videók"
+
+#: ../archive.php:50
+msgid "Quotes"
+msgstr "Idézetek"
+
+#: ../archive.php:53
+msgid "Links"
+msgstr "Linkek"
+
+#: ../archive.php:56
+msgid "Statuses"
+msgstr "Állapot"
+
+#: ../archive.php:59
+msgid "Audios"
+msgstr "Audio"
+
+#: ../archive.php:62
+msgid "Chats"
+msgstr "Chats"
+
+#: ../archive.php:65 ../sidebar.php:17
+msgid "Archives"
+msgstr "Archívum"
+
+#: ../comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Az alábbi hozzászólás érkezett: &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s hozzászólás érkezett az alábbi témában: &ldquo;%2$s&rdquo;"
+
+#: ../comments.php:35 ../comments.php:59
+msgid "Comment navigation"
+msgstr "Hozzászólások"
+
+#: ../comments.php:36 ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Régebbi hozzászólások"
+
+#: ../comments.php:37 ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "&larr; Újabb hozzászólások"
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr "Nem kommentelhető."
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr "Nincs találat"
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Készen áll első bejegyzésének közzétételére? <a href=\"%1$s\">Get started "
+"here</a>."
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sajnos nincs találat a keresett kifejezésre. Kérjük próbálja meg ismét egy "
+"másik kifejezéssel."
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Sajnos nem található a keresett elem. Talán a keresés segíthet."
+
+#: ../content-page.php:18 ../content-single.php:23 ../content.php:61
+#: ../image.php:81
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: ../content-page.php:29 ../content-single.php:67 ../content.php:30
+#: ../inc/template-tags.php:81 ../inc/template-tags.php:100
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ../content-single.php:36 ../content-single.php:39 ../content.php:21
+msgid ", "
+msgstr ", "
+
+#: ../content-single.php:44 ../content-single.php:46 ../content-single.php:52
+#: ../content-single.php:54
+msgid "permalink"
+msgstr ""
+
+#: ../content.php:15
+msgid "Leave a comment"
+msgstr "Hosszászólás beküldése"
+
+#: ../content.php:15
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: ../content.php:15
+msgid "% Comments"
+msgstr "% hozzászólás"
+
+#: ../content.php:25
+#, php-format
+msgid " %1$s"
+msgstr " %1$s"
+
+#: ../content.php:39 ../content.php:54
+msgid "Continue reading"
+msgstr "Tovább olvasom"
+
+#: ../functions.php:59
+msgid "Primary Menu"
+msgstr "Elsődleges menu"
+
+#: ../functions.php:60 ../inc/extras.php:152
+msgid "Footer Links"
+msgstr "Footer link"
+
+#: ../functions.php:88
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: ../functions.php:97
+msgid "Homepage Widget 1"
+msgstr "Főoldal Widget 1"
+
+#: ../functions.php:98 ../functions.php:108 ../functions.php:118
+msgid "Displays on the Home Page"
+msgstr "Megjeleníti a főoldalon"
+
+#: ../functions.php:107
+msgid "Homepage Widget 2"
+msgstr "Főoldal Widget 2"
+
+#: ../functions.php:117
+msgid "Homepage Widget 3"
+msgstr "Főoldal Widget 3"
+
+#: ../functions.php:127
+msgid "Footer Widget 1"
+msgstr "Footer Widget 1"
+
+#: ../functions.php:128 ../functions.php:138 ../functions.php:148
+msgid "Used for footer widget area"
+msgstr "Footer widgetben használt"
+
+#: ../functions.php:137
+msgid "Footer Widget 2"
+msgstr "Footer Widget 2"
+
+#: ../functions.php:147
+msgid "Footer Widget 3"
+msgstr "Footer Widget 3"
+
+#: ../header.php:29
+#, fuzzy
+msgid "Toggle navigation"
+msgstr "Bejegyzés navigáció"
+
+#: ../image.php:24
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Előző"
+
+#: ../image.php:25
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Következő<i class=\"fa fa-chevron-right\"></i>"
+
+#: ../inc/customizer.php:38
+#, fuzzy
+msgid "Dazzling Options"
+msgstr "Dazzling dokumentáció"
+
+#: ../inc/customizer.php:39
+msgid "Panel to update dazzling theme options"
+msgstr ""
+
+#: ../inc/customizer.php:45
+#, fuzzy
+msgid "Slider options"
+msgstr "Vetítési opciók"
+
+#: ../inc/customizer.php:70
+msgid "Slider Category"
+msgstr "Slider kategória"
+
+#: ../inc/customizer.php:73
+msgid "Select a category for the featured post slider"
+msgstr "Válassz kategóriát a kiemelt bejegyzés sliderhez"
+
+#: ../inc/customizer.php:83
+msgid "Number of slide items"
+msgstr "Képek száma"
+
+#: ../inc/customizer.php:85
+msgid "Enter the number of slide items"
+msgstr "Írja b e a sliderek számát"
+
+#: ../inc/customizer.php:90
+#, fuzzy
+msgid "Layout options"
+msgstr "Elrendezés-beállítások"
+
+#: ../inc/customizer.php:102
+msgid "Website Layout Options"
+msgstr "Weboldal Layout Options"
+
+#: ../inc/customizer.php:105
+#, fuzzy
+msgid "Choose between different layout options to be used as default"
+msgstr ""
+"Válassza ki, hogy jobb vagy bal oldalsávos megjelenést szeretne "
+"alapértelmezetként"
+
+#: ../inc/customizer.php:115
+#, fuzzy
+msgid "Element Color"
+msgstr "Elem színe"
+
+#: ../inc/customizer.php:116 ../inc/customizer.php:128
+#: ../inc/customizer.php:182 ../inc/customizer.php:192
+#: ../inc/customizer.php:202 ../inc/customizer.php:212
+#: ../inc/customizer.php:284 ../inc/customizer.php:294
+#: ../inc/customizer.php:311 ../inc/customizer.php:418
+#: ../inc/customizer.php:429
+msgid "Default used if no color is selected"
+msgstr "Alapértelmezett szín, amennyiben üresen hagyja"
+
+#: ../inc/customizer.php:127
+msgid "Element color on hover"
+msgstr "Elem színe aktív állapotban"
+
+#: ../inc/customizer.php:135
+msgid "Action Button"
+msgstr "Akció Gomb"
+
+#: ../inc/customizer.php:145
+msgid "Call For Action Text"
+msgstr "Akció felhívás szövege"
+
+#: ../inc/customizer.php:146
+msgid "Enter the text for call for action section"
+msgstr "Gépelje be a kívánt szöveget"
+
+#: ../inc/customizer.php:157
+msgid "Call For Action Button Title"
+msgstr "Action gomb címe"
+
+#: ../inc/customizer.php:159
+msgid "Enter the title for Call For Action button"
+msgstr "Gépelje be az Action gomb címét"
+
+#: ../inc/customizer.php:169
+msgid "CFA button link"
+msgstr "CFA gomblink"
+
+#: ../inc/customizer.php:171
+msgid "Enter the link for Call For Action button"
+msgstr "Adja meg a Call for Action linket"
+
+#: ../inc/customizer.php:181
+msgid "Call For Action Text Color"
+msgstr "Call For Action szövegszín"
+
+#: ../inc/customizer.php:191
+msgid "Call For Action Background Color"
+msgstr "Call For Action háttérszín"
+
+#: ../inc/customizer.php:201
+msgid "Call For Action Button Border Color"
+msgstr "Call For Action gombkeret szín"
+
+#: ../inc/customizer.php:211
+msgid "Call For Action Button Text Color"
+msgstr "Call For Action Gomb szövegszín"
+
+#: ../inc/customizer.php:218
+msgid "Typography"
+msgstr "Betűkészlet"
+
+#: ../inc/customizer.php:232
+msgid "Main Body Text"
+msgstr "Főoldal szöveg"
+
+#: ../inc/customizer.php:233
+#, fuzzy
+msgid "Used in p tags"
+msgstr "P tags használva"
+
+#: ../inc/customizer.php:273
+msgid "Heading Color"
+msgstr "Főcím színe"
+
+#: ../inc/customizer.php:274
+msgid "Color for all headings (h1-h6)"
+msgstr "Minden Heading színe (h1-h6)"
+
+#: ../inc/customizer.php:283
+msgid "Link Color"
+msgstr "Link színe"
+
+#: ../inc/customizer.php:293
+msgid "Link:hover Color"
+msgstr "Link:hover színe"
+
+#: ../inc/customizer.php:300
+msgid "Header"
+msgstr "Felső menüsor"
+
+#: ../inc/customizer.php:310
+msgid "Top nav background color"
+msgstr "Top nav háttérszíne"
+
+#: ../inc/customizer.php:320
+msgid "Top nav item color"
+msgstr "Top nav elem színe"
+
+#: ../inc/customizer.php:321
+msgid "Link color"
+msgstr "Link színe"
+
+#: ../inc/customizer.php:331
+msgid "Top nav dropdown background color"
+msgstr "Top nav legördülő elem háttérszín"
+
+#: ../inc/customizer.php:332
+msgid "Background of dropdown item hover color"
+msgstr "Legördülő elem aktív állapotban látható háttérszíne"
+
+#: ../inc/customizer.php:342
+msgid "Top nav dropdown item color"
+msgstr "Top nav legördülő elem színe"
+
+#: ../inc/customizer.php:343
+msgid "Dropdown item color"
+msgstr "Legördülő elem színe"
+
+#: ../inc/customizer.php:349
+msgid "Footer"
+msgstr "Footer"
+
+#: ../inc/customizer.php:359
+#, fuzzy
+msgid "Footer widget area background color"
+msgstr "Footer Widget Area háttérszín"
+
+#: ../inc/customizer.php:369
+#, fuzzy
+msgid "Footer background color"
+msgstr "Footer háttérszín"
+
+#: ../inc/customizer.php:379
+#, fuzzy
+msgid "Footer text color"
+msgstr "Footer szövegszín"
+
+#: ../inc/customizer.php:389
+#, fuzzy
+msgid "Footer link color"
+msgstr "Footer Link színe"
+
+#: ../inc/customizer.php:399
+msgid "Footer information"
+msgstr "Footer információ"
+
+#: ../inc/customizer.php:400
+msgid "Copyright text in footer"
+msgstr "Copyright szövege a footerben"
+
+#: ../inc/customizer.php:407
+msgid "Social"
+msgstr "Social"
+
+#: ../inc/customizer.php:417
+#, fuzzy
+msgid "Social icon color"
+msgstr "Social Icon Color"
+
+#: ../inc/customizer.php:428
+msgid "Social Icon:hover Color"
+msgstr "Social Icon:hover Color"
+
+#: ../inc/customizer.php:439
+#, fuzzy
+msgid "Footer Social Icons"
+msgstr "Footer link"
+
+#: ../inc/customizer.php:440
+msgid "Check to show social icons in footer"
+msgstr ""
+
+#: ../inc/customizer.php:447
+msgid "Other"
+msgstr "Egyéb"
+
+#: ../inc/customizer.php:457
+msgid "Custom CSS"
+msgstr "Egyedi CSS"
+
+#: ../inc/customizer.php:458
+msgid "Additional CSS"
+msgstr "További CSS"
+
+#: ../inc/customizer.php:465
+msgid "Support and Documentation"
+msgstr "Támogatás és dokumentáció"
+
+#: ../inc/customizer.php:634
+#, fuzzy
+msgid ""
+"The best way to contact us with <b>support questions</b> and <b>bug reports</"
+"b> is via"
+msgstr "Kérdések és bug jelentésével kapcsolatosan lépjen kapcsolatba velünk:"
+
+#: ../inc/customizer.php:637
+msgid "Rate this Theme"
+msgstr "Értékelje ezt a sablont"
+
+#: ../inc/extras.php:71
+#, fuzzy
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+"<p>Ez a bejegyzés jelszóval védett. Elolvasásához kérjük írja be a jelszót:</"
+"p>"
+
+#: ../inc/extras.php:72
+msgid "Password:"
+msgstr "Jelszó:"
+
+#: ../inc/extras.php:75
+msgid "Submit"
+msgstr "Elküld"
+
+#: ../inc/extras.php:266
+#, php-format
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Theme by %1$s Powered by %2$s"
+
+#: ../inc/metaboxes.php:16
+#, fuzzy
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+"Válassz egy kinézetet csak ehhez az egy Oldalhol (Megjegyzés: Ez a beállítás "
+"csak akkor működik, ha az oldal sablon vagy Alap Sablon, vagy Blog-típusú "
+"Sablon.)"
+
+#: ../inc/metaboxes.php:21
+#, fuzzy
+msgid "Select layout for this specific Post only"
+msgstr "Válassz egy kinézetet csak ehhez az egy Bejegyzéshez "
+
+#: ../inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Bejegyzés navigáció"
+
+#: ../inc/template-tags.php:27
+msgid "<i class=\"fa fa-chevron-left\"></i> Older posts"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Régebbi bejegyzések"
+
+#: ../inc/template-tags.php:31
+msgid "Newer posts <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Újabb bejegyzések<i class=\"fa fa-chevron-right\"></i>"
+
+#: ../inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Bejegyzés navigáció"
+
+#: ../inc/template-tags.php:81
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../inc/template-tags.php:91
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">válasza:</span>"
+
+#: ../inc/template-tags.php:104
+msgid "Your comment is awaiting moderation."
+msgstr "Hozzászólásod moderálásra vár."
+
+#: ../inc/widgets/widget-popular-posts.php:13
+msgid "Displays tabbed list of popular posts, recent posts & comments"
+msgstr ""
+"Tabulátor lista nézetben jeleníti meg a népszerű, legutóbbi  bejegyzéseket "
+"és hozzászólásokat."
+
+#: ../inc/widgets/widget-popular-posts.php:19
+msgid "Dazzling Popular Posts Widget"
+msgstr "Dazzling népszerű bejegyzés widget"
+
+#: ../inc/widgets/widget-popular-posts.php:37
+msgid "Popular"
+msgstr "Népszerű"
+
+#: ../inc/widgets/widget-popular-posts.php:38
+msgid "Recent"
+msgstr "Mostanában"
+
+#: ../inc/widgets/widget-popular-posts.php:115
+msgid "Anonymous"
+msgstr "Anonymous"
+
+#: ../inc/widgets/widget-popular-posts.php:115
+msgid "on"
+msgstr "on"
+
+#: ../inc/widgets/widget-popular-posts.php:156
+msgid "Number of posts to show"
+msgstr "Megjelenített bejegyzések száma"
+
+#: ../inc/woo-setup.php:96
+msgid "View your shopping cart"
+msgstr "Kosár megtekintése"
+
+#: ../inc/woo-setup.php:97
+msgid "Start shopping"
+msgstr "Vásárlás megkezdése"
+
+#: ../inc/woo-setup.php:101
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d termék"
+msgstr[1] "%d termékek"
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Eredmények az alábbi keresésre: %s"
+
+#: ../searchform.php:12
+msgid "Search..."
+msgstr "Keresés..."
+
+#: ../sidebar.php:24
+msgid "Meta"
+msgstr "Meta"
+
+#~ msgid "Theme Options"
+#~ msgstr "Téma beállítás"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "Alaphelyzet visszaállítás"
+
+#~ msgid "Click OK to reset. Any theme settings will be lost!"
+#~ msgstr "Az OK-ra kattintva minden korábbi sablonbeállítás elveszlik."
+
+#~ msgid "Default options restored."
+#~ msgstr "Alapbeállítások eltárolva."
+
+#~ msgid "Options saved."
+#~ msgstr "Beállítások mentve."
+
+#~ msgid "No file chosen"
+#~ msgstr "Nincs fájl kiválasztva."
+
+#~ msgid "Upload"
+#~ msgstr "Feltöltés"
+
+#~ msgid "Remove"
+#~ msgstr "Eltávolít."
+
+#~ msgid "Upgrade your version of WordPress for full media support."
+#~ msgstr "Frissítse WordPress verzióját a teljeskörű média támogatásért."
+
+#~ msgid "View File"
+#~ msgstr "File megtekintése"
+
+#~ msgid "No Repeat"
+#~ msgstr "Nem ismételhető"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "Ismételje függőlegesen"
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "Ismételje visszintesen"
+
+#~ msgid "Repeat All"
+#~ msgstr "Összes ismétlése"
+
+#~ msgid "Top Left"
+#~ msgstr "Bal felső"
+
+#~ msgid "Top Center"
+#~ msgstr "Felső középen"
+
+#~ msgid "Top Right"
+#~ msgstr "Jobb felső"
+
+#~ msgid "Middle Left"
+#~ msgstr "Middle left"
+
+#~ msgid "Middle Center"
+#~ msgstr "Middle Center"
+
+#~ msgid "Middle Right"
+#~ msgstr "Middle Right"
+
+#~ msgid "Bottom Left"
+#~ msgstr "Bottom Left"
+
+#~ msgid "Bottom Center"
+#~ msgstr "Bottom Center"
+
+#~ msgid "Bottom Right"
+#~ msgstr "Bottom Right"
+
+#~ msgid "Scroll Normally"
+#~ msgstr "Normál görgetés"
+
+#~ msgid "Fixed in Place"
+#~ msgstr "Helyhez kötött"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Italic"
+#~ msgstr "Dőlt"
+
+#~ msgid "Bold"
+#~ msgstr "Vastagított"
+
+#~ msgid "Bold Italic"
+#~ msgstr "Vastagított, dőlt"
+
+#~ msgid "Page %s"
+#~ msgstr "Oldal %s"
+
+#~ msgid "Follow us on "
+#~ msgstr "Kövess minket"
+
+#~ msgid "Colorlib support forum"
+#~ msgstr "Colorlib support fórum"
+
+#~ msgid "If you like this theme, I'd appreciate any of the following:"
+#~ msgstr ""
+#~ "Amennyiben tetszett a sablon, köszönettel veszem az alábbiak valamelyikét:"
+
+#~ msgid "Like on Facebook"
+#~ msgstr "Like on Facebook"
+
+#~ msgid "Follow on Twitter"
+#~ msgstr "Kövess a Twitteren"
+
+#~ msgid "Right Sidebar"
+#~ msgstr "Jobb oldalsáv"
+
+#~ msgid "Left Sidebar"
+#~ msgstr "Bal oldalsáv"
+
+#~ msgid "One"
+#~ msgstr "egy"
+
+#~ msgid "Two"
+#~ msgstr "kettő"
+
+#~ msgid "Three"
+#~ msgstr "három"
+
+#~ msgid "Four"
+#~ msgstr "négy"
+
+#~ msgid "Five"
+#~ msgstr "öt"
+
+#~ msgid "French Toast"
+#~ msgstr "French Toast"
+
+#~ msgid "Pancake"
+#~ msgstr "Pancake"
+
+#~ msgid "Omelette"
+#~ msgstr "Omelette"
+
+#~ msgid "Crepe"
+#~ msgstr "Crepe"
+
+#~ msgid "Waffle"
+#~ msgstr "Waffle"
+
+#~ msgid "Main"
+#~ msgstr "Main"
+
+#~ msgid "Do You want to display image slider on the Home Page?"
+#~ msgstr "Szeretné az image slidert a főoldalon megjeleníteni?"
+
+#~ msgid "Check if you want to enable slider"
+#~ msgstr "Jelölje be, ha szeretné a slidert inaktíválni"
+
+#~ msgid "Custom Favicon"
+#~ msgstr "Custom Favicon"
+
+#~ msgid ""
+#~ "Upload a 32px x 32px PNG/GIF image that will represent your websites "
+#~ "favicon"
+#~ msgstr ""
+#~ "Favicon feltöltéséhez  a kép mérete 32px x 32px, formátuma PNG/GIF legyen."
+
+#~ msgid "Link:active Color"
+#~ msgstr "Link:active színe"
+
+#~ msgid "Default used if no color is selected."
+#~ msgstr "Alapértelmezett, amennyiben nem választ színt."
+
+#~ msgid "All rights reserved."
+#~ msgstr "Minden jog fenntartva."
+
+#~ msgid "Add full URL for your social network profiles"
+#~ msgstr "Adja meg közösségi profiljának URL-jét"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "RSS Feed"
+#~ msgstr "RSS Feed"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "Slideshare"
+#~ msgstr "Slideshar"
+
+#~ msgid "VK.com"
+#~ msgstr "VK.com"

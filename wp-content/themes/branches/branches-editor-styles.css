@@ -1,0 +1,112 @@
+/*---------------------------------------------------------------------------------
+
+	Editor styles for Branches
+
+---------------------------------------------------------------------------------*/
+
+
+body#tinymce.wp-editor { 
+	font-family: 'Noto Serif', serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1f1f1f;
+}
+
+body#tinymce.wp-editor { 
+	width: 842px; 
+	max-width: 100%;
+}
+
+body#tinymce.wp-editor * { 
+	box-sizing: border-box; 
+	-moz-box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+}
+
+body#tinymce.wp-editor a { color: #ca2017; }
+body#tinymce.wp-editor a:hover { text-decoration: underline; }
+
+body#tinymce.wp-editor p,
+body#tinymce.wp-editor blockquote,
+body#tinymce.wp-editor ul,
+body#tinymce.wp-editor ol,
+body#tinymce.wp-editor address,
+body#tinymce.wp-editor dl,
+body#tinymce.wp-editor pre {
+	line-height: 24px;
+	margin-bottom: 1.5em;
+}
+
+body#tinymce.wp-editor *:last-child { margin-bottom: 0; }
+
+body#tinymce.wp-editor h1, body#tinymce.wp-editor h2, body#tinymce.wp-editor h3, body#tinymce.wp-editor h4, body#tinymce.wp-editor h5, body#tinymce.wp-editor h6 {
+	font-family: 'Noto Serif', serif;
+}
+
+
+body#tinymce.wp-editor h1 {
+	text-align: center;
+	font-size: 2.857em;
+	line-height: 3.285em;
+	font-weight: 800;
+	margin: 1em auto 1em auto;
+	max-width: 420px;
+	display: block;
+}
+
+body#tinymce.wp-editor h2 {
+	text-align: center;
+	font-size: 2.457em;
+	line-height: 2.885em;
+	color: $colorBlack;
+	font-weight: 800;
+	margin: 1em auto;
+	max-width: 420px;
+	display: block;
+}
+
+body#tinymce.wp-editor h3 {
+	text-align: center;
+	font-size: 2.057em;
+	line-height: 2.485em;
+	color: $colorBlack;
+	font-weight: 800;
+	margin: 1em auto;
+	max-width: 420px;
+	display: block;
+}
+
+body#tinymce.wp-editor h4 {
+	text-align: center;
+	font-size: 1.657em;
+	line-height: 2.085em;
+	color: $colorBlack;
+	font-weight: 800;
+	margin: 1em auto;
+	max-width: 420px;
+	display: block;
+}
+
+body#tinymce.wp-editor h5 {
+	text-align: center;
+	font-size: 1.257em;
+	line-height: 1.685em;
+	color: $colorBlack;
+	font-weight: 800;
+	margin: 1em auto;
+	max-width: 420px;
+	display: block;
+}
+
+
+body#tinymce.wp-editor h6 {
+	text-align: center;
+	font-size: 1em;
+	line-height: 1.4em;
+	color: $colorBlack;
+	font-weight: 800;
+	margin: 1em auto;
+	max-width: 420px;
+	display: block;
+}
+		

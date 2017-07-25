@@ -1,0 +1,40 @@
+@import "../../../base/less/mixins";
+
+@buttonWidth: '';
+@borderColor: '';
+@borderWidth: '';
+@hoverColor: #5461CF;
+@hasButtonWidth: false;
+@buttonColor: #000000;
+@textColor: #FFFFFF;
+@paddingLeft: 40px;
+@paddingBottom: 15px;
+@paddingRight: 40px;
+@paddingTop: 15px;
+@fontSize: 16px;
+@hasText: true;
+
+.button-hover {
+    color: @textColor;
+    width: @buttonWidth;
+}
+.button-hover {
+    box-shadow: inset 0 0 0 1px @hoverColor;
+}
+.button-hover {
+    padding-left: @paddingLeft;
+    padding-bottom: @paddingBottom;
+    padding-right: @paddingRight;
+    padding-top: @paddingTop;
+}
+.button-hover:hover:before,
+.button-hover:focus:before,
+.button-hover:active:before {
+    background: @buttonColor;
+    box-shadow: inset 10px 0 0 0px @hoverColor;
+}
+.button-hover:hover,
+.button-hover:active,
+.button-hover:focus{
+	color: #ffffff;
+}
